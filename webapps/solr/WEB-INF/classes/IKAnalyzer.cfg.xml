@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">  
+<properties>  
+	<comment>IK Analyzer 扩展配置</comment>
+	<!--用户可以在这里配置自己的扩展字典
+	<entry key="ext_dict">/mydict.dic; /mypack/mydict2.dic ; /com/mycompany/dic/mydict3.dic ;</entry> 
+	 --> 
+	 <!--用户可以在这里配置自己的扩展停止词字典
+	<entry key="ext_stopwords">/ext_stopword.dic</entry> 
+	-->
+	<entry key="ext_dict">/dic/t-base.dic ; /dic/administrative.dic; /dic/appellation.dic ; /dic/company.dic ; /dic/comupter-science.dic ; /dic/contemporary-words.dic ; /dic/festival.dic ; /dic/language.dic ; /dic/name-foreign.dic ; /dic/nation.dic ; /dic/org-domestic.dic ; /dic/org-foreign.dic ; /dic/star-domestic.dic ; /dic/star-foreign.dic ; /dic/x-confucian-family-name.dic ; /dic/x-for-combinatorics.dic ; /dic/x-noise-charactor.dic ; /dic/x-noise-word.dic ; /dic/x-unit.dic ;</entry>
+	<entry key="ext_stopwords">/ext_stopword.dic</entry>
+</properties>

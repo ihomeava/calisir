@@ -1,0 +1,430 @@
+2012-05-15 00:01:33,161 INFO  org.dspace.app.webui.servlet.AbstractBrowserServlet @ anonymous:session_id=E7CF6B0C603E668D0F9D13F6B60CDEC1:ip_addr=220.181.94.232:browse:type=author,order=ASC,value=???????????? ??????510006,month=null,year=null,starts_with=H,vfocus=null,focus=-1,rpp=20,sort_by=1,community=n/a,collection=n/a,level=1,etal=-1
+2012-05-15 00:01:33,162 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=E7CF6B0C603E668D0F9D13F6B60CDEC1:ip_addr=220.181.94.232:browse_by_item:
+2012-05-15 00:01:43,703 INFO  org.dspace.app.webui.servlet.AbstractBrowserServlet @ anonymous:session_id=AA9B7A20C64B3DCA1CA68BDC9215B830:ip_addr=220.181.94.232:browse:type=author,order=ASC,value=???,month=null,year=null,starts_with=J,vfocus=null,focus=-1,rpp=20,sort_by=1,community=n/a,collection=n/a,level=1,etal=-1
+2012-05-15 00:01:43,703 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=AA9B7A20C64B3DCA1CA68BDC9215B830:ip_addr=220.181.94.232:browse_by_item:
+2012-05-15 00:01:53,887 INFO  org.dspace.app.webui.servlet.AbstractBrowserServlet @ anonymous:session_id=4C8082150CAF8013F6ECC0A151B54BD0:ip_addr=220.181.94.232:browse:type=author,order=ASC,value=????????????,month=null,year=null,starts_with=Y,vfocus=null,focus=-1,rpp=20,sort_by=1,community=n/a,collection=n/a,level=1,etal=-1
+2012-05-15 00:01:53,887 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=4C8082150CAF8013F6ECC0A151B54BD0:ip_addr=220.181.94.232:browse_by_item:
+2012-05-15 00:02:03,503 INFO  org.dspace.app.webui.servlet.AbstractBrowserServlet @ anonymous:session_id=2BF9A44A5AF2ED21EF2E25D6C2BBEC4A:ip_addr=220.181.94.232:browse:type=author,order=ASC,value=??????????????????????,month=null,year=null,starts_with=F,vfocus=null,focus=-1,rpp=20,sort_by=1,community=n/a,collection=n/a,level=1,etal=-1
+2012-05-15 00:02:03,503 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=2BF9A44A5AF2ED21EF2E25D6C2BBEC4A:ip_addr=220.181.94.232:browse_by_item:
+2012-05-15 00:02:13,367 INFO  org.dspace.app.webui.servlet.AbstractBrowserServlet @ anonymous:session_id=99EF8859BC9946D87AA83B465DAB9BC4:ip_addr=220.181.94.232:browse:type=author,order=ASC,value=???,month=null,year=null,starts_with=U,vfocus=null,focus=-1,rpp=20,sort_by=1,community=n/a,collection=n/a,level=1,etal=-1
+2012-05-15 00:02:13,367 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=99EF8859BC9946D87AA83B465DAB9BC4:ip_addr=220.181.94.232:browse_by_item:
+2012-05-15 00:02:23,335 INFO  org.dspace.app.webui.servlet.AbstractBrowserServlet @ anonymous:session_id=99C6F77D1A24145C3AAE69EB22C8AB2D:ip_addr=220.181.94.232:browse:type=author,order=ASC,value=????????????,month=null,year=null,starts_with=G,vfocus=null,focus=-1,rpp=20,sort_by=1,community=n/a,collection=n/a,level=1,etal=-1
+2012-05-15 00:02:23,335 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=99C6F77D1A24145C3AAE69EB22C8AB2D:ip_addr=220.181.94.232:browse_by_item:
+2012-05-15 00:02:33,349 INFO  org.dspace.app.webui.servlet.AbstractBrowserServlet @ anonymous:session_id=2E6DD885A5392100E05270FDF10AB13B:ip_addr=220.181.94.232:browse:type=author,order=ASC,value=???,month=null,year=null,starts_with=V,vfocus=null,focus=-1,rpp=20,sort_by=1,community=n/a,collection=n/a,level=1,etal=-1
+2012-05-15 00:02:33,349 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=2E6DD885A5392100E05270FDF10AB13B:ip_addr=220.181.94.232:browse_by_item:
+2012-05-15 00:02:43,362 INFO  org.dspace.app.webui.servlet.AbstractBrowserServlet @ anonymous:session_id=E752260F4C0C02F80F5760F0BA3A7B02:ip_addr=220.181.94.232:browse:type=author,order=ASC,value=???,month=null,year=null,starts_with=N,vfocus=null,focus=-1,rpp=20,sort_by=1,community=n/a,collection=n/a,level=1,etal=-1
+2012-05-15 00:02:43,362 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=E752260F4C0C02F80F5760F0BA3A7B02:ip_addr=220.181.94.232:browse_by_item:
+2012-05-15 00:24:21,782 INFO  org.dspace.app.webui.servlet.AbstractBrowserServlet @ anonymous:session_id=DEBDBA1F2815E6879EA3BBDEF29B42EB:ip_addr=220.181.94.232:browse:type=author,order=ASC,value=???,month=null,year=null,starts_with=R,vfocus=null,focus=-1,rpp=20,sort_by=1,community=n/a,collection=n/a,level=1,etal=-1
+2012-05-15 00:24:21,782 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=DEBDBA1F2815E6879EA3BBDEF29B42EB:ip_addr=220.181.94.232:browse_by_item:
+2012-05-15 00:24:31,350 INFO  org.dspace.app.webui.servlet.AbstractBrowserServlet @ anonymous:session_id=022C84535BAFF7199B1E8445D8552AC1:ip_addr=220.181.94.232:browse:type=author,order=ASC,value=???,month=null,year=null,starts_with=M,vfocus=null,focus=-1,rpp=20,sort_by=1,community=n/a,collection=n/a,level=1,etal=-1
+2012-05-15 00:24:31,350 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=022C84535BAFF7199B1E8445D8552AC1:ip_addr=220.181.94.232:browse_by_item:
+2012-05-15 00:24:41,349 INFO  org.dspace.app.webui.servlet.AbstractBrowserServlet @ anonymous:session_id=C1801E0597BD4285C1E2C4D4D72F29C9:ip_addr=220.181.94.232:browse:type=author,order=ASC,value=???????????? ??????510006,month=null,year=null,starts_with=B,vfocus=null,focus=-1,rpp=20,sort_by=1,community=n/a,collection=n/a,level=1,etal=-1
+2012-05-15 00:24:41,349 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=C1801E0597BD4285C1E2C4D4D72F29C9:ip_addr=220.181.94.232:browse_by_item:
+2012-05-15 00:24:51,345 INFO  org.dspace.app.webui.servlet.AbstractBrowserServlet @ anonymous:session_id=665A4AD72FB384D1FAC44DC6A6E3112B:ip_addr=220.181.94.232:browse:type=author,order=ASC,value=????????????,month=null,year=null,starts_with=F,vfocus=null,focus=-1,rpp=20,sort_by=1,community=n/a,collection=n/a,level=1,etal=-1
+2012-05-15 00:24:51,346 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=665A4AD72FB384D1FAC44DC6A6E3112B:ip_addr=220.181.94.232:browse_by_item:
+2012-05-15 00:25:01,324 INFO  org.dspace.app.webui.servlet.AbstractBrowserServlet @ anonymous:session_id=BF3B312DEA31E4CDFE71E9CB1D69051C:ip_addr=220.181.94.232:browse:type=author,order=ASC,value=???,month=null,year=null,starts_with=H,vfocus=null,focus=-1,rpp=20,sort_by=1,community=n/a,collection=n/a,level=1,etal=-1
+2012-05-15 00:25:01,324 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=BF3B312DEA31E4CDFE71E9CB1D69051C:ip_addr=220.181.94.232:browse_by_item:
+2012-05-15 00:25:11,327 INFO  org.dspace.app.webui.servlet.AbstractBrowserServlet @ anonymous:session_id=5E4C3A5E6DE22DEC8A7725ACF4FB2A5D:ip_addr=220.181.94.232:browse:type=author,order=ASC,value=??????????????????????,month=null,year=null,starts_with=X,vfocus=null,focus=-1,rpp=20,sort_by=1,community=n/a,collection=n/a,level=1,etal=-1
+2012-05-15 00:25:11,327 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=5E4C3A5E6DE22DEC8A7725ACF4FB2A5D:ip_addr=220.181.94.232:browse_by_item:
+2012-05-15 00:25:21,334 INFO  org.dspace.app.webui.servlet.AbstractBrowserServlet @ anonymous:session_id=42315CE58BD7E8494598408D3F547DB0:ip_addr=220.181.94.232:browse:type=author,order=ASC,value=??????????????????????,month=null,year=null,starts_with=B,vfocus=null,focus=-1,rpp=20,sort_by=1,community=n/a,collection=n/a,level=1,etal=-1
+2012-05-15 00:25:21,334 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=42315CE58BD7E8494598408D3F547DB0:ip_addr=220.181.94.232:browse_by_item:
+2012-05-15 00:52:42,771 INFO  org.dspace.app.webui.servlet.AbstractBrowserServlet @ anonymous:session_id=604F6AFBFB808CDE7F2A8AEE1E83F260:ip_addr=220.181.94.232:browse:type=author,order=ASC,value=??????,month=null,year=null,starts_with=U,vfocus=null,focus=-1,rpp=20,sort_by=1,community=n/a,collection=n/a,level=1,etal=-1
+2012-05-15 00:52:42,772 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=604F6AFBFB808CDE7F2A8AEE1E83F260:ip_addr=220.181.94.232:browse_by_item:
+2012-05-15 00:52:52,942 INFO  org.dspace.app.webui.servlet.AbstractBrowserServlet @ anonymous:session_id=AFE79B1E2561A2DD8220B51B84E0C637:ip_addr=220.181.94.232:browse:type=author,order=ASC,value=????????????,month=null,year=null,starts_with=X,vfocus=null,focus=-1,rpp=20,sort_by=1,community=n/a,collection=n/a,level=1,etal=-1
+2012-05-15 00:52:52,942 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=AFE79B1E2561A2DD8220B51B84E0C637:ip_addr=220.181.94.232:browse_by_item:
+2012-05-15 00:53:02,314 INFO  org.dspace.app.webui.servlet.AbstractBrowserServlet @ anonymous:session_id=602641C6EDBDC8CB001DE2DE42EAD6F8:ip_addr=220.181.94.232:browse:type=author,order=ASC,value=???????????????,month=null,year=null,starts_with=Q,vfocus=null,focus=-1,rpp=20,sort_by=1,community=n/a,collection=n/a,level=1,etal=-1
+2012-05-15 00:53:02,314 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=602641C6EDBDC8CB001DE2DE42EAD6F8:ip_addr=220.181.94.232:browse_by_item:
+2012-05-15 00:53:12,332 INFO  org.dspace.app.webui.servlet.AbstractBrowserServlet @ anonymous:session_id=979EE588F1BF5C0BD0522D69A753B066:ip_addr=220.181.94.232:browse:type=author,order=ASC,value=???????????????,month=null,year=null,starts_with=X,vfocus=null,focus=-1,rpp=20,sort_by=1,community=n/a,collection=n/a,level=1,etal=-1
+2012-05-15 00:53:12,332 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=979EE588F1BF5C0BD0522D69A753B066:ip_addr=220.181.94.232:browse_by_item:
+2012-05-15 00:53:22,300 INFO  org.dspace.app.webui.servlet.AbstractBrowserServlet @ anonymous:session_id=6D4141DA8BC572F808FFA189C8159396:ip_addr=220.181.94.232:browse:type=author,order=ASC,value=??????????????????????,month=null,year=null,starts_with=L,vfocus=null,focus=-1,rpp=20,sort_by=1,community=n/a,collection=n/a,level=1,etal=-1
+2012-05-15 00:53:22,300 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=6D4141DA8BC572F808FFA189C8159396:ip_addr=220.181.94.232:browse_by_item:
+2012-05-15 00:53:32,329 INFO  org.dspace.app.webui.servlet.AbstractBrowserServlet @ anonymous:session_id=F1454AD0A818D58EED098D8A8876925F:ip_addr=220.181.94.232:browse:type=author,order=ASC,value=???,month=null,year=null,starts_with=K,vfocus=null,focus=-1,rpp=20,sort_by=1,community=n/a,collection=n/a,level=1,etal=-1
+2012-05-15 00:53:32,330 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=F1454AD0A818D58EED098D8A8876925F:ip_addr=220.181.94.232:browse_by_item:
+2012-05-15 01:00:02,480 INFO  org.dspace.core.ConfigurationManager @ Loading from classloader: file:/usr/local/CALISIR/dspace/config/dspace.cfg
+2012-05-15 01:00:02,506 INFO  org.dspace.core.ConfigurationManager @ Using dspace provided log configuration (log.init.config)
+2012-05-15 01:00:02,506 INFO  org.dspace.core.ConfigurationManager @ Loading: /usr/local/CALISIR/dspace/config/log4j.properties
+2012-05-15 01:00:02,864 INFO  org.dspace.core.ConfigurationManager @ Loading from classloader: file:/usr/local/CALISIR/dspace/config/dspace.cfg
+2012-05-15 01:00:02,872 INFO  org.dspace.core.ConfigurationManager @ Using dspace provided log configuration (log.init.config)
+2012-05-15 01:00:02,872 INFO  org.dspace.core.ConfigurationManager @ Loading: /usr/local/CALISIR/dspace/config/log4j.properties
+2012-05-15 01:00:03,414 INFO  org.dspace.core.ConfigurationManager @ Loading from classloader: file:/usr/local/CALISIR/dspace/config/dspace.cfg
+2012-05-15 01:00:03,424 INFO  org.dspace.core.ConfigurationManager @ Using dspace provided log configuration (log.init.config)
+2012-05-15 01:00:03,424 INFO  org.dspace.core.ConfigurationManager @ Loading: /usr/local/CALISIR/dspace/config/log4j.properties
+2012-05-15 01:00:19,186 FATAL org.dspace.eperson.Subscribe @ java.util.MissingResourceException: Can't find bundle for base name Messages, locale en
+2012-05-15 01:16:37,572 INFO  org.dspace.app.webui.servlet.AbstractBrowserServlet @ anonymous:session_id=D80A44E72EEBD75D943C93CA18FC1DB9:ip_addr=220.181.94.232:browse:type=author,order=ASC,value=????????????????????????????,month=null,year=null,starts_with=D,vfocus=null,focus=-1,rpp=20,sort_by=1,community=n/a,collection=n/a,level=1,etal=-1
+2012-05-15 01:16:37,572 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=D80A44E72EEBD75D943C93CA18FC1DB9:ip_addr=220.181.94.232:browse_by_item:
+2012-05-15 01:16:47,609 INFO  org.dspace.app.webui.servlet.AbstractBrowserServlet @ anonymous:session_id=74B0D66B513980ABFCE8D02087DFAD5F:ip_addr=220.181.94.232:browse:type=author,order=ASC,value=????????????????????,month=null,year=null,starts_with=D,vfocus=null,focus=-1,rpp=20,sort_by=1,community=n/a,collection=n/a,level=1,etal=-1
+2012-05-15 01:16:47,610 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=74B0D66B513980ABFCE8D02087DFAD5F:ip_addr=220.181.94.232:browse_by_item:
+2012-05-15 01:16:57,620 INFO  org.dspace.app.webui.servlet.AbstractBrowserServlet @ anonymous:session_id=F9B727A0C3A3C4D14CF157841BE9C32C:ip_addr=220.181.94.232:browse:type=author,order=ASC,value=???,month=null,year=null,starts_with=Y,vfocus=null,focus=-1,rpp=20,sort_by=1,community=n/a,collection=n/a,level=1,etal=-1
+2012-05-15 01:16:57,621 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=F9B727A0C3A3C4D14CF157841BE9C32C:ip_addr=220.181.94.232:browse_by_item:
+2012-05-15 01:17:07,513 INFO  org.dspace.app.webui.servlet.AbstractBrowserServlet @ anonymous:session_id=DDD75CB6F08D5E132001E20E2B914BD3:ip_addr=220.181.94.232:browse:type=author,order=ASC,value=????????????,month=null,year=null,starts_with=P,vfocus=null,focus=-1,rpp=20,sort_by=1,community=n/a,collection=n/a,level=1,etal=-1
+2012-05-15 01:17:07,513 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=DDD75CB6F08D5E132001E20E2B914BD3:ip_addr=220.181.94.232:browse_by_item:
+2012-05-15 01:17:17,555 INFO  org.dspace.app.webui.servlet.AbstractBrowserServlet @ anonymous:session_id=B06AD641CFC0F42044E7C4AE609A739A:ip_addr=220.181.94.232:browse:type=author,order=ASC,value=???,month=null,year=null,starts_with=Z,vfocus=null,focus=-1,rpp=20,sort_by=1,community=n/a,collection=n/a,level=1,etal=-1
+2012-05-15 01:17:17,555 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=B06AD641CFC0F42044E7C4AE609A739A:ip_addr=220.181.94.232:browse_by_item:
+2012-05-15 01:17:27,602 INFO  org.dspace.app.webui.servlet.AbstractBrowserServlet @ anonymous:session_id=7CBD64A8ACBDEAE4E5190DAF6285B5A5:ip_addr=220.181.94.232:browse:type=author,order=ASC,value=????????????????????,month=null,year=null,starts_with=M,vfocus=null,focus=-1,rpp=20,sort_by=1,community=n/a,collection=n/a,level=1,etal=-1
+2012-05-15 01:17:27,602 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=7CBD64A8ACBDEAE4E5190DAF6285B5A5:ip_addr=220.181.94.232:browse_by_item:
+2012-05-15 01:17:37,411 INFO  org.dspace.app.webui.servlet.AbstractBrowserServlet @ anonymous:session_id=DCC5172CEB34738F98F9B92A740C3156:ip_addr=220.181.94.232:browse:type=author,order=ASC,value=????????????????????,month=null,year=null,starts_with=X,vfocus=null,focus=-1,rpp=20,sort_by=1,community=n/a,collection=n/a,level=1,etal=-1
+2012-05-15 01:17:37,411 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=DCC5172CEB34738F98F9B92A740C3156:ip_addr=220.181.94.232:browse_by_item:
+2012-05-15 01:17:50,435 INFO  org.dspace.app.webui.servlet.AbstractBrowserServlet @ anonymous:session_id=37237B6E33AE71F073585C7AB6334606:ip_addr=220.181.94.232:browse:type=author,order=ASC,value=??????,month=null,year=null,starts_with=M,vfocus=null,focus=-1,rpp=20,sort_by=1,community=n/a,collection=n/a,level=1,etal=-1
+2012-05-15 01:17:50,435 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=37237B6E33AE71F073585C7AB6334606:ip_addr=220.181.94.232:browse_by_item:
+2012-05-15 01:18:00,142 INFO  org.dspace.app.webui.servlet.AbstractBrowserServlet @ anonymous:session_id=D1154CAB0476539275F455CB0F321E0F:ip_addr=220.181.94.232:browse:type=author,order=ASC,value=????????????????????,month=null,year=null,starts_with=P,vfocus=null,focus=-1,rpp=20,sort_by=1,community=n/a,collection=n/a,level=1,etal=-1
+2012-05-15 01:18:00,142 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=D1154CAB0476539275F455CB0F321E0F:ip_addr=220.181.94.232:browse_by_item:
+2012-05-15 01:18:10,156 INFO  org.dspace.app.webui.servlet.AbstractBrowserServlet @ anonymous:session_id=96F30818AB9AC95B10657A033F8642A2:ip_addr=220.181.94.232:browse:type=author,order=ASC,value=???,month=null,year=null,starts_with=O,vfocus=null,focus=-1,rpp=20,sort_by=1,community=n/a,collection=n/a,level=1,etal=-1
+2012-05-15 01:18:10,156 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=96F30818AB9AC95B10657A033F8642A2:ip_addr=220.181.94.232:browse_by_item:
+2012-05-15 01:18:20,151 INFO  org.dspace.app.webui.servlet.AbstractBrowserServlet @ anonymous:session_id=A1091837F005B6C540C7E27335708054:ip_addr=220.181.94.232:browse:type=author,order=ASC,value=Ω≠∫Ïπ˚,month=null,year=null,starts_with=null,vfocus=null,focus=-1,rpp=20,sort_by=0,community=n/a,collection=n/a,level=1,etal=-1
+2012-05-15 01:18:20,152 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=A1091837F005B6C540C7E27335708054:ip_addr=220.181.94.232:browse_by_item:
+2012-05-15 01:37:22,789 INFO  org.dspace.app.webui.servlet.AbstractBrowserServlet @ anonymous:session_id=AF0E1F5BA9D0A5F808DE9CAF263020E3:ip_addr=220.181.94.232:browse:type=author,order=ASC,value=null,month=null,year=null,starts_with=null,vfocus=null,focus=-1,rpp=20,sort_by=0,community=n/a,collection=n/a,level=0,etal=-1
+2012-05-15 01:37:22,789 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=AF0E1F5BA9D0A5F808DE9CAF263020E3:ip_addr=220.181.94.232:browse_by_value:focus=null
+2012-05-15 01:37:34,362 INFO  org.dspace.app.webui.servlet.AbstractBrowserServlet @ anonymous:session_id=240F4F4295AA2D8CE57E0A847065580A:ip_addr=220.181.94.232:browse:type=author,order=ASC,value=????,month=null,year=null,starts_with=S,vfocus=null,focus=-1,rpp=20,sort_by=1,community=n/a,collection=n/a,level=1,etal=-1
+2012-05-15 01:37:34,362 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=240F4F4295AA2D8CE57E0A847065580A:ip_addr=220.181.94.232:browse_by_item:
+2012-05-15 01:37:46,412 INFO  org.dspace.app.webui.servlet.AbstractBrowserServlet @ anonymous:session_id=3F117BCB6B57BB9649ADDB89BBABBF9F:ip_addr=220.181.94.232:browse:type=author,order=ASC,value=???????????? ??????510006,month=null,year=null,starts_with=X,vfocus=null,focus=-1,rpp=20,sort_by=1,community=n/a,collection=n/a,level=1,etal=-1
+2012-05-15 01:37:46,412 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=3F117BCB6B57BB9649ADDB89BBABBF9F:ip_addr=220.181.94.232:browse_by_item:
+2012-05-15 01:37:56,488 INFO  org.dspace.app.webui.servlet.AbstractBrowserServlet @ anonymous:session_id=741DC1DC2E31DBBA60DF1E9CF358D528:ip_addr=220.181.94.232:browse:type=author,order=ASC,value=????????????,month=null,year=null,starts_with=A,vfocus=null,focus=-1,rpp=20,sort_by=1,community=n/a,collection=n/a,level=1,etal=-1
+2012-05-15 01:37:56,488 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=741DC1DC2E31DBBA60DF1E9CF358D528:ip_addr=220.181.94.232:browse_by_item:
+2012-05-15 01:38:06,423 INFO  org.dspace.app.webui.servlet.AbstractBrowserServlet @ anonymous:session_id=4E2D5319CA56BC249F4B843EEBB33DD9:ip_addr=220.181.94.232:browse:type=author,order=ASC,value=????????????????????,month=null,year=null,starts_with=K,vfocus=null,focus=-1,rpp=20,sort_by=1,community=n/a,collection=n/a,level=1,etal=-1
+2012-05-15 01:38:06,423 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=4E2D5319CA56BC249F4B843EEBB33DD9:ip_addr=220.181.94.232:browse_by_item:
+2012-05-15 01:38:16,376 INFO  org.dspace.app.webui.servlet.AbstractBrowserServlet @ anonymous:session_id=A09F063740CB13705D0BBA30939EC53D:ip_addr=220.181.94.232:browse:type=author,order=ASC,value=???,month=null,year=null,starts_with=T,vfocus=null,focus=-1,rpp=20,sort_by=1,community=n/a,collection=n/a,level=1,etal=-1
+2012-05-15 01:38:16,376 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=A09F063740CB13705D0BBA30939EC53D:ip_addr=220.181.94.232:browse_by_item:
+2012-05-15 01:38:26,426 INFO  org.dspace.app.webui.servlet.AbstractBrowserServlet @ anonymous:session_id=20578B70027A48EB02348DB50B24F9E3:ip_addr=220.181.94.232:browse:type=author,order=ASC,value=????,month=null,year=null,starts_with=W,vfocus=null,focus=-1,rpp=20,sort_by=1,community=n/a,collection=n/a,level=1,etal=-1
+2012-05-15 01:38:26,426 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=20578B70027A48EB02348DB50B24F9E3:ip_addr=220.181.94.232:browse_by_item:
+2012-05-15 01:38:36,552 INFO  org.dspace.app.webui.servlet.AbstractBrowserServlet @ anonymous:session_id=7E48B003693F1BE2763B5BE8C387528B:ip_addr=220.181.94.232:browse:type=author,order=ASC,value=ª∆±¶ª™,month=null,year=null,starts_with=null,vfocus=null,focus=-1,rpp=20,sort_by=0,community=n/a,collection=n/a,level=1,etal=-1
+2012-05-15 01:38:36,553 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=7E48B003693F1BE2763B5BE8C387528B:ip_addr=220.181.94.232:browse_by_item:
+2012-05-15 01:38:46,387 INFO  org.dspace.app.webui.servlet.AbstractBrowserServlet @ anonymous:session_id=59D2F17449E5D900665962AA8C0C5B8F:ip_addr=220.181.94.232:browse:type=author,order=ASC,value=Ã’Ω®«ø,month=null,year=null,starts_with=null,vfocus=null,focus=-1,rpp=20,sort_by=0,community=n/a,collection=n/a,level=1,etal=-1
+2012-05-15 01:38:46,387 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=59D2F17449E5D900665962AA8C0C5B8F:ip_addr=220.181.94.232:browse_by_item:
+2012-05-15 01:38:56,410 INFO  org.dspace.app.webui.servlet.AbstractBrowserServlet @ anonymous:session_id=F8D7C1B546BF6BB24DB4EFCB66F7CDA3:ip_addr=220.181.94.232:browse:type=author,order=ASC,value=∂ı¿ˆæ˝,month=null,year=null,starts_with=null,vfocus=null,focus=-1,rpp=20,sort_by=0,community=n/a,collection=n/a,level=1,etal=-1
+2012-05-15 01:38:56,410 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=F8D7C1B546BF6BB24DB4EFCB66F7CDA3:ip_addr=220.181.94.232:browse_by_item:
+2012-05-15 01:39:06,139 INFO  org.dspace.app.webui.servlet.AbstractBrowserServlet @ anonymous:session_id=5A3B376415A5073816878F4A42F01929:ip_addr=220.181.94.232:browse:type=author,order=ASC,value=≥¬Œ‰‘®,month=null,year=null,starts_with=null,vfocus=null,focus=-1,rpp=20,sort_by=0,community=n/a,collection=n/a,level=1,etal=-1
+2012-05-15 01:39:06,139 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=5A3B376415A5073816878F4A42F01929:ip_addr=220.181.94.232:browse_by_item:
+2012-05-15 01:39:16,187 INFO  org.dspace.app.webui.servlet.AbstractBrowserServlet @ anonymous:session_id=C3989E1EBF74AF82C98CFCF727536EA0:ip_addr=220.181.94.232:browse:type=author,order=ASC,value=∫´¡·¡·,month=null,year=null,starts_with=null,vfocus=null,focus=-1,rpp=20,sort_by=0,community=n/a,collection=n/a,level=1,etal=-1
+2012-05-15 01:39:16,187 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=C3989E1EBF74AF82C98CFCF727536EA0:ip_addr=220.181.94.232:browse_by_item:
+2012-05-15 01:39:26,427 INFO  org.dspace.app.webui.servlet.AbstractBrowserServlet @ anonymous:session_id=44B5B4D8E8DE43C2AF4876EEC8EA0644:ip_addr=220.181.94.232:browse:type=author,order=ASC,value=ªÙ—”∆Ω,month=null,year=null,starts_with=null,vfocus=null,focus=-1,rpp=20,sort_by=0,community=n/a,collection=n/a,level=1,etal=-1
+2012-05-15 01:39:26,427 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=44B5B4D8E8DE43C2AF4876EEC8EA0644:ip_addr=220.181.94.232:browse_by_item:
+2012-05-15 02:00:02,480 INFO  org.dspace.core.ConfigurationManager @ Loading from classloader: file:/usr/local/CALISIR/dspace/config/dspace.cfg
+2012-05-15 02:00:02,734 INFO  org.dspace.core.ConfigurationManager @ Loading from classloader: file:/usr/local/CALISIR/dspace/config/dspace.cfg
+2012-05-15 02:00:02,742 INFO  org.dspace.core.ConfigurationManager @ Using dspace provided log configuration (log.init.config)
+2012-05-15 02:00:02,742 INFO  org.dspace.core.ConfigurationManager @ Loading: /usr/local/CALISIR/dspace/config/log4j.properties
+2012-05-15 02:00:03,002 INFO  org.dspace.core.ConfigurationManager @ Using dspace provided log configuration (log.init.config)
+2012-05-15 02:00:03,003 INFO  org.dspace.core.ConfigurationManager @ Loading: /usr/local/CALISIR/dspace/config/log4j.properties
+2012-05-15 02:00:03,955 INFO  org.dspace.core.ConfigurationManager @ Loading from classloader: file:/usr/local/CALISIR/dspace/config/dspace.cfg
+2012-05-15 02:00:03,964 INFO  org.dspace.core.ConfigurationManager @ Using dspace provided log configuration (log.init.config)
+2012-05-15 02:00:03,964 INFO  org.dspace.core.ConfigurationManager @ Loading: /usr/local/CALISIR/dspace/config/log4j.properties
+2012-05-15 02:00:07,872 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2012-05-15 02:00:07,886 INFO  org.dspace.content.MetadataSchema @ Loading schema cache for fast finds
+2012-05-15 02:00:08,271 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2012-05-15 02:00:08,285 INFO  org.dspace.content.MetadataSchema @ Loading schema cache for fast finds
+2012-05-15 02:00:10,258 INFO  org.dspace.content.Bundle @ anonymous::create_bundle:bundle_id=10
+2012-05-15 02:00:10,260 INFO  org.dspace.content.Bundle @ anonymous::update_bundle:bundle_id=10
+2012-05-15 02:00:10,260 INFO  org.dspace.content.Item @ anonymous::add_bundle:item_id=6,bundle_id=10
+2012-05-15 02:00:10,303 INFO  org.dspace.content.Bitstream @ anonymous::create_bitstream:bitstream_id=10
+2012-05-15 02:00:10,307 INFO  org.dspace.content.Bundle @ anonymous::add_bitstream:bundle_id=10,bitstream_id=10
+2012-05-15 02:00:10,321 INFO  org.dspace.content.Bitstream @ anonymous::update_bitstream:bitstream_id=10
+2012-05-15 02:00:10,324 INFO  org.dspace.content.Item @ anonymous::update_item:item_id=6
+2012-05-15 02:00:10,324 INFO  org.dspace.content.Bitstream @ anonymous::update_bitstream:bitstream_id=10
+2012-05-15 02:00:10,414 INFO  org.dspace.event.EventManager @ 
+2012-05-15 02:00:10,593 INFO  org.dspace.search.DSIndexer @ Writing Item: 244055/21 to Index
+2012-05-15 02:00:10,622 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2012-05-15 02:00:10,633 INFO  org.dspace.content.MetadataSchema @ Loading schema cache for fast finds
+2012-05-15 02:00:10,678 INFO  org.dspace.search.DSIndexer @ Wrote Item: 244055/21 to Index
+2012-05-15 02:00:12,295 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Item: 244055/21 to Index
+2012-05-15 02:00:12,393 INFO  org.dspace.content.Bundle @ anonymous::create_bundle:bundle_id=11
+2012-05-15 02:00:12,394 INFO  org.dspace.content.Bundle @ anonymous::update_bundle:bundle_id=11
+2012-05-15 02:00:12,395 INFO  org.dspace.content.Item @ anonymous::add_bundle:item_id=17,bundle_id=11
+2012-05-15 02:00:12,410 INFO  org.dspace.content.Bitstream @ anonymous::create_bitstream:bitstream_id=11
+2012-05-15 02:00:12,412 INFO  org.dspace.content.Bundle @ anonymous::add_bitstream:bundle_id=11,bitstream_id=11
+2012-05-15 02:00:12,415 INFO  org.dspace.content.Bitstream @ anonymous::update_bitstream:bitstream_id=11
+2012-05-15 02:00:12,417 INFO  org.dspace.content.Item @ anonymous::update_item:item_id=17
+2012-05-15 02:00:12,417 INFO  org.dspace.content.Bitstream @ anonymous::update_bitstream:bitstream_id=11
+2012-05-15 02:00:12,429 INFO  org.dspace.search.DSIndexer @ Writing Item: 244055/58 to Index
+2012-05-15 02:00:12,436 INFO  org.dspace.search.DSIndexer @ Wrote Item: 244055/58 to Index
+2012-05-15 02:00:12,812 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Item: 244055/58 to Index
+2012-05-15 02:00:12,869 INFO  org.dspace.search.DSIndexer @ Writing Collection: 244055/33 to Index
+2012-05-15 02:00:12,875 INFO  org.dspace.search.DSIndexer @ Writing Collection: 244055/2 to Index
+2012-05-15 02:00:12,876 INFO  org.dspace.search.DSIndexer @ Writing Collection: 244055/15 to Index
+2012-05-15 02:00:12,877 INFO  org.dspace.search.DSIndexer @ Writing Collection: 244055/20 to Index
+2012-05-15 02:00:12,878 INFO  org.dspace.search.DSIndexer @ Writing Collection: 244055/17 to Index
+2012-05-15 02:00:12,879 INFO  org.dspace.search.DSIndexer @ Writing Collection: 244055/18 to Index
+2012-05-15 02:00:12,880 INFO  org.dspace.search.DSIndexer @ Writing Collection: 244055/16 to Index
+2012-05-15 02:00:12,881 INFO  org.dspace.search.DSIndexer @ Writing Collection: 244055/19 to Index
+2012-05-15 02:00:12,881 INFO  org.dspace.search.DSIndexer @ Writing Collection: 244055/7 to Index
+2012-05-15 02:00:12,883 INFO  org.dspace.search.DSIndexer @ Writing Collection: 244055/10 to Index
+2012-05-15 02:00:12,884 INFO  org.dspace.search.DSIndexer @ Writing Collection: 244055/9 to Index
+2012-05-15 02:00:12,885 INFO  org.dspace.search.DSIndexer @ Writing Collection: 244055/11 to Index
+2012-05-15 02:00:12,886 INFO  org.dspace.search.DSIndexer @ Writing Collection: 244055/8 to Index
+2012-05-15 02:00:12,887 INFO  org.dspace.search.DSIndexer @ Writing Collection: 244055/12 to Index
+2012-05-15 02:00:12,899 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/53 to Index
+2012-05-15 02:00:12,900 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/36 to Index
+2012-05-15 02:00:12,900 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/52 to Index
+2012-05-15 02:00:12,900 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/39 to Index
+2012-05-15 02:00:12,900 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/49 to Index
+2012-05-15 02:00:12,900 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/1 to Index
+2012-05-15 02:00:12,988 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/37 to Index
+2012-05-15 02:00:12,988 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/42 to Index
+2012-05-15 02:00:12,988 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/54 to Index
+2012-05-15 02:00:12,988 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/43 to Index
+2012-05-15 02:00:12,988 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/47 to Index
+2012-05-15 02:00:12,988 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/46 to Index
+2012-05-15 02:00:12,988 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/34 to Index
+2012-05-15 02:00:12,988 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/40 to Index
+2012-05-15 02:00:12,988 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/56 to Index
+2012-05-15 02:00:12,988 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/44 to Index
+2012-05-15 02:00:12,989 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/41 to Index
+2012-05-15 02:00:12,989 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/38 to Index
+2012-05-15 02:00:12,989 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/48 to Index
+2012-05-15 02:00:12,989 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/51 to Index
+2012-05-15 02:00:12,989 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/57 to Index
+2012-05-15 02:00:12,989 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/35 to Index
+2012-05-15 02:00:12,989 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/45 to Index
+2012-05-15 02:00:12,989 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/14 to Index
+2012-05-15 02:00:12,989 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/6 to Index
+2012-05-15 02:00:12,989 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/55 to Index
+2012-05-15 02:02:32,826 INFO  org.dspace.app.webui.servlet.AbstractBrowserServlet @ anonymous:session_id=652E8018B786B149B6734BE2F34DA74C:ip_addr=220.181.94.232:browse:type=author,order=ASC,value=Ã∑Œ∞,month=null,year=null,starts_with=null,vfocus=null,focus=-1,rpp=20,sort_by=0,community=n/a,collection=n/a,level=1,etal=-1
+2012-05-15 02:02:32,826 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=652E8018B786B149B6734BE2F34DA74C:ip_addr=220.181.94.232:browse_by_item:
+2012-05-15 02:02:42,706 INFO  org.dspace.app.webui.servlet.AbstractBrowserServlet @ anonymous:session_id=75195A9A4350DEA4BBAF2A105F3C7C1F:ip_addr=220.181.94.232:browse:type=author,order=ASC,value=????????????????????????????,month=null,year=null,starts_with=O,vfocus=null,focus=-1,rpp=20,sort_by=1,community=n/a,collection=n/a,level=1,etal=-1
+2012-05-15 02:02:42,706 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=75195A9A4350DEA4BBAF2A105F3C7C1F:ip_addr=220.181.94.232:browse_by_item:
+2012-05-15 02:02:52,557 INFO  org.dspace.app.webui.servlet.AbstractBrowserServlet @ anonymous:session_id=2A6F3AE5841756972691494BAEFA589F:ip_addr=220.181.94.232:browse:type=author,order=ASC,value=???,month=null,year=null,starts_with=X,vfocus=null,focus=-1,rpp=20,sort_by=1,community=n/a,collection=n/a,level=1,etal=-1
+2012-05-15 02:02:52,557 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=2A6F3AE5841756972691494BAEFA589F:ip_addr=220.181.94.232:browse_by_item:
+2012-05-15 02:03:02,214 INFO  org.dspace.app.webui.servlet.AbstractBrowserServlet @ anonymous:session_id=919D7E933380D6D4EF7DABDD2D967C7F:ip_addr=220.181.94.232:browse:type=author,order=ASC,value=∂≈÷æ‘∆,month=null,year=null,starts_with=null,vfocus=null,focus=-1,rpp=20,sort_by=0,community=n/a,collection=n/a,level=1,etal=-1
+2012-05-15 02:03:02,215 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=919D7E933380D6D4EF7DABDD2D967C7F:ip_addr=220.181.94.232:browse_by_item:
+2012-05-15 02:03:12,178 INFO  org.dspace.app.webui.servlet.AbstractBrowserServlet @ anonymous:session_id=31293BCC7F36844545F7453845D667D9:ip_addr=220.181.94.232:browse:type=author,order=ASC,value=????????????????????????????,month=null,year=null,starts_with=Z,vfocus=null,focus=-1,rpp=20,sort_by=1,community=n/a,collection=n/a,level=1,etal=-1
+2012-05-15 02:03:12,178 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=31293BCC7F36844545F7453845D667D9:ip_addr=220.181.94.232:browse_by_item:
+2012-05-15 02:03:22,179 INFO  org.dspace.app.webui.servlet.AbstractBrowserServlet @ anonymous:session_id=E1A948F774AF027AAA63CC556ECABDCF:ip_addr=220.181.94.232:browse:type=author,order=ASC,value=????????????,month=null,year=null,starts_with=O,vfocus=null,focus=-1,rpp=20,sort_by=1,community=n/a,collection=n/a,level=1,etal=-1
+2012-05-15 02:03:22,179 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=E1A948F774AF027AAA63CC556ECABDCF:ip_addr=220.181.94.232:browse_by_item:
+2012-05-15 02:03:32,154 INFO  org.dspace.app.webui.servlet.AbstractBrowserServlet @ anonymous:session_id=284C690B33EEA15D98193894D50C8709:ip_addr=220.181.94.232:browse:type=author,order=ASC,value=???????????? ??????510006,month=null,year=null,starts_with=Y,vfocus=null,focus=-1,rpp=20,sort_by=1,community=n/a,collection=n/a,level=1,etal=-1
+2012-05-15 02:03:32,154 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=284C690B33EEA15D98193894D50C8709:ip_addr=220.181.94.232:browse_by_item:
+2012-05-15 02:03:42,180 INFO  org.dspace.app.webui.servlet.AbstractBrowserServlet @ anonymous:session_id=BD5F8FBFC297AF01D63EFAF253F8B681:ip_addr=220.181.94.232:browse:type=author,order=ASC,value=’‘À‡«Â,month=null,year=null,starts_with=null,vfocus=null,focus=-1,rpp=20,sort_by=0,community=n/a,collection=n/a,level=1,etal=-1
+2012-05-15 02:03:42,180 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=BD5F8FBFC297AF01D63EFAF253F8B681:ip_addr=220.181.94.232:browse_by_item:
+2012-05-15 02:23:11,635 INFO  org.dspace.app.webui.servlet.AbstractBrowserServlet @ anonymous:session_id=678905CB7B0CA8C7C4E4D18B442BC71C:ip_addr=220.181.94.232:browse:type=author,order=ASC,value=??????????????????????,month=null,year=null,starts_with=D,vfocus=null,focus=-1,rpp=20,sort_by=1,community=n/a,collection=n/a,level=1,etal=-1
+2012-05-15 02:23:11,635 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=678905CB7B0CA8C7C4E4D18B442BC71C:ip_addr=220.181.94.232:browse_by_item:
+2012-05-15 02:23:21,163 INFO  org.dspace.app.webui.servlet.AbstractBrowserServlet @ anonymous:session_id=C343424E9133B36F2B977AEFE110A888:ip_addr=220.181.94.232:browse:type=author,order=ASC,value=????????????????,month=null,year=null,starts_with=K,vfocus=null,focus=-1,rpp=20,sort_by=1,community=n/a,collection=n/a,level=1,etal=-1
+2012-05-15 02:23:21,163 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=C343424E9133B36F2B977AEFE110A888:ip_addr=220.181.94.232:browse_by_item:
+2012-05-15 02:23:31,145 INFO  org.dspace.app.webui.servlet.AbstractBrowserServlet @ anonymous:session_id=A75773D22D551572A54EAC998FAC4AD3:ip_addr=220.181.94.232:browse:type=author,order=ASC,value=????????????,month=null,year=null,starts_with=0,vfocus=null,focus=-1,rpp=20,sort_by=1,community=n/a,collection=n/a,level=1,etal=-1
+2012-05-15 02:23:31,145 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=A75773D22D551572A54EAC998FAC4AD3:ip_addr=220.181.94.232:browse_by_item:
+2012-05-15 02:23:41,151 INFO  org.dspace.app.webui.servlet.AbstractBrowserServlet @ anonymous:session_id=415751F80CDC6552605D0400B59D1B4C:ip_addr=220.181.94.232:browse:type=author,order=ASC,value=????????????,month=null,year=null,starts_with=C,vfocus=null,focus=-1,rpp=20,sort_by=1,community=n/a,collection=n/a,level=1,etal=-1
+2012-05-15 02:23:41,151 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=415751F80CDC6552605D0400B59D1B4C:ip_addr=220.181.94.232:browse_by_item:
+2012-05-15 02:23:51,135 INFO  org.dspace.app.webui.servlet.AbstractBrowserServlet @ anonymous:session_id=5BBADB67C520E293FBD0BCE5EEE2A61E:ip_addr=220.181.94.232:browse:type=author,order=ASC,value=????????????????????,month=null,year=null,starts_with=U,vfocus=null,focus=-1,rpp=20,sort_by=1,community=n/a,collection=n/a,level=1,etal=-1
+2012-05-15 02:23:51,135 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=5BBADB67C520E293FBD0BCE5EEE2A61E:ip_addr=220.181.94.232:browse_by_item:
+2012-05-15 02:24:01,248 INFO  org.dspace.app.webui.servlet.AbstractBrowserServlet @ anonymous:session_id=1B3C9E317DF0CA72BA76508B4B1EFC54:ip_addr=220.181.94.232:browse:type=author,order=ASC,value=????????????????????,month=null,year=null,starts_with=O,vfocus=null,focus=-1,rpp=20,sort_by=1,community=n/a,collection=n/a,level=1,etal=-1
+2012-05-15 02:24:01,248 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=1B3C9E317DF0CA72BA76508B4B1EFC54:ip_addr=220.181.94.232:browse_by_item:
+2012-05-15 02:24:11,699 INFO  org.dspace.app.webui.servlet.AbstractBrowserServlet @ anonymous:session_id=5A73DA118956D312DB59524BEC4631C8:ip_addr=220.181.94.232:browse:type=author,order=ASC,value=????????????????????????????,month=null,year=null,starts_with=H,vfocus=null,focus=-1,rpp=20,sort_by=1,community=n/a,collection=n/a,level=1,etal=-1
+2012-05-15 02:24:11,699 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=5A73DA118956D312DB59524BEC4631C8:ip_addr=220.181.94.232:browse_by_item:
+2012-05-15 02:24:21,732 INFO  org.dspace.app.webui.servlet.AbstractBrowserServlet @ anonymous:session_id=BD74A2AE1CFABE8E9FC08AD13EBF5D0A:ip_addr=220.181.94.232:browse:type=author,order=ASC,value=????????????????????,month=null,year=null,starts_with=V,vfocus=null,focus=-1,rpp=20,sort_by=1,community=n/a,collection=n/a,level=1,etal=-1
+2012-05-15 02:24:21,732 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=BD74A2AE1CFABE8E9FC08AD13EBF5D0A:ip_addr=220.181.94.232:browse_by_item:
+2012-05-15 02:24:31,391 INFO  org.dspace.app.webui.servlet.AbstractBrowserServlet @ anonymous:session_id=6362852CAAF5AE4054A9793059D56657:ip_addr=220.181.94.232:browse:type=author,order=ASC,value=???,month=null,year=null,starts_with=K,vfocus=null,focus=-1,rpp=20,sort_by=1,community=n/a,collection=n/a,level=1,etal=-1
+2012-05-15 02:24:31,391 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=6362852CAAF5AE4054A9793059D56657:ip_addr=220.181.94.232:browse_by_item:
+2012-05-15 02:24:41,193 INFO  org.dspace.app.webui.servlet.AbstractBrowserServlet @ anonymous:session_id=4B71EF96992324A5433775FE9DD89698:ip_addr=220.181.94.232:browse:type=author,order=ASC,value=??????,month=null,year=null,starts_with=Z,vfocus=null,focus=-1,rpp=20,sort_by=1,community=n/a,collection=n/a,level=1,etal=-1
+2012-05-15 02:24:41,193 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=4B71EF96992324A5433775FE9DD89698:ip_addr=220.181.94.232:browse_by_item:
+2012-05-15 02:45:39,648 INFO  org.dspace.app.webui.servlet.AbstractBrowserServlet @ anonymous:session_id=5DB4F6EF7D6030F7022C7674525801A6:ip_addr=220.181.94.232:browse:type=author,order=ASC,value=???,month=null,year=null,starts_with=S,vfocus=null,focus=-1,rpp=20,sort_by=1,community=n/a,collection=n/a,level=1,etal=-1
+2012-05-15 02:45:39,648 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=5DB4F6EF7D6030F7022C7674525801A6:ip_addr=220.181.94.232:browse_by_item:
+2012-05-15 02:45:49,149 INFO  org.dspace.app.webui.servlet.AbstractBrowserServlet @ anonymous:session_id=415B270A6E2E8A07F9DB00DE71CCD014:ip_addr=220.181.94.232:browse:type=author,order=ASC,value=????????????????,month=null,year=null,starts_with=O,vfocus=null,focus=-1,rpp=20,sort_by=1,community=n/a,collection=n/a,level=1,etal=-1
+2012-05-15 02:45:49,149 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=415B270A6E2E8A07F9DB00DE71CCD014:ip_addr=220.181.94.232:browse_by_item:
+2012-05-15 02:45:59,156 INFO  org.dspace.app.webui.servlet.AbstractBrowserServlet @ anonymous:session_id=8C99478F82E1DB6B817973A1BBA62D96:ip_addr=220.181.94.232:browse:type=author,order=ASC,value=???????????????,month=null,year=null,starts_with=V,vfocus=null,focus=-1,rpp=20,sort_by=1,community=n/a,collection=n/a,level=1,etal=-1
+2012-05-15 02:45:59,156 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=8C99478F82E1DB6B817973A1BBA62D96:ip_addr=220.181.94.232:browse_by_item:
+2012-05-15 02:46:09,169 INFO  org.dspace.app.webui.servlet.AbstractBrowserServlet @ anonymous:session_id=9AF8220EEA04EB6BE8CE0AF3CE442171:ip_addr=220.181.94.232:browse:type=author,order=ASC,value=???,month=null,year=null,starts_with=E,vfocus=null,focus=-1,rpp=20,sort_by=1,community=n/a,collection=n/a,level=1,etal=-1
+2012-05-15 02:46:09,169 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=9AF8220EEA04EB6BE8CE0AF3CE442171:ip_addr=220.181.94.232:browse_by_item:
+2012-05-15 02:46:19,391 INFO  org.dspace.app.webui.servlet.AbstractBrowserServlet @ anonymous:session_id=C36A14881F681957780AE6FA98A22CB8:ip_addr=220.181.94.232:browse:type=author,order=ASC,value=????????????????????,month=null,year=null,starts_with=H,vfocus=null,focus=-1,rpp=20,sort_by=1,community=n/a,collection=n/a,level=1,etal=-1
+2012-05-15 02:46:19,391 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=C36A14881F681957780AE6FA98A22CB8:ip_addr=220.181.94.232:browse_by_item:
+2012-05-15 02:46:29,491 INFO  org.dspace.app.webui.servlet.AbstractBrowserServlet @ anonymous:session_id=37923A131D9530C6DE3BCECDD4CE9D0A:ip_addr=220.181.94.232:browse:type=author,order=ASC,value=????????????????,month=null,year=null,starts_with=U,vfocus=null,focus=-1,rpp=20,sort_by=1,community=n/a,collection=n/a,level=1,etal=-1
+2012-05-15 02:46:29,491 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=37923A131D9530C6DE3BCECDD4CE9D0A:ip_addr=220.181.94.232:browse_by_item:
+2012-05-15 02:46:39,554 INFO  org.dspace.app.webui.servlet.AbstractBrowserServlet @ anonymous:session_id=4EB1CD29ABE983A8282910E6AC33CBC4:ip_addr=220.181.94.232:browse:type=author,order=ASC,value=????,month=null,year=null,starts_with=X,vfocus=null,focus=-1,rpp=20,sort_by=1,community=n/a,collection=n/a,level=1,etal=-1
+2012-05-15 02:46:39,555 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=4EB1CD29ABE983A8282910E6AC33CBC4:ip_addr=220.181.94.232:browse_by_item:
+2012-05-15 02:46:49,646 INFO  org.dspace.app.webui.servlet.AbstractBrowserServlet @ anonymous:session_id=01D9D58F55B1E7A110F6C2884B433B2F:ip_addr=220.181.94.232:browse:type=author,order=ASC,value=???,month=null,year=null,starts_with=M,vfocus=null,focus=-1,rpp=20,sort_by=1,community=n/a,collection=n/a,level=1,etal=-1
+2012-05-15 02:46:49,646 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=01D9D58F55B1E7A110F6C2884B433B2F:ip_addr=220.181.94.232:browse_by_item:
+2012-05-15 03:07:24,874 INFO  org.dspace.app.webui.servlet.AbstractBrowserServlet @ anonymous:session_id=AF3ED29AE7333A11F6399A05F29153B2:ip_addr=220.181.94.232:browse:type=author,order=ASC,value=????????????????????????????,month=null,year=null,starts_with=C,vfocus=null,focus=-1,rpp=20,sort_by=1,community=n/a,collection=n/a,level=1,etal=-1
+2012-05-15 03:07:24,875 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=AF3ED29AE7333A11F6399A05F29153B2:ip_addr=220.181.94.232:browse_by_item:
+2012-05-15 03:07:34,691 INFO  org.dspace.app.webui.servlet.AbstractBrowserServlet @ anonymous:session_id=FC99F9F0177AFB419981436A39F1E9D3:ip_addr=220.181.94.232:browse:type=author,order=ASC,value=????????????,month=null,year=null,starts_with=D,vfocus=null,focus=-1,rpp=20,sort_by=1,community=n/a,collection=n/a,level=1,etal=-1
+2012-05-15 03:07:34,691 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=FC99F9F0177AFB419981436A39F1E9D3:ip_addr=220.181.94.232:browse_by_item:
+2012-05-15 03:07:44,171 INFO  org.dspace.app.webui.servlet.AbstractBrowserServlet @ anonymous:session_id=049A188BB1DACC1486E53A5F3888F504:ip_addr=220.181.94.232:browse:type=author,order=ASC,value=???,month=null,year=null,starts_with=U,vfocus=null,focus=-1,rpp=20,sort_by=1,community=n/a,collection=n/a,level=1,etal=-1
+2012-05-15 03:07:44,171 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=049A188BB1DACC1486E53A5F3888F504:ip_addr=220.181.94.232:browse_by_item:
+2012-05-15 03:07:54,169 INFO  org.dspace.app.webui.servlet.AbstractBrowserServlet @ anonymous:session_id=60C94B9C892E6EFA13CC3D814B5890B4:ip_addr=220.181.94.232:browse:type=author,order=ASC,value=????????????????,month=null,year=null,starts_with=W,vfocus=null,focus=-1,rpp=20,sort_by=1,community=n/a,collection=n/a,level=1,etal=-1
+2012-05-15 03:07:54,169 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=60C94B9C892E6EFA13CC3D814B5890B4:ip_addr=220.181.94.232:browse_by_item:
+2012-05-15 03:29:07,064 INFO  org.dspace.app.webui.servlet.AbstractBrowserServlet @ anonymous:session_id=0B86BDFAFD8085F3DF685A9241BC5DBE:ip_addr=220.181.94.232:browse:type=author,order=ASC,value=????????????????????????????,month=null,year=null,starts_with=J,vfocus=null,focus=-1,rpp=20,sort_by=1,community=n/a,collection=n/a,level=1,etal=-1
+2012-05-15 03:29:07,064 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=0B86BDFAFD8085F3DF685A9241BC5DBE:ip_addr=220.181.94.232:browse_by_item:
+2012-05-15 03:29:17,406 INFO  org.dspace.app.webui.servlet.AbstractBrowserServlet @ anonymous:session_id=953BADDE50FC75686B804EC4114FC77D:ip_addr=220.181.94.232:browse:type=author,order=ASC,value=????????????,month=null,year=null,starts_with=L,vfocus=null,focus=-1,rpp=20,sort_by=1,community=n/a,collection=n/a,level=1,etal=-1
+2012-05-15 03:29:17,406 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=953BADDE50FC75686B804EC4114FC77D:ip_addr=220.181.94.232:browse_by_item:
+2012-05-15 03:29:27,400 INFO  org.dspace.app.webui.servlet.AbstractBrowserServlet @ anonymous:session_id=A7DAF242FC6F587396EA1FFCC23421D3:ip_addr=220.181.94.232:browse:type=author,order=ASC,value=???,month=null,year=null,starts_with=V,vfocus=null,focus=-1,rpp=20,sort_by=1,community=n/a,collection=n/a,level=1,etal=-1
+2012-05-15 03:29:27,400 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=A7DAF242FC6F587396EA1FFCC23421D3:ip_addr=220.181.94.232:browse_by_item:
+2012-05-15 03:29:37,497 INFO  org.dspace.app.webui.servlet.AbstractBrowserServlet @ anonymous:session_id=A7621FCEBBD44E144AE00F5CB82C9AF0:ip_addr=220.181.94.232:browse:type=author,order=ASC,value=????????????????,month=null,year=null,starts_with=P,vfocus=null,focus=-1,rpp=20,sort_by=1,community=n/a,collection=n/a,level=1,etal=-1
+2012-05-15 03:29:37,498 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=A7621FCEBBD44E144AE00F5CB82C9AF0:ip_addr=220.181.94.232:browse_by_item:
+2012-05-15 03:29:47,163 INFO  org.dspace.app.webui.servlet.AbstractBrowserServlet @ anonymous:session_id=B9A10596B4C1224D19757B53C622251A:ip_addr=220.181.94.232:browse:type=author,order=ASC,value=??????????????????????,month=null,year=null,starts_with=A,vfocus=null,focus=-1,rpp=20,sort_by=1,community=n/a,collection=n/a,level=1,etal=-1
+2012-05-15 03:29:47,163 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=B9A10596B4C1224D19757B53C622251A:ip_addr=220.181.94.232:browse_by_item:
+2012-05-15 03:29:57,175 INFO  org.dspace.app.webui.servlet.AbstractBrowserServlet @ anonymous:session_id=0053A2C3957AD4297E918907A48321C3:ip_addr=220.181.94.232:browse:type=author,order=ASC,value=???????????? ??????510006,month=null,year=null,starts_with=V,vfocus=null,focus=-1,rpp=20,sort_by=1,community=n/a,collection=n/a,level=1,etal=-1
+2012-05-15 03:29:57,175 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=0053A2C3957AD4297E918907A48321C3:ip_addr=220.181.94.232:browse_by_item:
+2012-05-15 03:30:07,160 INFO  org.dspace.app.webui.servlet.AbstractBrowserServlet @ anonymous:session_id=BF7255A29E9032E3F7C1385913F04561:ip_addr=220.181.94.232:browse:type=author,order=ASC,value=????????????,month=null,year=null,starts_with=K,vfocus=null,focus=-1,rpp=20,sort_by=1,community=n/a,collection=n/a,level=1,etal=-1
+2012-05-15 03:30:07,160 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=BF7255A29E9032E3F7C1385913F04561:ip_addr=220.181.94.232:browse_by_item:
+2012-05-15 03:30:17,123 INFO  org.dspace.app.webui.servlet.AbstractBrowserServlet @ anonymous:session_id=453887BBE02B288F13712AB4715067FB:ip_addr=220.181.94.232:browse:type=author,order=ASC,value=???,month=null,year=null,starts_with=O,vfocus=null,focus=-1,rpp=20,sort_by=1,community=n/a,collection=n/a,level=1,etal=-1
+2012-05-15 03:30:17,123 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=453887BBE02B288F13712AB4715067FB:ip_addr=220.181.94.232:browse_by_item:
+2012-05-15 03:30:27,155 INFO  org.dspace.app.webui.servlet.AbstractBrowserServlet @ anonymous:session_id=0BE1DB2CC6A20669D054292642752408:ip_addr=220.181.94.232:browse:type=author,order=ASC,value=???????????? ??????510006,month=null,year=null,starts_with=M,vfocus=null,focus=-1,rpp=20,sort_by=1,community=n/a,collection=n/a,level=1,etal=-1
+2012-05-15 03:30:27,155 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=0BE1DB2CC6A20669D054292642752408:ip_addr=220.181.94.232:browse_by_item:
+2012-05-15 03:50:16,144 INFO  org.dspace.app.webui.servlet.AbstractBrowserServlet @ anonymous:session_id=191644115D87080D784F1FDB4B036F56:ip_addr=220.181.94.232:browse:type=author,order=ASC,value=???????????? ??????510006,month=null,year=null,starts_with=0,vfocus=null,focus=-1,rpp=20,sort_by=1,community=n/a,collection=n/a,level=1,etal=-1
+2012-05-15 03:50:16,144 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=191644115D87080D784F1FDB4B036F56:ip_addr=220.181.94.232:browse_by_item:
+2012-05-15 03:50:26,156 INFO  org.dspace.app.webui.servlet.AbstractBrowserServlet @ anonymous:session_id=193B9DB61DD62723B07B47220DEB2742:ip_addr=220.181.94.232:browse:type=author,order=ASC,value=????????????,month=null,year=null,starts_with=M,vfocus=null,focus=-1,rpp=20,sort_by=1,community=n/a,collection=n/a,level=1,etal=-1
+2012-05-15 03:50:26,156 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=193B9DB61DD62723B07B47220DEB2742:ip_addr=220.181.94.232:browse_by_item:
+2012-05-15 03:50:36,136 INFO  org.dspace.app.webui.servlet.AbstractBrowserServlet @ anonymous:session_id=6FEEA28684093BCC429E7411A6381218:ip_addr=220.181.94.232:browse:type=author,order=ASC,value=π˘ºŒ¡¡,month=null,year=null,starts_with=null,vfocus=null,focus=-1,rpp=20,sort_by=0,community=n/a,collection=n/a,level=1,etal=-1
+2012-05-15 03:50:36,136 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=6FEEA28684093BCC429E7411A6381218:ip_addr=220.181.94.232:browse_by_item:
+2012-05-15 03:50:46,155 INFO  org.dspace.app.webui.servlet.AbstractBrowserServlet @ anonymous:session_id=4F44F154E01A7434528374CDEFD78892:ip_addr=220.181.94.232:browse:type=author,order=ASC,value=????????????????????,month=null,year=null,starts_with=A,vfocus=null,focus=-1,rpp=20,sort_by=1,community=n/a,collection=n/a,level=1,etal=-1
+2012-05-15 03:50:46,155 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=4F44F154E01A7434528374CDEFD78892:ip_addr=220.181.94.232:browse_by_item:
+2012-05-15 04:00:02,234 INFO  org.dspace.core.ConfigurationManager @ Loading from classloader: file:/usr/local/CALISIR/dspace/config/dspace.cfg
+2012-05-15 04:00:02,254 INFO  org.dspace.core.ConfigurationManager @ Using dspace provided log configuration (log.init.config)
+2012-05-15 04:00:02,254 INFO  org.dspace.core.ConfigurationManager @ Loading: /usr/local/CALISIR/dspace/config/log4j.properties
+2012-05-15 04:09:58,782 INFO  org.dspace.app.webui.servlet.AbstractBrowserServlet @ anonymous:session_id=2E2CFE648D9B3D620AA779EF3B7CF58E:ip_addr=220.181.94.232:browse:type=author,order=ASC,value=??????????????????????,month=null,year=null,starts_with=M,vfocus=null,focus=-1,rpp=20,sort_by=1,community=n/a,collection=n/a,level=1,etal=-1
+2012-05-15 04:09:58,782 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=2E2CFE648D9B3D620AA779EF3B7CF58E:ip_addr=220.181.94.232:browse_by_item:
+2012-05-15 04:10:08,675 INFO  org.dspace.app.webui.servlet.AbstractBrowserServlet @ anonymous:session_id=8562C7419CDF89642E5C09D90AE068A0:ip_addr=220.181.94.232:browse:type=author,order=ASC,value=????????????????????,month=null,year=null,starts_with=Z,vfocus=null,focus=-1,rpp=20,sort_by=1,community=n/a,collection=n/a,level=1,etal=-1
+2012-05-15 04:10:08,675 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=8562C7419CDF89642E5C09D90AE068A0:ip_addr=220.181.94.232:browse_by_item:
+2012-05-15 04:10:18,145 INFO  org.dspace.app.webui.servlet.AbstractBrowserServlet @ anonymous:session_id=9FC656E50A69EF50E7C83E5497A18903:ip_addr=220.181.94.232:browse:type=author,order=ASC,value=????????????????,month=null,year=null,starts_with=Q,vfocus=null,focus=-1,rpp=20,sort_by=1,community=n/a,collection=n/a,level=1,etal=-1
+2012-05-15 04:10:18,145 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=9FC656E50A69EF50E7C83E5497A18903:ip_addr=220.181.94.232:browse_by_item:
+2012-05-15 04:10:28,139 INFO  org.dspace.app.webui.servlet.AbstractBrowserServlet @ anonymous:session_id=7DDD9304AECC84A0B5FD256E22310DD3:ip_addr=220.181.94.232:browse:type=author,order=ASC,value=????????????????????,month=null,year=null,starts_with=Y,vfocus=null,focus=-1,rpp=20,sort_by=1,community=n/a,collection=n/a,level=1,etal=-1
+2012-05-15 04:10:28,139 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=7DDD9304AECC84A0B5FD256E22310DD3:ip_addr=220.181.94.232:browse_by_item:
+2012-05-15 04:10:38,128 INFO  org.dspace.app.webui.servlet.AbstractBrowserServlet @ anonymous:session_id=396726DBF68E25B139F61A5A07EE618E:ip_addr=220.181.94.232:browse:type=author,order=ASC,value=???????????? ??????510006,month=null,year=null,starts_with=G,vfocus=null,focus=-1,rpp=20,sort_by=1,community=n/a,collection=n/a,level=1,etal=-1
+2012-05-15 04:10:38,128 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=396726DBF68E25B139F61A5A07EE618E:ip_addr=220.181.94.232:browse_by_item:
+2012-05-15 04:10:48,113 INFO  org.dspace.app.webui.servlet.AbstractBrowserServlet @ anonymous:session_id=83AC8082202A2875CA7CE0C6F6CECC59:ip_addr=220.181.94.232:browse:type=author,order=ASC,value=???,month=null,year=null,starts_with=N,vfocus=null,focus=-1,rpp=20,sort_by=1,community=n/a,collection=n/a,level=1,etal=-1
+2012-05-15 04:10:48,114 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=83AC8082202A2875CA7CE0C6F6CECC59:ip_addr=220.181.94.232:browse_by_item:
+2012-05-15 04:10:58,106 INFO  org.dspace.app.webui.servlet.AbstractBrowserServlet @ anonymous:session_id=D03580125467EACAC72F8502ED03BC94:ip_addr=220.181.94.232:browse:type=author,order=ASC,value=???,month=null,year=null,starts_with=Z,vfocus=null,focus=-1,rpp=20,sort_by=1,community=n/a,collection=n/a,level=1,etal=-1
+2012-05-15 04:10:58,106 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=D03580125467EACAC72F8502ED03BC94:ip_addr=220.181.94.232:browse_by_item:
+2012-05-15 04:11:08,084 INFO  org.dspace.app.webui.servlet.AbstractBrowserServlet @ anonymous:session_id=292255C50EDA734B9344BBDC60AA90A2:ip_addr=220.181.94.232:browse:type=author,order=ASC,value=????????????????????????????,month=null,year=null,starts_with=E,vfocus=null,focus=-1,rpp=20,sort_by=1,community=n/a,collection=n/a,level=1,etal=-1
+2012-05-15 04:11:08,084 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=292255C50EDA734B9344BBDC60AA90A2:ip_addr=220.181.94.232:browse_by_item:
+2012-05-15 04:11:18,095 INFO  org.dspace.app.webui.servlet.AbstractBrowserServlet @ anonymous:session_id=4086CDE24B0C4C2BF428FF77EB0B65F3:ip_addr=220.181.94.232:browse:type=author,order=ASC,value=???,month=null,year=null,starts_with=R,vfocus=null,focus=-1,rpp=20,sort_by=1,community=n/a,collection=n/a,level=1,etal=-1
+2012-05-15 04:11:18,095 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=4086CDE24B0C4C2BF428FF77EB0B65F3:ip_addr=220.181.94.232:browse_by_item:
+2012-05-15 04:11:28,396 INFO  org.dspace.app.webui.servlet.AbstractBrowserServlet @ anonymous:session_id=706028168BB62D15C0A21DDCFBAE6679:ip_addr=220.181.94.232:browse:type=author,order=ASC,value=??????,month=null,year=null,starts_with=X,vfocus=null,focus=-1,rpp=20,sort_by=1,community=n/a,collection=n/a,level=1,etal=-1
+2012-05-15 04:11:28,396 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=706028168BB62D15C0A21DDCFBAE6679:ip_addr=220.181.94.232:browse_by_item:
+2012-05-15 04:11:38,459 INFO  org.dspace.app.webui.servlet.AbstractBrowserServlet @ anonymous:session_id=1D4EC53083F599C0D3188C1C3A6EECFE:ip_addr=220.181.94.232:browse:type=author,order=ASC,value=???????????? ??????510006,month=null,year=null,starts_with=O,vfocus=null,focus=-1,rpp=20,sort_by=1,community=n/a,collection=n/a,level=1,etal=-1
+2012-05-15 04:11:38,459 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=1D4EC53083F599C0D3188C1C3A6EECFE:ip_addr=220.181.94.232:browse_by_item:
+2012-05-15 04:22:29,975 INFO  org.dspace.app.webui.servlet.AbstractBrowserServlet @ anonymous:session_id=1092639A327390739A7751465A983BC6:ip_addr=220.181.94.232:browse:type=author,order=ASC,value=???????????????,month=null,year=null,starts_with=W,vfocus=null,focus=-1,rpp=20,sort_by=1,community=n/a,collection=n/a,level=1,etal=-1
+2012-05-15 04:22:29,975 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=1092639A327390739A7751465A983BC6:ip_addr=220.181.94.232:browse_by_item:
+2012-05-15 04:22:39,092 INFO  org.dspace.app.webui.servlet.AbstractBrowserServlet @ anonymous:session_id=28F3196FC0459D0D8444A80F2BE0CDE2:ip_addr=220.181.94.232:browse:type=author,order=ASC,value=???????????????,month=null,year=null,starts_with=Z,vfocus=null,focus=-1,rpp=20,sort_by=1,community=n/a,collection=n/a,level=1,etal=-1
+2012-05-15 04:22:39,092 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=28F3196FC0459D0D8444A80F2BE0CDE2:ip_addr=220.181.94.232:browse_by_item:
+2012-05-15 04:24:33,518 INFO  org.dspace.app.webui.servlet.AbstractBrowserServlet @ anonymous:session_id=4EB236D19FC962F0E707353321CB1B21:ip_addr=220.181.94.232:browse:type=author,order=ASC,value=????????????,month=null,year=null,starts_with=T,vfocus=null,focus=-1,rpp=20,sort_by=1,community=n/a,collection=n/a,level=1,etal=-1
+2012-05-15 04:24:33,518 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=4EB236D19FC962F0E707353321CB1B21:ip_addr=220.181.94.232:browse_by_item:
+2012-05-15 04:28:43,537 INFO  org.dspace.app.webui.servlet.AbstractBrowserServlet @ anonymous:session_id=166925BEA03A96D0FBBE4DEA6238A2E6:ip_addr=220.181.94.232:browse:type=author,order=ASC,value=????,month=null,year=null,starts_with=Q,vfocus=null,focus=-1,rpp=20,sort_by=1,community=n/a,collection=n/a,level=1,etal=-1
+2012-05-15 04:28:43,537 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=166925BEA03A96D0FBBE4DEA6238A2E6:ip_addr=220.181.94.232:browse_by_item:
+2012-05-15 04:28:53,094 INFO  org.dspace.app.webui.servlet.AbstractBrowserServlet @ anonymous:session_id=7660331A4AD934C934DFDE51734CE0DE:ip_addr=220.181.94.232:browse:type=author,order=ASC,value=????,month=null,year=null,starts_with=O,vfocus=null,focus=-1,rpp=20,sort_by=1,community=n/a,collection=n/a,level=1,etal=-1
+2012-05-15 04:28:53,094 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=7660331A4AD934C934DFDE51734CE0DE:ip_addr=220.181.94.232:browse_by_item:
+2012-05-15 04:29:03,087 INFO  org.dspace.app.webui.servlet.AbstractBrowserServlet @ anonymous:session_id=40B845AA3FE5A276DC7B7D2EFF21BB9B:ip_addr=220.181.94.232:browse:type=author,order=ASC,value=??????????????????????,month=null,year=null,starts_with=P,vfocus=null,focus=-1,rpp=20,sort_by=1,community=n/a,collection=n/a,level=1,etal=-1
+2012-05-15 04:29:03,088 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=40B845AA3FE5A276DC7B7D2EFF21BB9B:ip_addr=220.181.94.232:browse_by_item:
+2012-05-15 04:30:48,864 INFO  org.dspace.app.webui.servlet.AbstractBrowserServlet @ anonymous:session_id=1BF4DF3B452DE809922E4F94EDB295D3:ip_addr=220.181.94.232:browse:type=author,order=ASC,value=Ùﬂƒœ¥Û—ß“©—ß‘∫“©ŒÔªØ—ßΩÃ—– “,month=null,year=null,starts_with=null,vfocus=null,focus=-1,rpp=20,sort_by=0,community=n/a,collection=n/a,level=1,etal=-1
+2012-05-15 04:30:48,865 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=1BF4DF3B452DE809922E4F94EDB295D3:ip_addr=220.181.94.232:browse_by_item:
+2012-05-15 04:30:58,673 INFO  org.dspace.app.webui.servlet.AbstractBrowserServlet @ anonymous:session_id=0CF066B6D23A2D5ABDE3FC6641DEF8E7:ip_addr=220.181.94.232:browse:type=author,order=ASC,value=???,month=null,year=null,starts_with=Y,vfocus=null,focus=-1,rpp=20,sort_by=1,community=n/a,collection=n/a,level=1,etal=-1
+2012-05-15 04:30:58,673 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=0CF066B6D23A2D5ABDE3FC6641DEF8E7:ip_addr=220.181.94.232:browse_by_item:
+2012-05-15 11:27:04,375 INFO  edu.calis.ir.bit.web.listener.ConfigListener @ ConfigListener is start
+2012-05-15 11:27:06,503 INFO  net.sf.ehcache.util.UpdateChecker @ New update(s) found: 2.4.7 [http://www.terracotta.org/confluence/display/release/Release+Notes+Ehcache+Core+2.4]
+2012-05-15 11:27:44,680 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=F53D7A33171DF53F4E7CA5490DB23E7D:ip_addr=127.0.0.1:browse_mini:
+2012-05-15 11:27:52,886 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2012-05-15 11:27:52,919 INFO  org.dspace.content.MetadataSchema @ Loading schema cache for fast finds
+2012-05-15 11:28:07,048 ERROR org.dspace.app.util.Util @ 
+java.lang.NullPointerException
+	at java.util.Properties$LineReader.readLine(Properties.java:418)
+	at java.util.Properties.load0(Properties.java:337)
+	at java.util.Properties.load(Properties.java:325)
+	at org.dspace.app.util.Util.getSourceVersion(Util.java:328)
+	at org.apache.jsp.layout.header_002ddefault_jsp._jspService(header_002ddefault_jsp.java:126)
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:386)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:313)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:260)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.dspace.utils.servlet.DSpaceWebappServletFilter.doFilter(DSpaceWebappServletFilter.java:78)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:235)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:646)
+	at org.apache.catalina.core.ApplicationDispatcher.doInclude(ApplicationDispatcher.java:551)
+	at org.apache.catalina.core.ApplicationDispatcher.include(ApplicationDispatcher.java:488)
+	at org.dspace.app.webui.jsptag.LayoutTag.doStartTag(LayoutTag.java:349)
+	at org.apache.jsp.home_jsp._jspService(home_jsp.java:270)
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:386)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:313)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:260)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.dspace.utils.servlet.DSpaceWebappServletFilter.doFilter(DSpaceWebappServletFilter.java:78)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:235)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:646)
+	at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:436)
+	at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:374)
+	at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:302)
+	at org.dspace.app.webui.util.JSPManager.showJSP(JSPManager.java:60)
+	at org.apache.jsp.index_jsp._jspService(index_jsp.java:107)
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:386)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:313)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:260)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.dspace.utils.servlet.DSpaceWebappServletFilter.doFilter(DSpaceWebappServletFilter.java:78)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:235)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:102)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:298)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:859)
+	at org.apache.coyote.http11.Http11Protocol$Http11ConnectionHandler.process(Http11Protocol.java:588)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:489)
+	at java.lang.Thread.run(Thread.java:662)
+2012-05-15 11:28:09,264 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=F53D7A33171DF53F4E7CA5490DB23E7D:ip_addr=127.0.0.1:browse_mini:
+2012-05-15 11:28:58,702 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=51BAA7240A08B09F2B1BB5D24E1E74BA:ip_addr=222.200.98.193:browse_mini:
+2012-05-15 14:01:52,667 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=B8160F9F21802666192D9E3EDB083CE8:ip_addr=222.200.98.179:browse_mini:
+2012-05-15 14:02:20,684 INFO  edu.calis.ir.tsinghua.components.CalisAuthentication @ anonymous:session_id=B8160F9F21802666192D9E3EDB083CE8:ip_addr=222.200.98.179:authenticate:attempting calis auth of user=liangyingyi002@126.com
+2012-05-15 14:02:20,764 INFO  edu.calis.ir.tsinghua.components.CalisAuthentication @ liangyingyi002@126.com:session_id=B8160F9F21802666192D9E3EDB083CE8:ip_addr=222.200.98.179:authenticate:type=PasswordAuthentication
+2012-05-15 14:02:20,794 INFO  org.dspace.app.webui.servlet.PasswordServlet @ liangyingyi002@126.com:session_id=B8160F9F21802666192D9E3EDB083CE8:ip_addr=222.200.98.179:login:type=explicit
+2012-05-15 14:02:20,808 INFO  org.dspace.app.webui.servlet.MyDSpaceServlet @ liangyingyi002@126.com:session_id=809A0566715E0BFC2E25B353DA3D89F6:ip_addr=222.200.98.179:view_mydspace:
+2012-05-15 14:07:01,764 INFO  org.dspace.app.webui.servlet.CommunityListServlet @ liangyingyi002@126.com:session_id=809A0566715E0BFC2E25B353DA3D89F6:ip_addr=222.200.98.179:view_community_list:
+2012-05-15 14:07:08,026 INFO  org.dspace.app.webui.servlet.HandleServlet @ liangyingyi002@126.com:session_id=809A0566715E0BFC2E25B353DA3D89F6:ip_addr=222.200.98.179:view_community:community_id=3
+2012-05-15 14:07:08,055 INFO  org.dspace.browse.BrowseEngine @ liangyingyi002@126.com:session_id=809A0566715E0BFC2E25B353DA3D89F6:ip_addr=222.200.98.179:browse_mini:
+2012-05-15 14:07:08,088 INFO  org.dspace.usage.LoggerUsageEventListener @ liangyingyi002@126.com:session_id=809A0566715E0BFC2E25B353DA3D89F6:ip_addr=222.200.98.179:view_community:community_id=3
+2012-05-15 14:07:08,094 INFO  org.dspace.statistics.SolrLogger @ solr-statistics.spidersfile:null
+2012-05-15 14:07:08,094 INFO  org.dspace.statistics.SolrLogger @ solr-statistics.server:http://localhost/solr/statistics
+2012-05-15 14:07:08,094 INFO  org.dspace.statistics.SolrLogger @ solr-statistics.dbfile:/usr/local/CALISIR/dspace/config/GeoLiteCity.dat
+2012-05-15 14:07:08,124 INFO  org.dspace.statistics.SolrLogger @ useProxies=false
+2012-05-15 14:07:08,140 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded Spider IP file: /usr/local/CALISIR/dspace/config/spiders/iplists.com-google.txt
+2012-05-15 14:07:08,142 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded Spider IP file: /usr/local/CALISIR/dspace/config/spiders/iplists.com-infoseek.txt
+2012-05-15 14:07:08,180 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded Spider IP file: /usr/local/CALISIR/dspace/config/spiders/iplists.com-misc.txt
+2012-05-15 14:07:08,184 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded Spider IP file: /usr/local/CALISIR/dspace/config/spiders/iplists.com-inktomi.txt
+2012-05-15 14:07:08,190 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded Spider IP file: /usr/local/CALISIR/dspace/config/spiders/iplists.com-excite.txt
+2012-05-15 14:07:08,191 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded Spider IP file: /usr/local/CALISIR/dspace/config/spiders/iplists.com-non_engines.txt
+2012-05-15 14:07:08,192 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded Spider IP file: /usr/local/CALISIR/dspace/config/spiders/iplists.com-altavista.txt
+2012-05-15 14:07:08,192 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded Spider IP file: /usr/local/CALISIR/dspace/config/spiders/iplists.com-lycos.txt
+2012-05-15 14:07:08,248 ERROR org.dspace.statistics.SolrLogger @ Failed DNS Lookup for IP:222.200.98.179
+2012-05-15 14:07:13,144 INFO  org.dspace.app.webui.servlet.HandleServlet @ liangyingyi002@126.com:session_id=809A0566715E0BFC2E25B353DA3D89F6:ip_addr=222.200.98.179:view_item:handle=244055/58
+2012-05-15 14:07:13,169 INFO  org.dspace.app.util.GoogleMetadata @ Using [/usr/local/CALISIR/dspace/config/crosswalks/google-metadata.properties] for Google Metadata configuration
+2012-05-15 14:07:13,243 INFO  org.dspace.usage.LoggerUsageEventListener @ liangyingyi002@126.com:session_id=809A0566715E0BFC2E25B353DA3D89F6:ip_addr=222.200.98.179:view_item:handle=244055/58
+2012-05-15 14:07:13,244 ERROR org.dspace.statistics.SolrLogger @ Failed DNS Lookup for IP:222.200.98.179
+2012-05-15 14:07:26,549 INFO  org.dspace.app.webui.filter.RegisteredOnlyFilter @ liangyingyi002@126.com:session_id=809A0566715E0BFC2E25B353DA3D89F6:ip_addr=222.200.98.179:admin_only:
+2012-05-15 14:07:26,612 INFO  org.dspace.app.webui.filter.RegisteredOnlyFilter @ liangyingyi002@126.com:session_id=809A0566715E0BFC2E25B353DA3D89F6:ip_addr=222.200.98.179:admin_only:
+2012-05-15 14:07:34,130 INFO  org.dspace.app.webui.servlet.CommunityListServlet @ liangyingyi002@126.com:session_id=809A0566715E0BFC2E25B353DA3D89F6:ip_addr=222.200.98.179:view_community_list:
+2012-05-15 14:07:37,380 INFO  org.dspace.app.webui.servlet.HandleServlet @ liangyingyi002@126.com:session_id=809A0566715E0BFC2E25B353DA3D89F6:ip_addr=222.200.98.179:view_community:community_id=3
+2012-05-15 14:07:37,384 INFO  org.dspace.browse.BrowseEngine @ liangyingyi002@126.com:session_id=809A0566715E0BFC2E25B353DA3D89F6:ip_addr=222.200.98.179:browse_mini:
+2012-05-15 14:07:37,391 INFO  org.dspace.usage.LoggerUsageEventListener @ liangyingyi002@126.com:session_id=809A0566715E0BFC2E25B353DA3D89F6:ip_addr=222.200.98.179:view_community:community_id=3
+2012-05-15 14:07:37,392 ERROR org.dspace.statistics.SolrLogger @ Failed DNS Lookup for IP:222.200.98.179
+2012-05-15 14:07:38,574 INFO  org.dspace.app.webui.servlet.HandleServlet @ liangyingyi002@126.com:session_id=809A0566715E0BFC2E25B353DA3D89F6:ip_addr=222.200.98.179:view_item:handle=244055/21
+2012-05-15 14:07:38,588 INFO  org.dspace.usage.LoggerUsageEventListener @ liangyingyi002@126.com:session_id=809A0566715E0BFC2E25B353DA3D89F6:ip_addr=222.200.98.179:view_item:handle=244055/21
+2012-05-15 14:07:38,588 ERROR org.dspace.statistics.SolrLogger @ Failed DNS Lookup for IP:222.200.98.179
+2012-05-15 14:08:01,740 INFO  org.dspace.app.webui.servlet.HandleServlet @ liangyingyi002@126.com:session_id=809A0566715E0BFC2E25B353DA3D89F6:ip_addr=222.200.98.179:view_collection:collection_id=14
+2012-05-15 14:08:01,759 INFO  org.dspace.browse.BrowseEngine @ liangyingyi002@126.com:session_id=809A0566715E0BFC2E25B353DA3D89F6:ip_addr=222.200.98.179:browse_mini:
+2012-05-15 14:08:01,787 INFO  org.dspace.usage.LoggerUsageEventListener @ liangyingyi002@126.com:session_id=809A0566715E0BFC2E25B353DA3D89F6:ip_addr=222.200.98.179:view_collection:collection_id=14
+2012-05-15 14:08:01,788 ERROR org.dspace.statistics.SolrLogger @ Failed DNS Lookup for IP:222.200.98.179
+2012-05-15 14:08:05,400 INFO  org.dspace.app.webui.servlet.HandleServlet @ liangyingyi002@126.com:session_id=809A0566715E0BFC2E25B353DA3D89F6:ip_addr=222.200.98.179:view_item:handle=244055/23
+2012-05-15 14:08:05,410 INFO  org.dspace.usage.LoggerUsageEventListener @ liangyingyi002@126.com:session_id=809A0566715E0BFC2E25B353DA3D89F6:ip_addr=222.200.98.179:view_item:handle=244055/23
+2012-05-15 14:08:05,410 ERROR org.dspace.statistics.SolrLogger @ Failed DNS Lookup for IP:222.200.98.179
+2012-05-15 14:08:14,146 INFO  org.dspace.app.webui.servlet.HandleServlet @ liangyingyi002@126.com:session_id=809A0566715E0BFC2E25B353DA3D89F6:ip_addr=222.200.98.179:view_collection:collection_id=14
+2012-05-15 14:08:14,146 INFO  org.dspace.browse.BrowseEngine @ liangyingyi002@126.com:session_id=809A0566715E0BFC2E25B353DA3D89F6:ip_addr=222.200.98.179:browse_mini:
+2012-05-15 14:08:14,159 INFO  org.dspace.usage.LoggerUsageEventListener @ liangyingyi002@126.com:session_id=809A0566715E0BFC2E25B353DA3D89F6:ip_addr=222.200.98.179:view_collection:collection_id=14
+2012-05-15 14:08:14,160 ERROR org.dspace.statistics.SolrLogger @ Failed DNS Lookup for IP:222.200.98.179
+2012-05-15 14:08:15,573 INFO  org.dspace.app.webui.servlet.HandleServlet @ liangyingyi002@126.com:session_id=809A0566715E0BFC2E25B353DA3D89F6:ip_addr=222.200.98.179:view_item:handle=244055/28
+2012-05-15 14:08:15,581 INFO  org.dspace.usage.LoggerUsageEventListener @ liangyingyi002@126.com:session_id=809A0566715E0BFC2E25B353DA3D89F6:ip_addr=222.200.98.179:view_item:handle=244055/28
+2012-05-15 14:08:15,582 ERROR org.dspace.statistics.SolrLogger @ Failed DNS Lookup for IP:222.200.98.179
+2012-05-15 14:08:22,041 INFO  org.dspace.app.webui.servlet.HandleServlet @ liangyingyi002@126.com:session_id=809A0566715E0BFC2E25B353DA3D89F6:ip_addr=222.200.98.179:view_community:community_id=2
+2012-05-15 14:08:22,045 INFO  org.dspace.browse.BrowseEngine @ liangyingyi002@126.com:session_id=809A0566715E0BFC2E25B353DA3D89F6:ip_addr=222.200.98.179:browse_mini:
+2012-05-15 14:08:22,053 INFO  org.dspace.usage.LoggerUsageEventListener @ liangyingyi002@126.com:session_id=809A0566715E0BFC2E25B353DA3D89F6:ip_addr=222.200.98.179:view_community:community_id=2
+2012-05-15 14:08:22,053 ERROR org.dspace.statistics.SolrLogger @ Failed DNS Lookup for IP:222.200.98.179
+2012-05-15 14:08:25,817 INFO  org.dspace.browse.BrowseEngine @ liangyingyi002@126.com:session_id=809A0566715E0BFC2E25B353DA3D89F6:ip_addr=222.200.98.179:browse_mini:
+2012-05-15 14:31:24,983 INFO  edu.calis.ir.bit.web.listener.ConfigListener @ ConfigListener is start
+2012-05-15 14:31:27,554 INFO  net.sf.ehcache.util.UpdateChecker @ New update(s) found: 2.4.7 [http://www.terracotta.org/confluence/display/release/Release+Notes+Ehcache+Core+2.4]

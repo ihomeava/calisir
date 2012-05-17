@@ -1,0 +1,37 @@
+contributor.author=author
+
+date.issued=Date
+
+identifier.issn=ISBN/ISSN
+
+identifier.uri=URL
+
+identifier.doi=DOI
+
+description.abstract=Abstract
+
+language.iso=Language
+
+publisher=Publisher
+
+subject=Keywords
+
+title=Title
+
+type=Type
+
+relation.ispartof=Journal Name
+
+title.alternative=Alternate Title
+
+contributor.authorInstitution=Author Address
+
+identifier.issue=Number (Issue)
+
+format.page=Pages
+
+relation.conferencename=Secondary Title
+
+identifier.volume=Volume
+
+

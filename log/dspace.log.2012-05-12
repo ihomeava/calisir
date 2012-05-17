@@ -1,0 +1,96 @@
+2012-05-12 01:00:01,890 INFO  org.dspace.core.ConfigurationManager @ Loading from classloader: file:/usr/local/CALISIR/dspace/config/dspace.cfg
+2012-05-12 01:00:01,898 INFO  org.dspace.core.ConfigurationManager @ Using dspace provided log configuration (log.init.config)
+2012-05-12 01:00:01,898 INFO  org.dspace.core.ConfigurationManager @ Loading: /usr/local/CALISIR/dspace/config/log4j.properties
+2012-05-12 01:00:02,281 INFO  org.dspace.core.ConfigurationManager @ Loading from classloader: file:/usr/local/CALISIR/dspace/config/dspace.cfg
+2012-05-12 01:00:02,290 INFO  org.dspace.core.ConfigurationManager @ Using dspace provided log configuration (log.init.config)
+2012-05-12 01:00:02,290 INFO  org.dspace.core.ConfigurationManager @ Loading: /usr/local/CALISIR/dspace/config/log4j.properties
+2012-05-12 01:00:02,752 INFO  org.dspace.core.ConfigurationManager @ Loading from classloader: file:/usr/local/CALISIR/dspace/config/dspace.cfg
+2012-05-12 01:00:02,772 INFO  org.dspace.core.ConfigurationManager @ Using dspace provided log configuration (log.init.config)
+2012-05-12 01:00:02,772 INFO  org.dspace.core.ConfigurationManager @ Loading: /usr/local/CALISIR/dspace/config/log4j.properties
+2012-05-12 01:00:07,283 FATAL org.dspace.eperson.Subscribe @ java.util.MissingResourceException: Can't find bundle for base name Messages, locale en
+2012-05-12 02:00:01,598 INFO  org.dspace.core.ConfigurationManager @ Loading from classloader: file:/usr/local/CALISIR/dspace/config/dspace.cfg
+2012-05-12 02:00:01,623 INFO  org.dspace.core.ConfigurationManager @ Using dspace provided log configuration (log.init.config)
+2012-05-12 02:00:01,623 INFO  org.dspace.core.ConfigurationManager @ Loading: /usr/local/CALISIR/dspace/config/log4j.properties
+2012-05-12 02:00:03,062 INFO  org.dspace.core.ConfigurationManager @ Loading from classloader: file:/usr/local/CALISIR/dspace/config/dspace.cfg
+2012-05-12 02:00:03,071 INFO  org.dspace.core.ConfigurationManager @ Using dspace provided log configuration (log.init.config)
+2012-05-12 02:00:03,071 INFO  org.dspace.core.ConfigurationManager @ Loading: /usr/local/CALISIR/dspace/config/log4j.properties
+2012-05-12 02:00:03,457 INFO  org.dspace.core.ConfigurationManager @ Loading from classloader: file:/usr/local/CALISIR/dspace/config/dspace.cfg
+2012-05-12 02:00:03,466 INFO  org.dspace.core.ConfigurationManager @ Using dspace provided log configuration (log.init.config)
+2012-05-12 02:00:03,466 INFO  org.dspace.core.ConfigurationManager @ Loading: /usr/local/CALISIR/dspace/config/log4j.properties
+2012-05-12 02:00:09,581 INFO  org.dspace.search.DSIndexer @ Writing Collection: 244055/33 to Index
+2012-05-12 02:00:09,590 INFO  org.dspace.search.DSIndexer @ Writing Collection: 244055/7 to Index
+2012-05-12 02:00:09,592 INFO  org.dspace.search.DSIndexer @ Writing Collection: 244055/15 to Index
+2012-05-12 02:00:09,594 INFO  org.dspace.search.DSIndexer @ Writing Collection: 244055/20 to Index
+2012-05-12 02:00:09,595 INFO  org.dspace.search.DSIndexer @ Writing Collection: 244055/10 to Index
+2012-05-12 02:00:09,596 INFO  org.dspace.search.DSIndexer @ Writing Collection: 244055/17 to Index
+2012-05-12 02:00:09,597 INFO  org.dspace.search.DSIndexer @ Writing Collection: 244055/9 to Index
+2012-05-12 02:00:09,598 INFO  org.dspace.search.DSIndexer @ Writing Collection: 244055/18 to Index
+2012-05-12 02:00:09,599 INFO  org.dspace.search.DSIndexer @ Writing Collection: 244055/11 to Index
+2012-05-12 02:00:09,600 INFO  org.dspace.search.DSIndexer @ Writing Collection: 244055/8 to Index
+2012-05-12 02:00:09,601 INFO  org.dspace.search.DSIndexer @ Writing Collection: 244055/2 to Index
+2012-05-12 02:00:09,601 INFO  org.dspace.search.DSIndexer @ Writing Collection: 244055/16 to Index
+2012-05-12 02:00:09,603 INFO  org.dspace.search.DSIndexer @ Writing Collection: 244055/19 to Index
+2012-05-12 02:00:09,603 INFO  org.dspace.search.DSIndexer @ Writing Collection: 244055/12 to Index
+2012-05-12 02:00:09,617 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/53 to Index
+2012-05-12 02:00:09,617 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/36 to Index
+2012-05-12 02:00:09,617 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/52 to Index
+2012-05-12 02:00:09,617 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/39 to Index
+2012-05-12 02:00:09,618 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/49 to Index
+2012-05-12 02:00:09,618 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/1 to Index
+2012-05-12 02:00:10,713 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/37 to Index
+2012-05-12 02:00:10,713 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/42 to Index
+2012-05-12 02:00:10,713 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/54 to Index
+2012-05-12 02:00:10,713 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/43 to Index
+2012-05-12 02:00:10,714 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/47 to Index
+2012-05-12 02:00:10,714 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/46 to Index
+2012-05-12 02:00:10,714 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/34 to Index
+2012-05-12 02:00:10,714 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/40 to Index
+2012-05-12 02:00:10,714 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/56 to Index
+2012-05-12 02:00:10,714 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/44 to Index
+2012-05-12 02:00:10,714 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/41 to Index
+2012-05-12 02:00:10,714 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/38 to Index
+2012-05-12 02:00:10,715 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/48 to Index
+2012-05-12 02:00:10,715 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/51 to Index
+2012-05-12 02:00:10,715 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/57 to Index
+2012-05-12 02:00:10,715 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/35 to Index
+2012-05-12 02:00:10,715 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/45 to Index
+2012-05-12 02:00:10,716 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/14 to Index
+2012-05-12 02:00:10,716 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/6 to Index
+2012-05-12 02:00:10,716 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/55 to Index
+2012-05-12 04:00:02,077 INFO  org.dspace.core.ConfigurationManager @ Loading from classloader: file:/usr/local/CALISIR/dspace/config/dspace.cfg
+2012-05-12 04:00:02,097 INFO  org.dspace.core.ConfigurationManager @ Using dspace provided log configuration (log.init.config)
+2012-05-12 04:00:02,097 INFO  org.dspace.core.ConfigurationManager @ Loading: /usr/local/CALISIR/dspace/config/log4j.properties
+2012-05-12 19:42:43,228 INFO  edu.calis.ir.bit.web.servlet.SolrSearchServlet @ anonymous:session_id=E6D7FEC64C93C3F567650318A8EDF03F:ip_addr=219.223.240.8:search:query="*\colon;*",results=(4)
+2012-05-12 19:43:10,304 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=E6D7FEC64C93C3F567650318A8EDF03F:ip_addr=219.223.240.8:browse_mini:
+2012-05-12 20:21:02,195 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=B6982C66370ECF1B2B6E53455FB222B0:ip_addr=222.200.127.20:browse_mini:
+2012-05-12 20:21:33,972 INFO  edu.calis.ir.bit.web.servlet.SolrSearchServlet @ anonymous:session_id=DFAE0793C29F5F2C5E044FBE0EE7D3EF:ip_addr=219.223.240.8:search:query="*\colon;*",results=(4)
+2012-05-12 20:21:34,809 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=DFAE0793C29F5F2C5E044FBE0EE7D3EF:ip_addr=219.223.240.8:browse_mini:
+2012-05-12 20:21:45,576 INFO  edu.calis.ir.bit.web.servlet.SolrSearchServlet @ anonymous:session_id=DFAE0793C29F5F2C5E044FBE0EE7D3EF:ip_addr=219.223.240.8:search:query="*\colon;*",results=(4)
+2012-05-12 20:21:46,300 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=DFAE0793C29F5F2C5E044FBE0EE7D3EF:ip_addr=219.223.240.8:browse_mini:
+2012-05-12 20:22:04,928 INFO  org.dspace.app.webui.servlet.HandleServlet @ anonymous:session_id=DFAE0793C29F5F2C5E044FBE0EE7D3EF:ip_addr=219.223.240.8:view_item:handle=244055/32
+2012-05-12 20:22:04,958 INFO  org.dspace.app.util.GoogleMetadata @ Using [/usr/local/CALISIR/dspace/config/crosswalks/google-metadata.properties] for Google Metadata configuration
+2012-05-12 20:22:04,961 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=DFAE0793C29F5F2C5E044FBE0EE7D3EF:ip_addr=219.223.240.8:view_item:handle=244055/32
+2012-05-12 20:22:05,554 ERROR org.dspace.statistics.SolrLogger @ Failed DNS Lookup for IP:219.223.240.8
+2012-05-12 20:22:16,334 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=DFAE0793C29F5F2C5E044FBE0EE7D3EF:ip_addr=219.223.240.8:browse_mini:
+2012-05-12 20:22:35,626 INFO  edu.calis.ir.bit.web.servlet.SolrSearchServlet @ anonymous:session_id=DFAE0793C29F5F2C5E044FBE0EE7D3EF:ip_addr=219.223.240.8:search:query="*\colon;*",results=(10)
+2012-05-12 20:22:36,466 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=DFAE0793C29F5F2C5E044FBE0EE7D3EF:ip_addr=219.223.240.8:browse_mini:
+2012-05-12 20:22:53,637 INFO  org.dspace.app.webui.servlet.HandleServlet @ anonymous:session_id=DFAE0793C29F5F2C5E044FBE0EE7D3EF:ip_addr=219.223.240.8:view_item:handle=244055/25
+2012-05-12 20:22:53,645 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=DFAE0793C29F5F2C5E044FBE0EE7D3EF:ip_addr=219.223.240.8:view_item:handle=244055/25
+2012-05-12 20:22:54,248 ERROR org.dspace.statistics.SolrLogger @ Failed DNS Lookup for IP:219.223.240.8
+2012-05-12 20:23:14,759 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=DFAE0793C29F5F2C5E044FBE0EE7D3EF:ip_addr=219.223.240.8:browse_mini:
+2012-05-12 20:27:22,644 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=8E9FE88E3437920C1A01CC45D0A428B4:ip_addr=211.66.108.27:browse_mini:
+2012-05-12 20:27:59,900 INFO  org.dspace.app.webui.servlet.HandleServlet @ anonymous:session_id=8E9FE88E3437920C1A01CC45D0A428B4:ip_addr=211.66.108.27:view_community:community_id=1
+2012-05-12 20:27:59,902 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=8E9FE88E3437920C1A01CC45D0A428B4:ip_addr=211.66.108.27:browse_mini:
+2012-05-12 20:27:59,909 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=8E9FE88E3437920C1A01CC45D0A428B4:ip_addr=211.66.108.27:view_community:community_id=1
+2012-05-12 20:28:07,675 INFO  org.dspace.app.webui.servlet.AbstractBrowserServlet @ anonymous:session_id=8E9FE88E3437920C1A01CC45D0A428B4:ip_addr=211.66.108.27:browse:type=author,order=ASC,value=null,month=null,year=null,starts_with=null,vfocus=null,focus=-1,rpp=20,sort_by=0,community=244055/1,collection=n/a,level=0,etal=-1
+2012-05-12 20:28:07,675 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=8E9FE88E3437920C1A01CC45D0A428B4:ip_addr=211.66.108.27:browse_by_value:focus=null
+2012-05-12 20:28:18,205 INFO  org.dspace.app.webui.servlet.AbstractBrowserServlet @ anonymous:session_id=8E9FE88E3437920C1A01CC45D0A428B4:ip_addr=211.66.108.27:browse:type=author,order=ASC,value=广东工业大学图书馆,month=null,year=null,starts_with=null,vfocus=null,focus=-1,rpp=20,sort_by=0,community=244055/1,collection=n/a,level=1,etal=-1
+2012-05-12 20:28:18,205 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=8E9FE88E3437920C1A01CC45D0A428B4:ip_addr=211.66.108.27:browse_by_item:
+2012-05-12 20:41:53,413 INFO  edu.calis.ir.bit.web.servlet.SolrSearchServlet @ anonymous:session_id=DFAE0793C29F5F2C5E044FBE0EE7D3EF:ip_addr=219.223.240.8:search:query="方岩雄",results=(10)
+2012-05-12 20:41:53,934 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=DFAE0793C29F5F2C5E044FBE0EE7D3EF:ip_addr=219.223.240.8:browse_mini:
+2012-05-12 20:41:56,972 INFO  edu.calis.ir.bit.web.servlet.SolrSearchServlet @ anonymous:session_id=DFAE0793C29F5F2C5E044FBE0EE7D3EF:ip_addr=219.223.240.8:search:query="邱晏",results=(3)
+2012-05-12 20:41:57,416 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=DFAE0793C29F5F2C5E044FBE0EE7D3EF:ip_addr=219.223.240.8:browse_mini:
+2012-05-12 20:42:06,470 INFO  org.dspace.app.webui.servlet.HandleServlet @ anonymous:session_id=DFAE0793C29F5F2C5E044FBE0EE7D3EF:ip_addr=219.223.240.8:view_item:handle=244055/3
+2012-05-12 20:42:06,502 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=DFAE0793C29F5F2C5E044FBE0EE7D3EF:ip_addr=219.223.240.8:view_item:handle=244055/3
+2012-05-12 20:42:07,094 ERROR org.dspace.statistics.SolrLogger @ Failed DNS Lookup for IP:219.223.240.8
+2012-05-12 20:42:18,084 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=DFAE0793C29F5F2C5E044FBE0EE7D3EF:ip_addr=219.223.240.8:browse_mini:

@@ -1,0 +1,1313 @@
+2012-05-17 01:00:02,378 INFO  org.dspace.core.ConfigurationManager @ Loading from classloader: file:/usr/local/CALISIR/dspace/config/dspace.cfg
+2012-05-17 01:00:02,398 INFO  org.dspace.core.ConfigurationManager @ Using dspace provided log configuration (log.init.config)
+2012-05-17 01:00:02,398 INFO  org.dspace.core.ConfigurationManager @ Loading: /usr/local/CALISIR/dspace/config/log4j.properties
+2012-05-17 01:00:02,663 INFO  org.dspace.core.ConfigurationManager @ Loading from classloader: file:/usr/local/CALISIR/dspace/config/dspace.cfg
+2012-05-17 01:00:02,672 INFO  org.dspace.core.ConfigurationManager @ Using dspace provided log configuration (log.init.config)
+2012-05-17 01:00:02,672 INFO  org.dspace.core.ConfigurationManager @ Loading: /usr/local/CALISIR/dspace/config/log4j.properties
+2012-05-17 01:00:03,816 INFO  org.dspace.core.ConfigurationManager @ Loading from classloader: file:/usr/local/CALISIR/dspace/config/dspace.cfg
+2012-05-17 01:00:03,828 INFO  org.dspace.core.ConfigurationManager @ Using dspace provided log configuration (log.init.config)
+2012-05-17 01:00:03,828 INFO  org.dspace.core.ConfigurationManager @ Loading: /usr/local/CALISIR/dspace/config/log4j.properties
+2012-05-17 01:00:08,869 FATAL org.dspace.eperson.Subscribe @ java.util.MissingResourceException: Can't find bundle for base name Messages, locale en
+2012-05-17 02:00:02,319 INFO  org.dspace.core.ConfigurationManager @ Loading from classloader: file:/usr/local/CALISIR/dspace/config/dspace.cfg
+2012-05-17 02:00:02,339 INFO  org.dspace.core.ConfigurationManager @ Using dspace provided log configuration (log.init.config)
+2012-05-17 02:00:02,339 INFO  org.dspace.core.ConfigurationManager @ Loading: /usr/local/CALISIR/dspace/config/log4j.properties
+2012-05-17 02:00:02,669 INFO  org.dspace.core.ConfigurationManager @ Loading from classloader: file:/usr/local/CALISIR/dspace/config/dspace.cfg
+2012-05-17 02:00:02,677 INFO  org.dspace.core.ConfigurationManager @ Using dspace provided log configuration (log.init.config)
+2012-05-17 02:00:02,677 INFO  org.dspace.core.ConfigurationManager @ Loading: /usr/local/CALISIR/dspace/config/log4j.properties
+2012-05-17 02:00:03,621 INFO  org.dspace.core.ConfigurationManager @ Loading from classloader: file:/usr/local/CALISIR/dspace/config/dspace.cfg
+2012-05-17 02:00:03,630 INFO  org.dspace.core.ConfigurationManager @ Using dspace provided log configuration (log.init.config)
+2012-05-17 02:00:03,630 INFO  org.dspace.core.ConfigurationManager @ Loading: /usr/local/CALISIR/dspace/config/log4j.properties
+2012-05-17 02:00:07,387 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2012-05-17 02:00:07,399 INFO  org.dspace.content.MetadataSchema @ Loading schema cache for fast finds
+2012-05-17 02:00:07,791 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2012-05-17 02:00:07,807 INFO  org.dspace.content.MetadataSchema @ Loading schema cache for fast finds
+2012-05-17 02:00:08,129 INFO  org.dspace.search.DSIndexer @ Writing Collection: 244055/33 to Index
+2012-05-17 02:00:08,138 INFO  org.dspace.search.DSIndexer @ Writing Collection: 244055/2 to Index
+2012-05-17 02:00:08,140 INFO  org.dspace.search.DSIndexer @ Writing Collection: 244055/15 to Index
+2012-05-17 02:00:08,142 INFO  org.dspace.search.DSIndexer @ Writing Collection: 244055/20 to Index
+2012-05-17 02:00:08,143 INFO  org.dspace.search.DSIndexer @ Writing Collection: 244055/17 to Index
+2012-05-17 02:00:08,145 INFO  org.dspace.search.DSIndexer @ Writing Collection: 244055/18 to Index
+2012-05-17 02:00:08,146 INFO  org.dspace.search.DSIndexer @ Writing Collection: 244055/16 to Index
+2012-05-17 02:00:08,146 INFO  org.dspace.search.DSIndexer @ Writing Collection: 244055/19 to Index
+2012-05-17 02:00:08,147 INFO  org.dspace.search.DSIndexer @ Writing Collection: 244055/7 to Index
+2012-05-17 02:00:08,148 INFO  org.dspace.search.DSIndexer @ Writing Collection: 244055/10 to Index
+2012-05-17 02:00:08,149 INFO  org.dspace.search.DSIndexer @ Writing Collection: 244055/9 to Index
+2012-05-17 02:00:08,150 INFO  org.dspace.search.DSIndexer @ Writing Collection: 244055/11 to Index
+2012-05-17 02:00:08,151 INFO  org.dspace.search.DSIndexer @ Writing Collection: 244055/8 to Index
+2012-05-17 02:00:08,152 INFO  org.dspace.search.DSIndexer @ Writing Collection: 244055/12 to Index
+2012-05-17 02:00:08,165 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/53 to Index
+2012-05-17 02:00:08,165 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/36 to Index
+2012-05-17 02:00:08,165 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/52 to Index
+2012-05-17 02:00:08,165 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/39 to Index
+2012-05-17 02:00:08,165 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/49 to Index
+2012-05-17 02:00:08,165 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/1 to Index
+2012-05-17 02:00:09,574 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/37 to Index
+2012-05-17 02:00:09,574 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/42 to Index
+2012-05-17 02:00:09,574 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/54 to Index
+2012-05-17 02:00:09,574 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/43 to Index
+2012-05-17 02:00:09,574 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/47 to Index
+2012-05-17 02:00:09,574 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/46 to Index
+2012-05-17 02:00:09,574 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/34 to Index
+2012-05-17 02:00:09,575 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/40 to Index
+2012-05-17 02:00:09,575 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/56 to Index
+2012-05-17 02:00:09,575 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/44 to Index
+2012-05-17 02:00:09,576 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/41 to Index
+2012-05-17 02:00:09,576 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/38 to Index
+2012-05-17 02:00:09,576 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/48 to Index
+2012-05-17 02:00:09,576 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/51 to Index
+2012-05-17 02:00:09,576 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/57 to Index
+2012-05-17 02:00:09,576 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/35 to Index
+2012-05-17 02:00:09,577 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/45 to Index
+2012-05-17 02:00:09,577 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/14 to Index
+2012-05-17 02:00:09,577 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/6 to Index
+2012-05-17 02:00:09,577 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/55 to Index
+2012-05-17 04:00:02,061 INFO  org.dspace.core.ConfigurationManager @ Loading from classloader: file:/usr/local/CALISIR/dspace/config/dspace.cfg
+2012-05-17 04:00:02,082 INFO  org.dspace.core.ConfigurationManager @ Using dspace provided log configuration (log.init.config)
+2012-05-17 04:00:02,082 INFO  org.dspace.core.ConfigurationManager @ Loading: /usr/local/CALISIR/dspace/config/log4j.properties
+2012-05-17 08:46:02,347 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=4D82359296F526179E7DBE534D02F2F5:ip_addr=222.200.127.20:browse_mini:
+2012-05-17 08:48:31,274 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=3295C081A66B932C1AA7407DCCF8F1E7:ip_addr=202.116.138.24:browse_mini:
+2012-05-17 08:49:44,940 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=BC79C9EF0FA6583C3C72C1D8EE281C18:ip_addr=222.200.127.35:browse_mini:
+2012-05-17 08:50:51,674 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=954C79BB773A5E810B9B347A71B11F0E:ip_addr=222.200.127.20:browse_mini:
+2012-05-17 08:54:24,722 INFO  org.dspace.app.webui.servlet.HandleServlet @ anonymous:session_id=954C79BB773A5E810B9B347A71B11F0E:ip_addr=222.200.127.20:view_item:handle=244055/21
+2012-05-17 08:54:24,732 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=954C79BB773A5E810B9B347A71B11F0E:ip_addr=222.200.127.20:view_item:handle=244055/21
+2012-05-17 08:54:24,732 ERROR org.dspace.statistics.SolrLogger @ Failed DNS Lookup for IP:222.200.127.20
+2012-05-17 08:55:12,369 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=954C79BB773A5E810B9B347A71B11F0E:ip_addr=222.200.127.20:browse_mini:
+2012-05-17 09:03:50,471 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=C7BD2AD5C5D8B0ED623F51A53CDEF961:ip_addr=222.200.127.20:browse_mini:
+2012-05-17 09:04:17,509 INFO  org.dspace.app.webui.servlet.HandleServlet @ anonymous:session_id=C7BD2AD5C5D8B0ED623F51A53CDEF961:ip_addr=222.200.127.20:view_item:handle=244055/21
+2012-05-17 09:04:17,518 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=C7BD2AD5C5D8B0ED623F51A53CDEF961:ip_addr=222.200.127.20:view_item:handle=244055/21
+2012-05-17 09:04:17,518 ERROR org.dspace.statistics.SolrLogger @ Failed DNS Lookup for IP:222.200.127.20
+2012-05-17 09:16:16,428 INFO  org.dspace.app.webui.servlet.RegisterServlet @ anonymous:session_id=954C79BB773A5E810B9B347A71B11F0E:ip_addr=222.200.127.20:sendtoken_register:email=liangyingyi002@foxmail.com
+2012-05-17 09:16:16,955 INFO  org.dspace.eperson.AccountManager @ Sent registration information to liangyingyi002@foxmail.com
+2012-05-17 09:21:04,003 INFO  org.dspace.eperson.EPerson @ anonymous:session_id=1F48E5D2FF52F31B0A5135CBBAD5AD18:ip_addr=222.200.127.20:create_eperson:eperson_id=4
+2012-05-17 09:21:04,018 INFO  org.dspace.eperson.EPerson @ anonymous:session_id=1F48E5D2FF52F31B0A5135CBBAD5AD18:ip_addr=222.200.127.20:update_eperson:eperson_id=4
+2012-05-17 09:21:04,018 INFO  org.dspace.app.webui.servlet.RegisterServlet @ liangyingyi002@foxmail.com:session_id=1F48E5D2FF52F31B0A5135CBBAD5AD18:ip_addr=222.200.127.20:usedtoken_register:email=liangyingyi002@foxmail.com
+2012-05-17 09:21:04,019 INFO  org.dspace.eperson.EPerson @ liangyingyi002@foxmail.com:session_id=1F48E5D2FF52F31B0A5135CBBAD5AD18:ip_addr=222.200.127.20:update_eperson:eperson_id=4
+2012-05-17 09:21:04,384 INFO  org.dspace.eperson.EPersonConsumer @ liangyingyi002@foxmail.com:session_id=1F48E5D2FF52F31B0A5135CBBAD5AD18:ip_addr=222.200.127.20:registerion_alert:user=liangyingyi002@foxmail.com
+2012-05-17 09:21:24,997 INFO  edu.calis.ir.tsinghua.components.CalisAuthentication @ anonymous:session_id=1F48E5D2FF52F31B0A5135CBBAD5AD18:ip_addr=222.200.127.20:authenticate:attempting calis auth of user=liangyingyi002@foxmail.com
+2012-05-17 09:21:24,997 INFO  edu.calis.ir.tsinghua.components.CalisAuthentication @ liangyingyi002@foxmail.com:session_id=1F48E5D2FF52F31B0A5135CBBAD5AD18:ip_addr=222.200.127.20:authenticate:type=PasswordAuthentication
+2012-05-17 09:21:24,998 INFO  org.dspace.app.webui.servlet.PasswordServlet @ liangyingyi002@foxmail.com:session_id=1F48E5D2FF52F31B0A5135CBBAD5AD18:ip_addr=222.200.127.20:login:type=explicit
+2012-05-17 09:21:25,025 INFO  org.dspace.app.webui.servlet.MyDSpaceServlet @ liangyingyi002@foxmail.com:session_id=76D2C418D7EDDD073C31995831B07D0D:ip_addr=222.200.127.20:view_mydspace:
+2012-05-17 09:22:46,427 INFO  org.dspace.eperson.Group @ liangyingyi002@foxmail.com:session_id=76D2C418D7EDDD073C31995831B07D0D:ip_addr=222.200.127.20:update_group:group_id=9
+2012-05-17 09:22:46,428 INFO  org.dspace.eperson.Group @ liangyingyi002@foxmail.com:session_id=76D2C418D7EDDD073C31995831B07D0D:ip_addr=222.200.127.20:update_group:group_id=14
+2012-05-17 09:22:46,430 INFO  org.dspace.eperson.Group @ liangyingyi002@foxmail.com:session_id=76D2C418D7EDDD073C31995831B07D0D:ip_addr=222.200.127.20:update_group:group_id=11
+2012-05-17 09:22:46,431 INFO  org.dspace.eperson.Group @ liangyingyi002@foxmail.com:session_id=76D2C418D7EDDD073C31995831B07D0D:ip_addr=222.200.127.20:update_group:group_id=12
+2012-05-17 09:22:46,433 INFO  org.dspace.eperson.Group @ liangyingyi002@foxmail.com:session_id=76D2C418D7EDDD073C31995831B07D0D:ip_addr=222.200.127.20:update_group:group_id=10
+2012-05-17 09:22:46,433 INFO  org.dspace.eperson.Group @ liangyingyi002@foxmail.com:session_id=76D2C418D7EDDD073C31995831B07D0D:ip_addr=222.200.127.20:update_group:group_id=13
+2012-05-17 09:22:46,434 INFO  org.dspace.eperson.EPerson @ null:session_id=76D2C418D7EDDD073C31995831B07D0D:ip_addr=222.200.127.20:update_eperson:eperson_id=4
+2012-05-17 09:22:46,442 INFO  org.dspace.app.webui.servlet.MyDSpaceServlet @ null:session_id=76D2C418D7EDDD073C31995831B07D0D:ip_addr=222.200.127.20:view_mydspace:
+2012-05-17 09:22:46,501 WARN  org.dspace.app.webui.jsptag.LayoutTag @ Exception
+org.apache.jasper.JasperException: java.lang.NullPointerException
+	at org.apache.jasper.servlet.JspServletWrapper.handleJspException(JspServletWrapper.java:500)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:428)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:313)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:260)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.dspace.utils.servlet.DSpaceWebappServletFilter.doFilter(DSpaceWebappServletFilter.java:78)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:235)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:646)
+	at org.apache.catalina.core.ApplicationDispatcher.doInclude(ApplicationDispatcher.java:551)
+	at org.apache.catalina.core.ApplicationDispatcher.include(ApplicationDispatcher.java:488)
+	at org.dspace.app.webui.jsptag.LayoutTag.doStartTag(LayoutTag.java:349)
+	at org.apache.jsp.mydspace.main_jsp._jspService(main_jsp.java:185)
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:386)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:313)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:260)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.dspace.utils.servlet.DSpaceWebappServletFilter.doFilter(DSpaceWebappServletFilter.java:78)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:235)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:646)
+	at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:436)
+	at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:374)
+	at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:302)
+	at org.dspace.app.webui.util.JSPManager.showJSP(JSPManager.java:60)
+	at org.dspace.app.webui.servlet.MyDSpaceServlet.showMainPage(MyDSpaceServlet.java:755)
+	at org.dspace.app.webui.servlet.MyDSpaceServlet.doDSGet(MyDSpaceServlet.java:82)
+	at org.dspace.app.webui.servlet.DSpaceServlet.processRequest(DSpaceServlet.java:119)
+	at org.dspace.app.webui.servlet.DSpaceServlet.doGet(DSpaceServlet.java:67)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:617)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.dspace.app.webui.filter.RegisteredOnlyFilter.doFilter(RegisteredOnlyFilter.java:66)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:235)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.dspace.utils.servlet.DSpaceWebappServletFilter.doFilter(DSpaceWebappServletFilter.java:78)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:235)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:102)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:298)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:859)
+	at org.apache.coyote.http11.Http11Protocol$Http11ConnectionHandler.process(Http11Protocol.java:588)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:489)
+	at java.lang.Thread.run(Thread.java:662)
+Caused by: java.lang.NullPointerException
+	at org.apache.jsp.layout.header_002ddefault_jsp._jspService(header_002ddefault_jsp.java:149)
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:386)
+	... 53 more
+2012-05-17 09:22:46,504 WARN  org.dspace.app.webui.servlet.InternalErrorServlet @ :session_id=76D2C418D7EDDD073C31995831B07D0D:internal_error:-- URL Was: http://222.200.98.193/mydspace
+-- Method: GET
+-- Parameters were:
+
+javax.servlet.ServletException: org.apache.jasper.JasperException: javax.servlet.ServletException: javax.servlet.jsp.JspException: Got ServletException: javax.servlet.ServletException: org.apache.jasper.JasperException: java.lang.NullPointerException
+	at org.dspace.utils.servlet.DSpaceWebappServletFilter.doFilter(DSpaceWebappServletFilter.java:85)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:235)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:646)
+	at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:436)
+	at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:374)
+	at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:302)
+	at org.dspace.app.webui.util.JSPManager.showJSP(JSPManager.java:60)
+	at org.dspace.app.webui.servlet.MyDSpaceServlet.showMainPage(MyDSpaceServlet.java:755)
+	at org.dspace.app.webui.servlet.MyDSpaceServlet.doDSGet(MyDSpaceServlet.java:82)
+	at org.dspace.app.webui.servlet.DSpaceServlet.processRequest(DSpaceServlet.java:119)
+	at org.dspace.app.webui.servlet.DSpaceServlet.doGet(DSpaceServlet.java:67)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:617)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.dspace.app.webui.filter.RegisteredOnlyFilter.doFilter(RegisteredOnlyFilter.java:66)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:235)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.dspace.utils.servlet.DSpaceWebappServletFilter.doFilter(DSpaceWebappServletFilter.java:78)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:235)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:102)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:298)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:859)
+	at org.apache.coyote.http11.Http11Protocol$Http11ConnectionHandler.process(Http11Protocol.java:588)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:489)
+	at java.lang.Thread.run(Thread.java:662)
+Caused by: org.apache.jasper.JasperException: javax.servlet.ServletException: javax.servlet.jsp.JspException: Got ServletException: javax.servlet.ServletException: org.apache.jasper.JasperException: java.lang.NullPointerException
+	at org.apache.jasper.servlet.JspServletWrapper.handleJspException(JspServletWrapper.java:500)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:410)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:313)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:260)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.dspace.utils.servlet.DSpaceWebappServletFilter.doFilter(DSpaceWebappServletFilter.java:78)
+	... 31 more
+Caused by: javax.servlet.ServletException: javax.servlet.jsp.JspException: Got ServletException: javax.servlet.ServletException: org.apache.jasper.JasperException: java.lang.NullPointerException
+	at org.apache.jasper.runtime.PageContextImpl.doHandlePageException(PageContextImpl.java:865)
+	at org.apache.jasper.runtime.PageContextImpl.handlePageException(PageContextImpl.java:794)
+	at org.apache.jsp.mydspace.main_jsp._jspService(main_jsp.java:1074)
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:386)
+	... 37 more
+Caused by: javax.servlet.jsp.JspException: Got ServletException: javax.servlet.ServletException: org.apache.jasper.JasperException: java.lang.NullPointerException
+	at org.dspace.app.webui.jsptag.LayoutTag.doStartTag(LayoutTag.java:358)
+	at org.apache.jsp.mydspace.main_jsp._jspService(main_jsp.java:185)
+	... 40 more
+2012-05-17 09:22:46,882 WARN  org.dspace.app.webui.jsptag.LayoutTag @ Exception
+org.apache.jasper.JasperException: java.lang.NullPointerException
+	at org.apache.jasper.servlet.JspServletWrapper.handleJspException(JspServletWrapper.java:500)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:428)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:313)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:260)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.dspace.utils.servlet.DSpaceWebappServletFilter.doFilter(DSpaceWebappServletFilter.java:78)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:235)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:646)
+	at org.apache.catalina.core.ApplicationDispatcher.doInclude(ApplicationDispatcher.java:551)
+	at org.apache.catalina.core.ApplicationDispatcher.include(ApplicationDispatcher.java:488)
+	at org.dspace.app.webui.jsptag.LayoutTag.doStartTag(LayoutTag.java:349)
+	at org.apache.jsp.error.internal_jsp._jspService(internal_jsp.java:93)
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:386)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:313)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:260)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:646)
+	at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:438)
+	at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:374)
+	at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:302)
+	at org.dspace.app.webui.util.JSPManager.showJSP(JSPManager.java:60)
+	at org.dspace.app.webui.servlet.InternalErrorServlet.doGet(InternalErrorServlet.java:56)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:617)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:646)
+	at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:438)
+	at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:374)
+	at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:302)
+	at org.apache.catalina.core.StandardHostValve.custom(StandardHostValve.java:421)
+	at org.apache.catalina.core.StandardHostValve.throwable(StandardHostValve.java:270)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:141)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:102)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:298)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:859)
+	at org.apache.coyote.http11.Http11Protocol$Http11ConnectionHandler.process(Http11Protocol.java:588)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:489)
+	at java.lang.Thread.run(Thread.java:662)
+Caused by: java.lang.NullPointerException
+	at org.apache.jsp.layout.header_002ddefault_jsp._jspService(header_002ddefault_jsp.java:149)
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:386)
+	... 45 more
+2012-05-17 09:42:09,651 INFO  edu.calis.ir.bit.web.listener.ConfigListener @ ConfigListener is start
+2012-05-17 09:42:26,331 ERROR org.dspace.app.util.Util @ 
+java.lang.NullPointerException
+	at java.util.Properties$LineReader.readLine(Properties.java:418)
+	at java.util.Properties.load0(Properties.java:337)
+	at java.util.Properties.load(Properties.java:325)
+	at org.dspace.app.util.Util.getSourceVersion(Util.java:328)
+	at org.apache.jsp.layout.header_002ddefault_jsp._jspService(header_002ddefault_jsp.java:126)
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:386)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:313)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:260)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.dspace.utils.servlet.DSpaceWebappServletFilter.doFilter(DSpaceWebappServletFilter.java:78)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:235)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:646)
+	at org.apache.catalina.core.ApplicationDispatcher.doInclude(ApplicationDispatcher.java:551)
+	at org.apache.catalina.core.ApplicationDispatcher.include(ApplicationDispatcher.java:488)
+	at org.dspace.app.webui.jsptag.LayoutTag.doStartTag(LayoutTag.java:349)
+	at org.apache.jsp.home_jsp._jspService(home_jsp.java:270)
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:386)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:313)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:260)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.dspace.utils.servlet.DSpaceWebappServletFilter.doFilter(DSpaceWebappServletFilter.java:78)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:235)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:646)
+	at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:436)
+	at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:374)
+	at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:302)
+	at org.dspace.app.webui.util.JSPManager.showJSP(JSPManager.java:60)
+	at org.apache.jsp.index_jsp._jspService(index_jsp.java:107)
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:386)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:313)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:260)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.dspace.utils.servlet.DSpaceWebappServletFilter.doFilter(DSpaceWebappServletFilter.java:78)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:235)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:102)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:298)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:859)
+	at org.apache.coyote.http11.Http11Protocol$Http11ConnectionHandler.process(Http11Protocol.java:588)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:489)
+	at java.lang.Thread.run(Thread.java:662)
+2012-05-17 09:42:26,734 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=954C79BB773A5E810B9B347A71B11F0E:ip_addr=222.200.127.20:browse_mini:
+2012-05-17 09:42:26,776 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2012-05-17 09:42:26,788 INFO  org.dspace.content.MetadataSchema @ Loading schema cache for fast finds
+2012-05-17 09:42:56,215 INFO  edu.calis.ir.tsinghua.components.CalisAuthentication @ anonymous:session_id=954C79BB773A5E810B9B347A71B11F0E:ip_addr=222.200.127.20:authenticate:attempting calis auth of user=liangyy@gdut.edu.cn
+2012-05-17 09:42:56,226 INFO  edu.calis.ir.tsinghua.components.CalisAuthentication @ liangyy@gdut.edu.cn:session_id=954C79BB773A5E810B9B347A71B11F0E:ip_addr=222.200.127.20:authenticate:type=PasswordAuthentication
+2012-05-17 09:42:56,237 INFO  org.dspace.app.webui.servlet.PasswordServlet @ liangyy@gdut.edu.cn:session_id=954C79BB773A5E810B9B347A71B11F0E:ip_addr=222.200.127.20:login:type=explicit
+2012-05-17 09:42:56,243 INFO  org.dspace.app.webui.servlet.MyDSpaceServlet @ liangyy@gdut.edu.cn:session_id=7AF4E7985099AB97C9435DFAD3767E77:ip_addr=222.200.127.20:view_mydspace:
+2012-05-17 09:43:09,573 WARN  org.dspace.app.webui.servlet.InternalErrorServlet @ :session_id=7AF4E7985099AB97C9435DFAD3767E77:internal_error:-- URL Was: http://ir.gdut.edu.cn/tools/eperson-list?multiple=false
+-- Method: GET
+-- Parameters were:
+-- multiple: "false"
+
+javax.servlet.ServletException: org.apache.jasper.JasperException: java.lang.NullPointerException
+	at org.dspace.utils.servlet.DSpaceWebappServletFilter.doFilter(DSpaceWebappServletFilter.java:85)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:235)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:646)
+	at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:436)
+	at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:374)
+	at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:302)
+	at org.dspace.app.webui.util.JSPManager.showJSP(JSPManager.java:60)
+	at org.dspace.app.webui.servlet.admin.EPersonListServlet.doDSGet(EPersonListServlet.java:106)
+	at org.dspace.app.webui.servlet.DSpaceServlet.processRequest(DSpaceServlet.java:119)
+	at org.dspace.app.webui.servlet.DSpaceServlet.doGet(DSpaceServlet.java:67)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:617)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.dspace.app.webui.filter.RegisteredOnlyFilter.doFilter(RegisteredOnlyFilter.java:66)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:235)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.dspace.utils.servlet.DSpaceWebappServletFilter.doFilter(DSpaceWebappServletFilter.java:78)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:235)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:102)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:298)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:859)
+	at org.apache.coyote.http11.Http11Protocol$Http11ConnectionHandler.process(Http11Protocol.java:588)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:489)
+	at java.lang.Thread.run(Thread.java:662)
+Caused by: org.apache.jasper.JasperException: java.lang.NullPointerException
+	at org.apache.jasper.servlet.JspServletWrapper.handleJspException(JspServletWrapper.java:500)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:428)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:313)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:260)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.dspace.utils.servlet.DSpaceWebappServletFilter.doFilter(DSpaceWebappServletFilter.java:78)
+	... 30 more
+Caused by: java.lang.NullPointerException
+	at org.apache.jsp.tools.eperson_002dlist_jsp._jspService(eperson_002dlist_jsp.java:614)
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:386)
+	... 36 more
+2012-05-17 09:44:36,796 INFO  edu.calis.ir.tsinghua.components.CalisAuthentication @ anonymous:session_id=9062F8FDA986645CEF83D1282C4DECDA:ip_addr=222.200.127.20:authenticate:attempting calis auth of user=liangyy@gdut.edu.cn
+2012-05-17 09:44:36,798 INFO  edu.calis.ir.tsinghua.components.CalisAuthentication @ liangyy@gdut.edu.cn:session_id=9062F8FDA986645CEF83D1282C4DECDA:ip_addr=222.200.127.20:authenticate:type=PasswordAuthentication
+2012-05-17 09:44:36,799 INFO  org.dspace.app.webui.servlet.PasswordServlet @ liangyy@gdut.edu.cn:session_id=9062F8FDA986645CEF83D1282C4DECDA:ip_addr=222.200.127.20:login:type=explicit
+2012-05-17 09:44:36,891 INFO  org.dspace.app.webui.servlet.MyDSpaceServlet @ liangyy@gdut.edu.cn:session_id=C9720F7A0F5815B2715DB288974BD545:ip_addr=222.200.127.20:view_mydspace:
+2012-05-17 09:44:50,851 WARN  org.dspace.app.webui.servlet.InternalErrorServlet @ :session_id=C9720F7A0F5815B2715DB288974BD545:internal_error:-- URL Was: http://ir.gdut.edu.cn/tools/eperson-list?multiple=false
+-- Method: GET
+-- Parameters were:
+-- multiple: "false"
+
+javax.servlet.ServletException: org.apache.jasper.JasperException: java.lang.NullPointerException
+	at org.dspace.utils.servlet.DSpaceWebappServletFilter.doFilter(DSpaceWebappServletFilter.java:85)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:235)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:646)
+	at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:436)
+	at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:374)
+	at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:302)
+	at org.dspace.app.webui.util.JSPManager.showJSP(JSPManager.java:60)
+	at org.dspace.app.webui.servlet.admin.EPersonListServlet.doDSGet(EPersonListServlet.java:106)
+	at org.dspace.app.webui.servlet.DSpaceServlet.processRequest(DSpaceServlet.java:119)
+	at org.dspace.app.webui.servlet.DSpaceServlet.doGet(DSpaceServlet.java:67)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:617)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.dspace.app.webui.filter.RegisteredOnlyFilter.doFilter(RegisteredOnlyFilter.java:66)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:235)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.dspace.utils.servlet.DSpaceWebappServletFilter.doFilter(DSpaceWebappServletFilter.java:78)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:235)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:102)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:298)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:859)
+	at org.apache.coyote.http11.Http11Protocol$Http11ConnectionHandler.process(Http11Protocol.java:588)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:489)
+	at java.lang.Thread.run(Thread.java:662)
+Caused by: org.apache.jasper.JasperException: java.lang.NullPointerException
+	at org.apache.jasper.servlet.JspServletWrapper.handleJspException(JspServletWrapper.java:500)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:428)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:313)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:260)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.dspace.utils.servlet.DSpaceWebappServletFilter.doFilter(DSpaceWebappServletFilter.java:78)
+	... 30 more
+Caused by: java.lang.NullPointerException
+	at org.apache.jsp.tools.eperson_002dlist_jsp._jspService(eperson_002dlist_jsp.java:614)
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:386)
+	... 36 more
+2012-05-17 09:45:17,050 INFO  org.dspace.app.webui.servlet.LogoutServlet @ liangyy@gdut.edu.cn:session_id=C9720F7A0F5815B2715DB288974BD545:ip_addr=222.200.127.20:logout:
+2012-05-17 09:45:19,572 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=915A3EE537CFB82E2529B031A22C4A1C:ip_addr=222.200.127.20:browse_mini:
+2012-05-17 09:46:42,517 INFO  org.dspace.core.ConfigurationManager @ Loading from classloader: file:/usr/local/CALISIR/dspace/config/dspace.cfg
+2012-05-17 09:46:42,537 INFO  org.dspace.core.ConfigurationManager @ Using dspace provided log configuration (log.init.config)
+2012-05-17 09:46:42,537 INFO  org.dspace.core.ConfigurationManager @ Loading: /usr/local/CALISIR/dspace/config/log4j.properties
+2012-05-17 09:46:46,029 INFO  org.dspace.search.DSIndexer @ (Re)building index from scratch.
+2012-05-17 09:46:46,200 INFO  org.dspace.search.DSIndexer @ Writing Item: 244055/21 to Index
+2012-05-17 09:46:46,217 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2012-05-17 09:46:46,223 INFO  org.dspace.content.MetadataSchema @ Loading schema cache for fast finds
+2012-05-17 09:46:46,295 INFO  org.dspace.search.DSIndexer @ Wrote Item: 244055/21 to Index
+2012-05-17 09:46:46,296 INFO  org.dspace.search.DSIndexer @ Writing Item: 244055/58 to Index
+2012-05-17 09:46:46,312 INFO  org.dspace.search.DSIndexer @ Wrote Item: 244055/58 to Index
+2012-05-17 09:46:46,312 INFO  org.dspace.search.DSIndexer @ Writing Item: 244055/23 to Index
+2012-05-17 09:46:46,317 INFO  org.dspace.search.DSIndexer @ Wrote Item: 244055/23 to Index
+2012-05-17 09:46:46,318 INFO  org.dspace.search.DSIndexer @ Writing Item: 244055/24 to Index
+2012-05-17 09:46:46,321 INFO  org.dspace.search.DSIndexer @ Wrote Item: 244055/24 to Index
+2012-05-17 09:46:46,322 INFO  org.dspace.search.DSIndexer @ Writing Item: 244055/25 to Index
+2012-05-17 09:46:46,329 INFO  org.dspace.search.DSIndexer @ Wrote Item: 244055/25 to Index
+2012-05-17 09:46:46,329 INFO  org.dspace.search.DSIndexer @ Writing Item: 244055/26 to Index
+2012-05-17 09:46:46,332 INFO  org.dspace.search.DSIndexer @ Wrote Item: 244055/26 to Index
+2012-05-17 09:46:46,332 INFO  org.dspace.search.DSIndexer @ Writing Item: 244055/27 to Index
+2012-05-17 09:46:46,335 INFO  org.dspace.search.DSIndexer @ Wrote Item: 244055/27 to Index
+2012-05-17 09:46:46,335 INFO  org.dspace.search.DSIndexer @ Writing Item: 244055/28 to Index
+2012-05-17 09:46:46,345 INFO  org.dspace.search.DSIndexer @ Wrote Item: 244055/28 to Index
+2012-05-17 09:46:46,346 INFO  org.dspace.search.DSIndexer @ Writing Item: 244055/29 to Index
+2012-05-17 09:46:46,348 INFO  org.dspace.search.DSIndexer @ Wrote Item: 244055/29 to Index
+2012-05-17 09:46:46,349 INFO  org.dspace.search.DSIndexer @ Writing Item: 244055/30 to Index
+2012-05-17 09:46:46,351 INFO  org.dspace.search.DSIndexer @ Wrote Item: 244055/30 to Index
+2012-05-17 09:46:46,352 INFO  org.dspace.search.DSIndexer @ Writing Item: 244055/31 to Index
+2012-05-17 09:46:46,354 INFO  org.dspace.search.DSIndexer @ Wrote Item: 244055/31 to Index
+2012-05-17 09:46:46,355 INFO  org.dspace.search.DSIndexer @ Writing Item: 244055/32 to Index
+2012-05-17 09:46:46,359 INFO  org.dspace.search.DSIndexer @ Wrote Item: 244055/32 to Index
+2012-05-17 09:46:46,360 INFO  org.dspace.search.DSIndexer @ Writing Item: 244055/3 to Index
+2012-05-17 09:46:46,367 INFO  org.dspace.search.DSIndexer @ Wrote Item: 244055/3 to Index
+2012-05-17 09:46:46,368 INFO  org.dspace.search.DSIndexer @ Writing Item: 244055/4 to Index
+2012-05-17 09:46:46,375 INFO  org.dspace.search.DSIndexer @ Wrote Item: 244055/4 to Index
+2012-05-17 09:46:46,376 INFO  org.dspace.search.DSIndexer @ Writing Item: 244055/5 to Index
+2012-05-17 09:46:46,381 INFO  org.dspace.search.DSIndexer @ Wrote Item: 244055/5 to Index
+2012-05-17 09:46:46,387 INFO  org.dspace.search.DSIndexer @ Writing Collection: 244055/33 to Index
+2012-05-17 09:46:46,388 INFO  org.dspace.search.DSIndexer @ Writing Collection: 244055/2 to Index
+2012-05-17 09:46:46,389 INFO  org.dspace.search.DSIndexer @ Writing Collection: 244055/15 to Index
+2012-05-17 09:46:46,390 INFO  org.dspace.search.DSIndexer @ Writing Collection: 244055/20 to Index
+2012-05-17 09:46:46,390 INFO  org.dspace.search.DSIndexer @ Writing Collection: 244055/17 to Index
+2012-05-17 09:46:47,715 INFO  org.dspace.search.DSIndexer @ Writing Collection: 244055/18 to Index
+2012-05-17 09:46:47,715 INFO  org.dspace.search.DSIndexer @ Writing Collection: 244055/16 to Index
+2012-05-17 09:46:47,716 INFO  org.dspace.search.DSIndexer @ Writing Collection: 244055/19 to Index
+2012-05-17 09:46:47,717 INFO  org.dspace.search.DSIndexer @ Writing Collection: 244055/7 to Index
+2012-05-17 09:46:47,718 INFO  org.dspace.search.DSIndexer @ Writing Collection: 244055/10 to Index
+2012-05-17 09:46:47,718 INFO  org.dspace.search.DSIndexer @ Writing Collection: 244055/9 to Index
+2012-05-17 09:46:47,719 INFO  org.dspace.search.DSIndexer @ Writing Collection: 244055/11 to Index
+2012-05-17 09:46:47,720 INFO  org.dspace.search.DSIndexer @ Writing Collection: 244055/8 to Index
+2012-05-17 09:46:47,721 INFO  org.dspace.search.DSIndexer @ Writing Collection: 244055/12 to Index
+2012-05-17 09:46:47,727 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/53 to Index
+2012-05-17 09:46:47,728 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/36 to Index
+2012-05-17 09:46:47,728 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/52 to Index
+2012-05-17 09:46:47,728 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/39 to Index
+2012-05-17 09:46:47,728 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/49 to Index
+2012-05-17 09:46:47,728 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/1 to Index
+2012-05-17 09:46:47,728 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/37 to Index
+2012-05-17 09:46:47,728 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/42 to Index
+2012-05-17 09:46:47,728 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/54 to Index
+2012-05-17 09:46:47,728 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/43 to Index
+2012-05-17 09:46:47,728 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/47 to Index
+2012-05-17 09:46:47,819 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/46 to Index
+2012-05-17 09:46:47,819 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/34 to Index
+2012-05-17 09:46:47,819 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/40 to Index
+2012-05-17 09:46:47,819 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/56 to Index
+2012-05-17 09:46:47,819 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/44 to Index
+2012-05-17 09:46:47,819 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/41 to Index
+2012-05-17 09:46:47,819 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/38 to Index
+2012-05-17 09:46:47,820 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/48 to Index
+2012-05-17 09:46:47,820 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/51 to Index
+2012-05-17 09:46:47,820 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/57 to Index
+2012-05-17 09:46:47,820 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/35 to Index
+2012-05-17 09:46:47,820 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/45 to Index
+2012-05-17 09:46:47,820 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/14 to Index
+2012-05-17 09:46:47,820 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/6 to Index
+2012-05-17 09:46:47,820 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/55 to Index
+2012-05-17 09:46:47,979 INFO  org.dspace.search.DSIndexer @ Done with indexing
+2012-05-17 09:47:09,210 INFO  org.dspace.core.ConfigurationManager @ Loading from classloader: file:/usr/local/CALISIR/dspace/config/dspace.cfg
+2012-05-17 09:47:09,235 INFO  org.dspace.core.ConfigurationManager @ Using dspace provided log configuration (log.init.config)
+2012-05-17 09:47:09,235 INFO  org.dspace.core.ConfigurationManager @ Loading: /usr/local/CALISIR/dspace/config/log4j.properties
+2012-05-17 09:47:10,873 INFO  org.dspace.discovery.IndexClient @ Updating and Cleaning Index
+2012-05-17 09:47:11,702 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Collection: 244055/33 to Index
+2012-05-17 09:47:11,716 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Collection: 244055/2 to Index
+2012-05-17 09:47:11,732 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Collection: 244055/15 to Index
+2012-05-17 09:47:11,739 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Collection: 244055/20 to Index
+2012-05-17 09:47:11,750 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Collection: 244055/17 to Index
+2012-05-17 09:47:11,759 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Collection: 244055/18 to Index
+2012-05-17 09:47:11,765 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Collection: 244055/16 to Index
+2012-05-17 09:47:11,777 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Collection: 244055/19 to Index
+2012-05-17 09:47:11,789 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Collection: 244055/7 to Index
+2012-05-17 09:47:11,798 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Collection: 244055/10 to Index
+2012-05-17 09:47:11,804 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Collection: 244055/9 to Index
+2012-05-17 09:47:11,809 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Collection: 244055/11 to Index
+2012-05-17 09:47:11,814 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Collection: 244055/8 to Index
+2012-05-17 09:47:11,820 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Collection: 244055/12 to Index
+2012-05-17 09:47:11,845 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Community: 244055/53 to Index
+2012-05-17 09:47:11,851 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Community: 244055/36 to Index
+2012-05-17 09:47:11,855 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Community: 244055/52 to Index
+2012-05-17 09:47:11,862 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Community: 244055/39 to Index
+2012-05-17 09:47:11,867 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Community: 244055/49 to Index
+2012-05-17 09:47:11,870 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Community: 244055/1 to Index
+2012-05-17 09:47:11,876 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Community: 244055/37 to Index
+2012-05-17 09:47:11,883 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Community: 244055/42 to Index
+2012-05-17 09:47:11,890 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Community: 244055/54 to Index
+2012-05-17 09:47:11,894 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Community: 244055/43 to Index
+2012-05-17 09:47:11,899 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Community: 244055/47 to Index
+2012-05-17 09:47:11,904 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Community: 244055/46 to Index
+2012-05-17 09:47:11,909 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Community: 244055/34 to Index
+2012-05-17 09:47:11,914 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Community: 244055/40 to Index
+2012-05-17 09:47:11,918 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Community: 244055/56 to Index
+2012-05-17 09:47:11,927 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Community: 244055/44 to Index
+2012-05-17 09:47:11,935 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Community: 244055/41 to Index
+2012-05-17 09:47:11,939 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Community: 244055/38 to Index
+2012-05-17 09:47:11,944 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Community: 244055/48 to Index
+2012-05-17 09:47:11,947 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Community: 244055/51 to Index
+2012-05-17 09:47:11,951 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Community: 244055/57 to Index
+2012-05-17 09:47:11,956 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Community: 244055/35 to Index
+2012-05-17 09:47:11,962 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Community: 244055/45 to Index
+2012-05-17 09:47:11,966 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Community: 244055/14 to Index
+2012-05-17 09:47:11,969 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Community: 244055/6 to Index
+2012-05-17 09:47:11,981 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Community: 244055/55 to Index
+2012-05-17 09:47:12,318 INFO  org.dspace.discovery.IndexClient @ Done with indexing
+2012-05-17 09:47:26,427 INFO  edu.calis.ir.bit.web.listener.ConfigListener @ ConfigListener is start
+2012-05-17 09:47:28,598 INFO  net.sf.ehcache.util.UpdateChecker @ New update(s) found: 2.4.7 [http://www.terracotta.org/confluence/display/release/Release+Notes+Ehcache+Core+2.4]
+2012-05-17 09:47:51,569 INFO  org.dspace.app.webui.servlet.LogoutServlet @ liangyy@gdut.edu.cn:session_id=7AF4E7985099AB97C9435DFAD3767E77:ip_addr=222.200.127.20:logout:
+2012-05-17 09:47:51,681 ERROR org.dspace.app.util.Util @ 
+java.lang.NullPointerException
+	at java.util.Properties$LineReader.readLine(Properties.java:418)
+	at java.util.Properties.load0(Properties.java:337)
+	at java.util.Properties.load(Properties.java:325)
+	at org.dspace.app.util.Util.getSourceVersion(Util.java:328)
+	at org.apache.jsp.layout.header_002ddefault_jsp._jspService(header_002ddefault_jsp.java:126)
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:386)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:313)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:260)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.dspace.utils.servlet.DSpaceWebappServletFilter.doFilter(DSpaceWebappServletFilter.java:78)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:235)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:646)
+	at org.apache.catalina.core.ApplicationDispatcher.doInclude(ApplicationDispatcher.java:551)
+	at org.apache.catalina.core.ApplicationDispatcher.include(ApplicationDispatcher.java:488)
+	at org.dspace.app.webui.jsptag.LayoutTag.doStartTag(LayoutTag.java:349)
+	at org.apache.jsp.login.logged_002dout_jsp._jspService(logged_002dout_jsp.java:83)
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:386)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:313)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:260)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.dspace.utils.servlet.DSpaceWebappServletFilter.doFilter(DSpaceWebappServletFilter.java:78)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:235)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:646)
+	at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:436)
+	at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:374)
+	at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:302)
+	at org.dspace.app.webui.util.JSPManager.showJSP(JSPManager.java:60)
+	at org.dspace.app.webui.servlet.LogoutServlet.doDSGet(LogoutServlet.java:52)
+	at org.dspace.app.webui.servlet.DSpaceServlet.processRequest(DSpaceServlet.java:119)
+	at org.dspace.app.webui.servlet.DSpaceServlet.doGet(DSpaceServlet.java:67)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:617)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.dspace.utils.servlet.DSpaceWebappServletFilter.doFilter(DSpaceWebappServletFilter.java:78)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:235)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:102)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:298)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:859)
+	at org.apache.coyote.http11.Http11Protocol$Http11ConnectionHandler.process(Http11Protocol.java:588)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:489)
+	at java.lang.Thread.run(Thread.java:662)
+2012-05-17 09:47:59,730 INFO  edu.calis.ir.tsinghua.components.CalisAuthentication @ anonymous:session_id=B0A7712607D3D56032EB9F586A435387:ip_addr=222.200.127.20:authenticate:attempting calis auth of user=liangyy@gdut.edu.cn
+2012-05-17 09:47:59,737 INFO  edu.calis.ir.tsinghua.components.CalisAuthentication @ liangyy@gdut.edu.cn:session_id=B0A7712607D3D56032EB9F586A435387:ip_addr=222.200.127.20:authenticate:type=PasswordAuthentication
+2012-05-17 09:47:59,739 INFO  org.dspace.app.webui.servlet.PasswordServlet @ liangyy@gdut.edu.cn:session_id=B0A7712607D3D56032EB9F586A435387:ip_addr=222.200.127.20:login:type=explicit
+2012-05-17 09:47:59,748 INFO  org.dspace.app.webui.servlet.MyDSpaceServlet @ liangyy@gdut.edu.cn:session_id=C585F4A8BF962D8AD06F68ECBD8E421B:ip_addr=222.200.127.20:view_mydspace:
+2012-05-17 09:48:04,236 INFO  org.dspace.browse.BrowseEngine @ liangyy@gdut.edu.cn:session_id=C585F4A8BF962D8AD06F68ECBD8E421B:ip_addr=222.200.127.20:browse_mini:
+2012-05-17 09:48:04,266 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2012-05-17 09:48:04,291 INFO  org.dspace.content.MetadataSchema @ Loading schema cache for fast finds
+2012-05-17 09:48:18,186 INFO  org.dspace.app.webui.servlet.MyDSpaceServlet @ liangyy@gdut.edu.cn:session_id=C585F4A8BF962D8AD06F68ECBD8E421B:ip_addr=222.200.127.20:view_mydspace:
+2012-05-17 09:48:24,728 WARN  org.dspace.app.webui.servlet.InternalErrorServlet @ :session_id=C585F4A8BF962D8AD06F68ECBD8E421B:internal_error:-- URL Was: http://ir.gdut.edu.cn/tools/eperson-list?multiple=false
+-- Method: GET
+-- Parameters were:
+-- multiple: "false"
+
+javax.servlet.ServletException: org.apache.jasper.JasperException: java.lang.NullPointerException
+	at org.dspace.utils.servlet.DSpaceWebappServletFilter.doFilter(DSpaceWebappServletFilter.java:85)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:235)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:646)
+	at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:436)
+	at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:374)
+	at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:302)
+	at org.dspace.app.webui.util.JSPManager.showJSP(JSPManager.java:60)
+	at org.dspace.app.webui.servlet.admin.EPersonListServlet.doDSGet(EPersonListServlet.java:106)
+	at org.dspace.app.webui.servlet.DSpaceServlet.processRequest(DSpaceServlet.java:119)
+	at org.dspace.app.webui.servlet.DSpaceServlet.doGet(DSpaceServlet.java:67)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:617)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.dspace.app.webui.filter.RegisteredOnlyFilter.doFilter(RegisteredOnlyFilter.java:66)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:235)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.dspace.utils.servlet.DSpaceWebappServletFilter.doFilter(DSpaceWebappServletFilter.java:78)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:235)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:102)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:298)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:859)
+	at org.apache.coyote.http11.Http11Protocol$Http11ConnectionHandler.process(Http11Protocol.java:588)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:489)
+	at java.lang.Thread.run(Thread.java:662)
+Caused by: org.apache.jasper.JasperException: java.lang.NullPointerException
+	at org.apache.jasper.servlet.JspServletWrapper.handleJspException(JspServletWrapper.java:500)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:428)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:313)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:260)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.dspace.utils.servlet.DSpaceWebappServletFilter.doFilter(DSpaceWebappServletFilter.java:78)
+	... 30 more
+Caused by: java.lang.NullPointerException
+	at org.apache.jsp.tools.eperson_002dlist_jsp._jspService(eperson_002dlist_jsp.java:614)
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:386)
+	... 36 more
+2012-05-17 09:49:33,758 INFO  org.dspace.app.webui.servlet.RegisterServlet @ anonymous:session_id=915A3EE537CFB82E2529B031A22C4A1C:ip_addr=222.200.127.20:sendtoken_register:email=liangyingyi002@foxmail.com
+2012-05-17 09:49:34,053 INFO  org.dspace.eperson.AccountManager @ Sent registration information to liangyingyi002@foxmail.com
+2012-05-17 09:50:08,549 INFO  edu.calis.ir.tsinghua.components.CalisAuthentication @ anonymous:session_id=915A3EE537CFB82E2529B031A22C4A1C:ip_addr=222.200.127.20:authenticate:attempting calis auth of user=liangyingyi002@foxmail.com
+2012-05-17 09:50:08,550 INFO  org.dspace.authenticate.PasswordAuthentication @ anonymous:session_id=915A3EE537CFB82E2529B031A22C4A1C:ip_addr=222.200.127.20:authenticate:attempting password auth of user=liangyingyi002@foxmail.com
+2012-05-17 09:50:08,550 INFO  org.dspace.app.webui.servlet.PasswordServlet @ anonymous:session_id=915A3EE537CFB82E2529B031A22C4A1C:ip_addr=222.200.127.20:failed_login:email=liangyingyi002@foxmail.com, result=4
+2012-05-17 09:51:51,843 INFO  org.dspace.core.ConfigurationManager @ Loading from classloader: file:/usr/local/CALISIR/dspace/config/dspace.cfg
+2012-05-17 09:51:51,863 INFO  org.dspace.core.ConfigurationManager @ Using dspace provided log configuration (log.init.config)
+2012-05-17 09:51:51,863 INFO  org.dspace.core.ConfigurationManager @ Loading: /usr/local/CALISIR/dspace/config/log4j.properties
+2012-05-17 09:51:55,151 INFO  org.dspace.search.DSIndexer @ (Re)building index from scratch.
+2012-05-17 09:51:55,364 INFO  org.dspace.search.DSIndexer @ Writing Item: 244055/21 to Index
+2012-05-17 09:51:55,381 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2012-05-17 09:51:55,388 INFO  org.dspace.content.MetadataSchema @ Loading schema cache for fast finds
+2012-05-17 09:51:55,432 INFO  org.dspace.search.DSIndexer @ Wrote Item: 244055/21 to Index
+2012-05-17 09:51:55,432 INFO  org.dspace.search.DSIndexer @ Writing Item: 244055/58 to Index
+2012-05-17 09:51:55,440 INFO  org.dspace.search.DSIndexer @ Wrote Item: 244055/58 to Index
+2012-05-17 09:51:55,441 INFO  org.dspace.search.DSIndexer @ Writing Item: 244055/23 to Index
+2012-05-17 09:51:55,446 INFO  org.dspace.search.DSIndexer @ Wrote Item: 244055/23 to Index
+2012-05-17 09:51:55,449 INFO  org.dspace.search.DSIndexer @ Writing Item: 244055/24 to Index
+2012-05-17 09:51:55,452 INFO  org.dspace.search.DSIndexer @ Wrote Item: 244055/24 to Index
+2012-05-17 09:51:55,453 INFO  org.dspace.search.DSIndexer @ Writing Item: 244055/25 to Index
+2012-05-17 09:51:55,459 INFO  org.dspace.search.DSIndexer @ Wrote Item: 244055/25 to Index
+2012-05-17 09:51:55,460 INFO  org.dspace.search.DSIndexer @ Writing Item: 244055/26 to Index
+2012-05-17 09:51:55,462 INFO  org.dspace.search.DSIndexer @ Wrote Item: 244055/26 to Index
+2012-05-17 09:51:55,463 INFO  org.dspace.search.DSIndexer @ Writing Item: 244055/27 to Index
+2012-05-17 09:51:55,465 INFO  org.dspace.search.DSIndexer @ Wrote Item: 244055/27 to Index
+2012-05-17 09:51:55,466 INFO  org.dspace.search.DSIndexer @ Writing Item: 244055/28 to Index
+2012-05-17 09:51:55,473 INFO  org.dspace.search.DSIndexer @ Wrote Item: 244055/28 to Index
+2012-05-17 09:51:55,474 INFO  org.dspace.search.DSIndexer @ Writing Item: 244055/29 to Index
+2012-05-17 09:51:55,476 INFO  org.dspace.search.DSIndexer @ Wrote Item: 244055/29 to Index
+2012-05-17 09:51:55,477 INFO  org.dspace.search.DSIndexer @ Writing Item: 244055/30 to Index
+2012-05-17 09:51:55,479 INFO  org.dspace.search.DSIndexer @ Wrote Item: 244055/30 to Index
+2012-05-17 09:51:55,480 INFO  org.dspace.search.DSIndexer @ Writing Item: 244055/31 to Index
+2012-05-17 09:51:55,482 INFO  org.dspace.search.DSIndexer @ Wrote Item: 244055/31 to Index
+2012-05-17 09:51:55,483 INFO  org.dspace.search.DSIndexer @ Writing Item: 244055/32 to Index
+2012-05-17 09:51:55,486 INFO  org.dspace.search.DSIndexer @ Wrote Item: 244055/32 to Index
+2012-05-17 09:51:55,487 INFO  org.dspace.search.DSIndexer @ Writing Item: 244055/3 to Index
+2012-05-17 09:51:55,490 INFO  org.dspace.search.DSIndexer @ Wrote Item: 244055/3 to Index
+2012-05-17 09:51:55,491 INFO  org.dspace.search.DSIndexer @ Writing Item: 244055/4 to Index
+2012-05-17 09:51:55,495 INFO  org.dspace.search.DSIndexer @ Wrote Item: 244055/4 to Index
+2012-05-17 09:51:55,495 INFO  org.dspace.search.DSIndexer @ Writing Item: 244055/5 to Index
+2012-05-17 09:51:55,499 INFO  org.dspace.search.DSIndexer @ Wrote Item: 244055/5 to Index
+2012-05-17 09:51:55,505 INFO  org.dspace.search.DSIndexer @ Writing Collection: 244055/33 to Index
+2012-05-17 09:51:55,506 INFO  org.dspace.search.DSIndexer @ Writing Collection: 244055/2 to Index
+2012-05-17 09:51:55,507 INFO  org.dspace.search.DSIndexer @ Writing Collection: 244055/15 to Index
+2012-05-17 09:51:55,508 INFO  org.dspace.search.DSIndexer @ Writing Collection: 244055/20 to Index
+2012-05-17 09:51:55,508 INFO  org.dspace.search.DSIndexer @ Writing Collection: 244055/17 to Index
+2012-05-17 09:51:56,743 INFO  org.dspace.search.DSIndexer @ Writing Collection: 244055/18 to Index
+2012-05-17 09:51:56,744 INFO  org.dspace.search.DSIndexer @ Writing Collection: 244055/16 to Index
+2012-05-17 09:51:56,746 INFO  org.dspace.search.DSIndexer @ Writing Collection: 244055/19 to Index
+2012-05-17 09:51:56,747 INFO  org.dspace.search.DSIndexer @ Writing Collection: 244055/7 to Index
+2012-05-17 09:51:56,747 INFO  org.dspace.search.DSIndexer @ Writing Collection: 244055/10 to Index
+2012-05-17 09:51:56,748 INFO  org.dspace.search.DSIndexer @ Writing Collection: 244055/9 to Index
+2012-05-17 09:51:56,748 INFO  org.dspace.search.DSIndexer @ Writing Collection: 244055/11 to Index
+2012-05-17 09:51:56,751 INFO  org.dspace.search.DSIndexer @ Writing Collection: 244055/8 to Index
+2012-05-17 09:51:56,753 INFO  org.dspace.search.DSIndexer @ Writing Collection: 244055/12 to Index
+2012-05-17 09:51:56,761 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/53 to Index
+2012-05-17 09:51:56,762 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/36 to Index
+2012-05-17 09:51:56,762 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/52 to Index
+2012-05-17 09:51:56,762 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/39 to Index
+2012-05-17 09:51:56,762 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/49 to Index
+2012-05-17 09:51:56,762 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/1 to Index
+2012-05-17 09:51:56,762 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/37 to Index
+2012-05-17 09:51:56,762 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/42 to Index
+2012-05-17 09:51:56,762 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/54 to Index
+2012-05-17 09:51:56,762 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/43 to Index
+2012-05-17 09:51:56,762 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/47 to Index
+2012-05-17 09:51:56,841 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/46 to Index
+2012-05-17 09:51:56,841 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/34 to Index
+2012-05-17 09:51:56,841 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/40 to Index
+2012-05-17 09:51:56,841 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/56 to Index
+2012-05-17 09:51:56,841 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/44 to Index
+2012-05-17 09:51:56,842 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/41 to Index
+2012-05-17 09:51:56,842 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/38 to Index
+2012-05-17 09:51:56,842 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/48 to Index
+2012-05-17 09:51:56,842 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/51 to Index
+2012-05-17 09:51:56,842 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/57 to Index
+2012-05-17 09:51:56,842 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/35 to Index
+2012-05-17 09:51:56,842 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/45 to Index
+2012-05-17 09:51:56,842 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/14 to Index
+2012-05-17 09:51:56,842 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/6 to Index
+2012-05-17 09:51:56,843 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/55 to Index
+2012-05-17 09:51:57,130 INFO  org.dspace.search.DSIndexer @ Done with indexing
+2012-05-17 09:52:00,890 INFO  org.dspace.core.ConfigurationManager @ Loading from classloader: file:/usr/local/CALISIR/dspace/config/dspace.cfg
+2012-05-17 09:52:00,910 INFO  org.dspace.core.ConfigurationManager @ Using dspace provided log configuration (log.init.config)
+2012-05-17 09:52:00,911 INFO  org.dspace.core.ConfigurationManager @ Loading: /usr/local/CALISIR/dspace/config/log4j.properties
+2012-05-17 09:52:02,571 INFO  org.dspace.discovery.IndexClient @ Updating and Cleaning Index
+2012-05-17 09:52:20,267 INFO  edu.calis.ir.bit.web.listener.ConfigListener @ ConfigListener is start
+2012-05-17 09:52:26,034 INFO  net.sf.ehcache.util.UpdateChecker @ New update(s) found: 2.4.7 [http://www.terracotta.org/confluence/display/release/Release+Notes+Ehcache+Core+2.4]
+2012-05-17 09:52:27,620 INFO  org.dspace.core.ConfigurationManager @ Loading from classloader: file:/usr/local/CALISIR/dspace/config/dspace.cfg
+2012-05-17 09:52:27,642 INFO  org.dspace.core.ConfigurationManager @ Using dspace provided log configuration (log.init.config)
+2012-05-17 09:52:27,642 INFO  org.dspace.core.ConfigurationManager @ Loading: /usr/local/CALISIR/dspace/config/log4j.properties
+2012-05-17 09:52:29,334 INFO  org.dspace.discovery.IndexClient @ Updating and Cleaning Index
+2012-05-17 09:52:29,976 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Collection: 244055/33 to Index
+2012-05-17 09:52:29,987 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Collection: 244055/2 to Index
+2012-05-17 09:52:30,002 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Collection: 244055/15 to Index
+2012-05-17 09:52:30,014 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Collection: 244055/20 to Index
+2012-05-17 09:52:30,026 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Collection: 244055/17 to Index
+2012-05-17 09:52:30,035 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Collection: 244055/18 to Index
+2012-05-17 09:52:30,045 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Collection: 244055/16 to Index
+2012-05-17 09:52:30,058 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Collection: 244055/19 to Index
+2012-05-17 09:52:30,068 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Collection: 244055/7 to Index
+2012-05-17 09:52:30,074 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Collection: 244055/10 to Index
+2012-05-17 09:52:30,079 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Collection: 244055/9 to Index
+2012-05-17 09:52:30,084 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Collection: 244055/11 to Index
+2012-05-17 09:52:30,089 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Collection: 244055/8 to Index
+2012-05-17 09:52:30,095 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Collection: 244055/12 to Index
+2012-05-17 09:52:30,117 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Community: 244055/53 to Index
+2012-05-17 09:52:30,122 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Community: 244055/36 to Index
+2012-05-17 09:52:30,128 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Community: 244055/52 to Index
+2012-05-17 09:52:30,136 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Community: 244055/39 to Index
+2012-05-17 09:52:30,141 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Community: 244055/49 to Index
+2012-05-17 09:52:30,144 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Community: 244055/1 to Index
+2012-05-17 09:52:30,152 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Community: 244055/37 to Index
+2012-05-17 09:52:30,159 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Community: 244055/42 to Index
+2012-05-17 09:52:30,173 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Community: 244055/54 to Index
+2012-05-17 09:52:30,179 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Community: 244055/43 to Index
+2012-05-17 09:52:30,182 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Community: 244055/47 to Index
+2012-05-17 09:52:30,188 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Community: 244055/46 to Index
+2012-05-17 09:52:30,211 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Community: 244055/34 to Index
+2012-05-17 09:52:30,219 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Community: 244055/40 to Index
+2012-05-17 09:52:30,223 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Community: 244055/56 to Index
+2012-05-17 09:52:30,233 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Community: 244055/44 to Index
+2012-05-17 09:52:30,240 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Community: 244055/41 to Index
+2012-05-17 09:52:30,244 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Community: 244055/38 to Index
+2012-05-17 09:52:30,248 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Community: 244055/48 to Index
+2012-05-17 09:52:30,251 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Community: 244055/51 to Index
+2012-05-17 09:52:30,256 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Community: 244055/57 to Index
+2012-05-17 09:52:30,275 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Community: 244055/35 to Index
+2012-05-17 09:52:30,279 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Community: 244055/45 to Index
+2012-05-17 09:52:30,285 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Community: 244055/14 to Index
+2012-05-17 09:52:30,287 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Community: 244055/6 to Index
+2012-05-17 09:52:30,298 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Community: 244055/55 to Index
+2012-05-17 09:52:30,484 INFO  org.dspace.discovery.IndexClient @ Done with indexing
+2012-05-17 09:52:58,685 ERROR org.dspace.app.util.Util @ 
+java.lang.NullPointerException
+	at java.util.Properties$LineReader.readLine(Properties.java:418)
+	at java.util.Properties.load0(Properties.java:337)
+	at java.util.Properties.load(Properties.java:325)
+	at org.dspace.app.util.Util.getSourceVersion(Util.java:328)
+	at org.apache.jsp.layout.header_002ddefault_jsp._jspService(header_002ddefault_jsp.java:126)
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:386)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:313)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:260)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.dspace.utils.servlet.DSpaceWebappServletFilter.doFilter(DSpaceWebappServletFilter.java:78)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:235)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:646)
+	at org.apache.catalina.core.ApplicationDispatcher.doInclude(ApplicationDispatcher.java:551)
+	at org.apache.catalina.core.ApplicationDispatcher.include(ApplicationDispatcher.java:488)
+	at org.dspace.app.webui.jsptag.LayoutTag.doStartTag(LayoutTag.java:349)
+	at org.apache.jsp.register.registration_002dform_jsp._jspService(registration_002dform_jsp.java:108)
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:386)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:313)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:260)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.dspace.utils.servlet.DSpaceWebappServletFilter.doFilter(DSpaceWebappServletFilter.java:78)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:235)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:646)
+	at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:436)
+	at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:374)
+	at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:302)
+	at org.dspace.app.webui.util.JSPManager.showJSP(JSPManager.java:60)
+	at org.dspace.app.webui.servlet.RegisterServlet.doDSGet(RegisterServlet.java:136)
+	at org.dspace.app.webui.servlet.DSpaceServlet.processRequest(DSpaceServlet.java:119)
+	at org.dspace.app.webui.servlet.DSpaceServlet.doGet(DSpaceServlet.java:67)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:617)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.dspace.utils.servlet.DSpaceWebappServletFilter.doFilter(DSpaceWebappServletFilter.java:78)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:235)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:102)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:298)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:859)
+	at org.apache.coyote.http11.Http11Protocol$Http11ConnectionHandler.process(Http11Protocol.java:588)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:489)
+	at java.lang.Thread.run(Thread.java:662)
+2012-05-17 09:53:25,673 INFO  org.dspace.eperson.EPerson @ anonymous:session_id=F3BE423246687367B1BBA89E6B2B0DFC:ip_addr=222.200.127.20:create_eperson:eperson_id=5
+2012-05-17 09:53:25,676 INFO  org.dspace.eperson.EPerson @ anonymous:session_id=F3BE423246687367B1BBA89E6B2B0DFC:ip_addr=222.200.127.20:update_eperson:eperson_id=5
+2012-05-17 09:53:25,676 INFO  org.dspace.app.webui.servlet.RegisterServlet @ liangyingyi002@foxmail.com:session_id=F3BE423246687367B1BBA89E6B2B0DFC:ip_addr=222.200.127.20:usedtoken_register:email=liangyingyi002@foxmail.com
+2012-05-17 09:53:25,678 INFO  org.dspace.eperson.EPerson @ liangyingyi002@foxmail.com:session_id=F3BE423246687367B1BBA89E6B2B0DFC:ip_addr=222.200.127.20:update_eperson:eperson_id=5
+2012-05-17 09:53:25,695 INFO  org.dspace.event.EventManager @ 
+2012-05-17 09:53:26,093 INFO  org.dspace.eperson.EPersonConsumer @ liangyingyi002@foxmail.com:session_id=F3BE423246687367B1BBA89E6B2B0DFC:ip_addr=222.200.127.20:registerion_alert:user=liangyingyi002@foxmail.com
+2012-05-17 09:53:56,842 INFO  edu.calis.ir.tsinghua.components.CalisAuthentication @ anonymous:session_id=F3BE423246687367B1BBA89E6B2B0DFC:ip_addr=222.200.127.20:authenticate:attempting calis auth of user=liangyingyi002@foxmail.com
+2012-05-17 09:53:56,843 INFO  edu.calis.ir.tsinghua.components.CalisAuthentication @ liangyingyi002@foxmail.com:session_id=F3BE423246687367B1BBA89E6B2B0DFC:ip_addr=222.200.127.20:authenticate:type=PasswordAuthentication
+2012-05-17 09:53:56,854 INFO  org.dspace.app.webui.servlet.PasswordServlet @ liangyingyi002@foxmail.com:session_id=F3BE423246687367B1BBA89E6B2B0DFC:ip_addr=222.200.127.20:login:type=explicit
+2012-05-17 09:53:56,874 INFO  org.dspace.app.webui.servlet.MyDSpaceServlet @ liangyingyi002@foxmail.com:session_id=39D1D7983F9A3FB9B94428326F8EAB0E:ip_addr=222.200.127.20:view_mydspace:
+2012-05-17 09:54:09,592 INFO  org.dspace.eperson.Group @ liangyingyi002@foxmail.com:session_id=39D1D7983F9A3FB9B94428326F8EAB0E:ip_addr=222.200.127.20:update_group:group_id=9
+2012-05-17 09:54:09,594 INFO  org.dspace.eperson.Group @ liangyingyi002@foxmail.com:session_id=39D1D7983F9A3FB9B94428326F8EAB0E:ip_addr=222.200.127.20:update_group:group_id=14
+2012-05-17 09:54:09,596 INFO  org.dspace.eperson.Group @ liangyingyi002@foxmail.com:session_id=39D1D7983F9A3FB9B94428326F8EAB0E:ip_addr=222.200.127.20:update_group:group_id=11
+2012-05-17 09:54:09,600 INFO  org.dspace.eperson.Group @ liangyingyi002@foxmail.com:session_id=39D1D7983F9A3FB9B94428326F8EAB0E:ip_addr=222.200.127.20:update_group:group_id=12
+2012-05-17 09:54:09,602 INFO  org.dspace.eperson.Group @ liangyingyi002@foxmail.com:session_id=39D1D7983F9A3FB9B94428326F8EAB0E:ip_addr=222.200.127.20:update_group:group_id=10
+2012-05-17 09:54:09,604 INFO  org.dspace.eperson.Group @ liangyingyi002@foxmail.com:session_id=39D1D7983F9A3FB9B94428326F8EAB0E:ip_addr=222.200.127.20:update_group:group_id=13
+2012-05-17 09:54:09,605 INFO  org.dspace.eperson.EPerson @ null:session_id=39D1D7983F9A3FB9B94428326F8EAB0E:ip_addr=222.200.127.20:update_eperson:eperson_id=5
+2012-05-17 09:54:09,622 INFO  org.dspace.app.webui.servlet.MyDSpaceServlet @ null:session_id=39D1D7983F9A3FB9B94428326F8EAB0E:ip_addr=222.200.127.20:view_mydspace:
+2012-05-17 09:54:09,713 WARN  org.dspace.app.webui.jsptag.LayoutTag @ Exception
+org.apache.jasper.JasperException: java.lang.NullPointerException
+	at org.apache.jasper.servlet.JspServletWrapper.handleJspException(JspServletWrapper.java:500)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:428)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:313)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:260)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.dspace.utils.servlet.DSpaceWebappServletFilter.doFilter(DSpaceWebappServletFilter.java:78)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:235)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:646)
+	at org.apache.catalina.core.ApplicationDispatcher.doInclude(ApplicationDispatcher.java:551)
+	at org.apache.catalina.core.ApplicationDispatcher.include(ApplicationDispatcher.java:488)
+	at org.dspace.app.webui.jsptag.LayoutTag.doStartTag(LayoutTag.java:349)
+	at org.apache.jsp.mydspace.main_jsp._jspService(main_jsp.java:185)
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:386)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:313)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:260)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.dspace.utils.servlet.DSpaceWebappServletFilter.doFilter(DSpaceWebappServletFilter.java:78)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:235)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:646)
+	at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:436)
+	at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:374)
+	at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:302)
+	at org.dspace.app.webui.util.JSPManager.showJSP(JSPManager.java:60)
+	at org.dspace.app.webui.servlet.MyDSpaceServlet.showMainPage(MyDSpaceServlet.java:755)
+	at org.dspace.app.webui.servlet.MyDSpaceServlet.doDSGet(MyDSpaceServlet.java:82)
+	at org.dspace.app.webui.servlet.DSpaceServlet.processRequest(DSpaceServlet.java:119)
+	at org.dspace.app.webui.servlet.DSpaceServlet.doGet(DSpaceServlet.java:67)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:617)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.dspace.app.webui.filter.RegisteredOnlyFilter.doFilter(RegisteredOnlyFilter.java:66)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:235)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.dspace.utils.servlet.DSpaceWebappServletFilter.doFilter(DSpaceWebappServletFilter.java:78)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:235)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:102)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:298)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:859)
+	at org.apache.coyote.http11.Http11Protocol$Http11ConnectionHandler.process(Http11Protocol.java:588)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:489)
+	at java.lang.Thread.run(Thread.java:662)
+Caused by: java.lang.NullPointerException
+	at org.apache.jsp.layout.header_002ddefault_jsp._jspService(header_002ddefault_jsp.java:149)
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:386)
+	... 53 more
+2012-05-17 09:54:09,716 WARN  org.dspace.app.webui.servlet.InternalErrorServlet @ :session_id=39D1D7983F9A3FB9B94428326F8EAB0E:internal_error:-- URL Was: http://222.200.98.193/mydspace
+-- Method: GET
+-- Parameters were:
+
+javax.servlet.ServletException: org.apache.jasper.JasperException: javax.servlet.ServletException: javax.servlet.jsp.JspException: Got ServletException: javax.servlet.ServletException: org.apache.jasper.JasperException: java.lang.NullPointerException
+	at org.dspace.utils.servlet.DSpaceWebappServletFilter.doFilter(DSpaceWebappServletFilter.java:85)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:235)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:646)
+	at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:436)
+	at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:374)
+	at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:302)
+	at org.dspace.app.webui.util.JSPManager.showJSP(JSPManager.java:60)
+	at org.dspace.app.webui.servlet.MyDSpaceServlet.showMainPage(MyDSpaceServlet.java:755)
+	at org.dspace.app.webui.servlet.MyDSpaceServlet.doDSGet(MyDSpaceServlet.java:82)
+	at org.dspace.app.webui.servlet.DSpaceServlet.processRequest(DSpaceServlet.java:119)
+	at org.dspace.app.webui.servlet.DSpaceServlet.doGet(DSpaceServlet.java:67)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:617)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.dspace.app.webui.filter.RegisteredOnlyFilter.doFilter(RegisteredOnlyFilter.java:66)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:235)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.dspace.utils.servlet.DSpaceWebappServletFilter.doFilter(DSpaceWebappServletFilter.java:78)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:235)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:102)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:298)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:859)
+	at org.apache.coyote.http11.Http11Protocol$Http11ConnectionHandler.process(Http11Protocol.java:588)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:489)
+	at java.lang.Thread.run(Thread.java:662)
+Caused by: org.apache.jasper.JasperException: javax.servlet.ServletException: javax.servlet.jsp.JspException: Got ServletException: javax.servlet.ServletException: org.apache.jasper.JasperException: java.lang.NullPointerException
+	at org.apache.jasper.servlet.JspServletWrapper.handleJspException(JspServletWrapper.java:500)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:410)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:313)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:260)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.dspace.utils.servlet.DSpaceWebappServletFilter.doFilter(DSpaceWebappServletFilter.java:78)
+	... 31 more
+Caused by: javax.servlet.ServletException: javax.servlet.jsp.JspException: Got ServletException: javax.servlet.ServletException: org.apache.jasper.JasperException: java.lang.NullPointerException
+	at org.apache.jasper.runtime.PageContextImpl.doHandlePageException(PageContextImpl.java:865)
+	at org.apache.jasper.runtime.PageContextImpl.handlePageException(PageContextImpl.java:794)
+	at org.apache.jsp.mydspace.main_jsp._jspService(main_jsp.java:1074)
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:386)
+	... 37 more
+Caused by: javax.servlet.jsp.JspException: Got ServletException: javax.servlet.ServletException: org.apache.jasper.JasperException: java.lang.NullPointerException
+	at org.dspace.app.webui.jsptag.LayoutTag.doStartTag(LayoutTag.java:358)
+	at org.apache.jsp.mydspace.main_jsp._jspService(main_jsp.java:185)
+	... 40 more
+2012-05-17 09:54:10,057 WARN  org.dspace.app.webui.jsptag.LayoutTag @ Exception
+org.apache.jasper.JasperException: java.lang.NullPointerException
+	at org.apache.jasper.servlet.JspServletWrapper.handleJspException(JspServletWrapper.java:500)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:428)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:313)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:260)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.dspace.utils.servlet.DSpaceWebappServletFilter.doFilter(DSpaceWebappServletFilter.java:78)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:235)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:646)
+	at org.apache.catalina.core.ApplicationDispatcher.doInclude(ApplicationDispatcher.java:551)
+	at org.apache.catalina.core.ApplicationDispatcher.include(ApplicationDispatcher.java:488)
+	at org.dspace.app.webui.jsptag.LayoutTag.doStartTag(LayoutTag.java:349)
+	at org.apache.jsp.error.internal_jsp._jspService(internal_jsp.java:93)
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:386)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:313)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:260)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:646)
+	at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:438)
+	at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:374)
+	at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:302)
+	at org.dspace.app.webui.util.JSPManager.showJSP(JSPManager.java:60)
+	at org.dspace.app.webui.servlet.InternalErrorServlet.doGet(InternalErrorServlet.java:56)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:617)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:646)
+	at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:438)
+	at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:374)
+	at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:302)
+	at org.apache.catalina.core.StandardHostValve.custom(StandardHostValve.java:421)
+	at org.apache.catalina.core.StandardHostValve.throwable(StandardHostValve.java:270)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:141)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:102)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:298)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:859)
+	at org.apache.coyote.http11.Http11Protocol$Http11ConnectionHandler.process(Http11Protocol.java:588)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:489)
+	at java.lang.Thread.run(Thread.java:662)
+Caused by: java.lang.NullPointerException
+	at org.apache.jsp.layout.header_002ddefault_jsp._jspService(header_002ddefault_jsp.java:149)
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:386)
+	... 45 more
+2012-05-17 10:03:49,407 INFO  edu.calis.ir.bit.web.listener.ConfigListener @ ConfigListener is start
+2012-05-17 10:03:51,042 INFO  net.sf.ehcache.util.UpdateChecker @ New update(s) found: 2.4.7 [http://www.terracotta.org/confluence/display/release/Release+Notes+Ehcache+Core+2.4]
+2012-05-17 10:03:56,737 ERROR org.dspace.app.util.Util @ 
+java.lang.NullPointerException
+	at java.util.Properties$LineReader.readLine(Properties.java:418)
+	at java.util.Properties.load0(Properties.java:337)
+	at java.util.Properties.load(Properties.java:325)
+	at org.dspace.app.util.Util.getSourceVersion(Util.java:328)
+	at org.apache.jsp.layout.header_002ddefault_jsp._jspService(header_002ddefault_jsp.java:126)
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:386)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:313)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:260)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.dspace.utils.servlet.DSpaceWebappServletFilter.doFilter(DSpaceWebappServletFilter.java:78)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:235)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:646)
+	at org.apache.catalina.core.ApplicationDispatcher.doInclude(ApplicationDispatcher.java:551)
+	at org.apache.catalina.core.ApplicationDispatcher.include(ApplicationDispatcher.java:488)
+	at org.dspace.app.webui.jsptag.LayoutTag.doStartTag(LayoutTag.java:349)
+	at org.apache.jsp.home_jsp._jspService(home_jsp.java:270)
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:386)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:313)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:260)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.dspace.utils.servlet.DSpaceWebappServletFilter.doFilter(DSpaceWebappServletFilter.java:78)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:235)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:646)
+	at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:436)
+	at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:374)
+	at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:302)
+	at org.dspace.app.webui.util.JSPManager.showJSP(JSPManager.java:60)
+	at org.apache.jsp.index_jsp._jspService(index_jsp.java:107)
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:386)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:313)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:260)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.dspace.utils.servlet.DSpaceWebappServletFilter.doFilter(DSpaceWebappServletFilter.java:78)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:235)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:102)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:298)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:859)
+	at org.apache.coyote.http11.Http11Protocol$Http11ConnectionHandler.process(Http11Protocol.java:588)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:489)
+	at java.lang.Thread.run(Thread.java:662)
+2012-05-17 10:03:57,184 INFO  org.dspace.browse.BrowseEngine @ liangyy@gdut.edu.cn:session_id=C585F4A8BF962D8AD06F68ECBD8E421B:ip_addr=222.200.127.20:browse_mini:
+2012-05-17 10:03:57,223 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2012-05-17 10:03:57,234 INFO  org.dspace.content.MetadataSchema @ Loading schema cache for fast finds
+2012-05-17 10:04:11,324 WARN  org.dspace.app.webui.servlet.InternalErrorServlet @ :session_id=C585F4A8BF962D8AD06F68ECBD8E421B:internal_error:-- URL Was: http://ir.gdut.edu.cn/tools/eperson-list?multiple=false
+-- Method: GET
+-- Parameters were:
+-- multiple: "false"
+
+javax.servlet.ServletException: org.apache.jasper.JasperException: java.lang.NullPointerException
+	at org.dspace.utils.servlet.DSpaceWebappServletFilter.doFilter(DSpaceWebappServletFilter.java:85)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:235)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:646)
+	at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:436)
+	at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:374)
+	at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:302)
+	at org.dspace.app.webui.util.JSPManager.showJSP(JSPManager.java:60)
+	at org.dspace.app.webui.servlet.admin.EPersonListServlet.doDSGet(EPersonListServlet.java:106)
+	at org.dspace.app.webui.servlet.DSpaceServlet.processRequest(DSpaceServlet.java:119)
+	at org.dspace.app.webui.servlet.DSpaceServlet.doGet(DSpaceServlet.java:67)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:617)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.dspace.app.webui.filter.RegisteredOnlyFilter.doFilter(RegisteredOnlyFilter.java:66)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:235)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.dspace.utils.servlet.DSpaceWebappServletFilter.doFilter(DSpaceWebappServletFilter.java:78)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:235)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:102)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:298)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:859)
+	at org.apache.coyote.http11.Http11Protocol$Http11ConnectionHandler.process(Http11Protocol.java:588)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:489)
+	at java.lang.Thread.run(Thread.java:662)
+Caused by: org.apache.jasper.JasperException: java.lang.NullPointerException
+	at org.apache.jasper.servlet.JspServletWrapper.handleJspException(JspServletWrapper.java:500)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:428)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:313)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:260)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.dspace.utils.servlet.DSpaceWebappServletFilter.doFilter(DSpaceWebappServletFilter.java:78)
+	... 30 more
+Caused by: java.lang.NullPointerException
+	at org.apache.jsp.tools.eperson_002dlist_jsp._jspService(eperson_002dlist_jsp.java:614)
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:386)
+	... 36 more
+2012-05-17 10:04:31,401 INFO  edu.calis.ir.bit.web.listener.ConfigListener @ ConfigListener is start
+2012-05-17 10:04:33,043 INFO  net.sf.ehcache.util.UpdateChecker @ New update(s) found: 2.4.7 [http://www.terracotta.org/confluence/display/release/Release+Notes+Ehcache+Core+2.4]
+2012-05-17 10:04:34,461 ERROR org.dspace.app.util.Util @ 
+java.lang.NullPointerException
+	at java.util.Properties$LineReader.readLine(Properties.java:418)
+	at java.util.Properties.load0(Properties.java:337)
+	at java.util.Properties.load(Properties.java:325)
+	at org.dspace.app.util.Util.getSourceVersion(Util.java:328)
+	at org.apache.jsp.layout.header_002ddefault_jsp._jspService(header_002ddefault_jsp.java:126)
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:386)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:313)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:260)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.dspace.utils.servlet.DSpaceWebappServletFilter.doFilter(DSpaceWebappServletFilter.java:78)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:235)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:646)
+	at org.apache.catalina.core.ApplicationDispatcher.doInclude(ApplicationDispatcher.java:551)
+	at org.apache.catalina.core.ApplicationDispatcher.include(ApplicationDispatcher.java:488)
+	at org.dspace.app.webui.jsptag.LayoutTag.doStartTag(LayoutTag.java:349)
+	at org.apache.jsp.dspace_002dadmin.index_jsp._jspx_meth_dspace_005flayout_005f0(index_jsp.java:149)
+	at org.apache.jsp.dspace_002dadmin.index_jsp._jspService(index_jsp.java:99)
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:386)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:313)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:260)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.dspace.app.webui.filter.AdminOnlyFilter.doFilter(AdminOnlyFilter.java:71)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:235)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.dspace.utils.servlet.DSpaceWebappServletFilter.doFilter(DSpaceWebappServletFilter.java:78)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:235)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:102)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:298)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:859)
+	at org.apache.coyote.http11.Http11Protocol$Http11ConnectionHandler.process(Http11Protocol.java:588)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:489)
+	at java.lang.Thread.run(Thread.java:662)
+2012-05-17 10:04:37,508 WARN  org.dspace.app.webui.servlet.InternalErrorServlet @ :session_id=C585F4A8BF962D8AD06F68ECBD8E421B:internal_error:-- URL Was: http://ir.gdut.edu.cn/tools/eperson-list?multiple=false
+-- Method: GET
+-- Parameters were:
+-- multiple: "false"
+
+javax.servlet.ServletException: org.apache.jasper.JasperException: java.lang.NullPointerException
+	at org.dspace.utils.servlet.DSpaceWebappServletFilter.doFilter(DSpaceWebappServletFilter.java:85)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:235)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:646)
+	at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:436)
+	at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:374)
+	at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:302)
+	at org.dspace.app.webui.util.JSPManager.showJSP(JSPManager.java:60)
+	at org.dspace.app.webui.servlet.admin.EPersonListServlet.doDSGet(EPersonListServlet.java:106)
+	at org.dspace.app.webui.servlet.DSpaceServlet.processRequest(DSpaceServlet.java:119)
+	at org.dspace.app.webui.servlet.DSpaceServlet.doGet(DSpaceServlet.java:67)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:617)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.dspace.app.webui.filter.RegisteredOnlyFilter.doFilter(RegisteredOnlyFilter.java:66)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:235)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.dspace.utils.servlet.DSpaceWebappServletFilter.doFilter(DSpaceWebappServletFilter.java:78)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:235)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:102)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:298)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:859)
+	at org.apache.coyote.http11.Http11Protocol$Http11ConnectionHandler.process(Http11Protocol.java:588)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:489)
+	at java.lang.Thread.run(Thread.java:662)
+Caused by: org.apache.jasper.JasperException: java.lang.NullPointerException
+	at org.apache.jasper.servlet.JspServletWrapper.handleJspException(JspServletWrapper.java:500)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:428)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:313)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:260)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.dspace.utils.servlet.DSpaceWebappServletFilter.doFilter(DSpaceWebappServletFilter.java:78)
+	... 30 more
+Caused by: java.lang.NullPointerException
+	at org.apache.jsp.tools.eperson_002dlist_jsp._jspService(eperson_002dlist_jsp.java:614)
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:386)
+	... 36 more
+2012-05-17 10:05:59,893 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=45EE5CCF5DF349482DDFDFA741EB551E:ip_addr=222.200.98.193:browse_mini:
+2012-05-17 10:05:59,941 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2012-05-17 10:05:59,952 INFO  org.dspace.content.MetadataSchema @ Loading schema cache for fast finds
+2012-05-17 11:08:23,783 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=E9D123750AB0B341C8C11F32562D5D85:ip_addr=222.200.98.193:browse_mini:

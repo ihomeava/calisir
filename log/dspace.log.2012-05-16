@@ -1,0 +1,231 @@
+2012-05-16 01:00:03,775 INFO  org.dspace.core.ConfigurationManager @ Loading from classloader: file:/usr/local/CALISIR/dspace/config/dspace.cfg
+2012-05-16 01:00:03,798 INFO  org.dspace.core.ConfigurationManager @ Using dspace provided log configuration (log.init.config)
+2012-05-16 01:00:03,798 INFO  org.dspace.core.ConfigurationManager @ Loading: /usr/local/CALISIR/dspace/config/log4j.properties
+2012-05-16 01:00:03,756 INFO  org.dspace.core.ConfigurationManager @ Loading from classloader: file:/usr/local/CALISIR/dspace/config/dspace.cfg
+2012-05-16 01:00:03,805 INFO  org.dspace.core.ConfigurationManager @ Using dspace provided log configuration (log.init.config)
+2012-05-16 01:00:03,805 INFO  org.dspace.core.ConfigurationManager @ Loading: /usr/local/CALISIR/dspace/config/log4j.properties
+2012-05-16 01:00:03,841 INFO  org.dspace.core.ConfigurationManager @ Loading from classloader: file:/usr/local/CALISIR/dspace/config/dspace.cfg
+2012-05-16 01:00:03,869 INFO  org.dspace.core.ConfigurationManager @ Using dspace provided log configuration (log.init.config)
+2012-05-16 01:00:03,869 INFO  org.dspace.core.ConfigurationManager @ Loading: /usr/local/CALISIR/dspace/config/log4j.properties
+2012-05-16 01:00:09,654 FATAL org.dspace.eperson.Subscribe @ java.util.MissingResourceException: Can't find bundle for base name Messages, locale en
+2012-05-16 02:00:02,607 INFO  org.dspace.core.ConfigurationManager @ Loading from classloader: file:/usr/local/CALISIR/dspace/config/dspace.cfg
+2012-05-16 02:00:02,628 INFO  org.dspace.core.ConfigurationManager @ Using dspace provided log configuration (log.init.config)
+2012-05-16 02:00:02,628 INFO  org.dspace.core.ConfigurationManager @ Loading: /usr/local/CALISIR/dspace/config/log4j.properties
+2012-05-16 02:00:03,001 INFO  org.dspace.core.ConfigurationManager @ Loading from classloader: file:/usr/local/CALISIR/dspace/config/dspace.cfg
+2012-05-16 02:00:03,010 INFO  org.dspace.core.ConfigurationManager @ Using dspace provided log configuration (log.init.config)
+2012-05-16 02:00:03,010 INFO  org.dspace.core.ConfigurationManager @ Loading: /usr/local/CALISIR/dspace/config/log4j.properties
+2012-05-16 02:00:04,746 INFO  org.dspace.core.ConfigurationManager @ Loading from classloader: file:/usr/local/CALISIR/dspace/config/dspace.cfg
+2012-05-16 02:00:04,754 INFO  org.dspace.core.ConfigurationManager @ Using dspace provided log configuration (log.init.config)
+2012-05-16 02:00:04,754 INFO  org.dspace.core.ConfigurationManager @ Loading: /usr/local/CALISIR/dspace/config/log4j.properties
+2012-05-16 02:00:07,201 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2012-05-16 02:00:07,220 INFO  org.dspace.content.MetadataSchema @ Loading schema cache for fast finds
+2012-05-16 02:00:08,190 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2012-05-16 02:00:08,207 INFO  org.dspace.content.MetadataSchema @ Loading schema cache for fast finds
+2012-05-16 02:00:08,782 INFO  org.dspace.search.DSIndexer @ Writing Collection: 244055/33 to Index
+2012-05-16 02:00:08,791 INFO  org.dspace.search.DSIndexer @ Writing Collection: 244055/2 to Index
+2012-05-16 02:00:08,792 INFO  org.dspace.search.DSIndexer @ Writing Collection: 244055/15 to Index
+2012-05-16 02:00:08,794 INFO  org.dspace.search.DSIndexer @ Writing Collection: 244055/20 to Index
+2012-05-16 02:00:08,796 INFO  org.dspace.search.DSIndexer @ Writing Collection: 244055/17 to Index
+2012-05-16 02:00:08,797 INFO  org.dspace.search.DSIndexer @ Writing Collection: 244055/18 to Index
+2012-05-16 02:00:08,798 INFO  org.dspace.search.DSIndexer @ Writing Collection: 244055/16 to Index
+2012-05-16 02:00:08,799 INFO  org.dspace.search.DSIndexer @ Writing Collection: 244055/19 to Index
+2012-05-16 02:00:08,799 INFO  org.dspace.search.DSIndexer @ Writing Collection: 244055/7 to Index
+2012-05-16 02:00:08,801 INFO  org.dspace.search.DSIndexer @ Writing Collection: 244055/10 to Index
+2012-05-16 02:00:08,802 INFO  org.dspace.search.DSIndexer @ Writing Collection: 244055/9 to Index
+2012-05-16 02:00:08,802 INFO  org.dspace.search.DSIndexer @ Writing Collection: 244055/11 to Index
+2012-05-16 02:00:08,803 INFO  org.dspace.search.DSIndexer @ Writing Collection: 244055/8 to Index
+2012-05-16 02:00:08,804 INFO  org.dspace.search.DSIndexer @ Writing Collection: 244055/12 to Index
+2012-05-16 02:00:08,816 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/53 to Index
+2012-05-16 02:00:08,816 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/36 to Index
+2012-05-16 02:00:08,816 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/52 to Index
+2012-05-16 02:00:08,817 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/39 to Index
+2012-05-16 02:00:08,817 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/49 to Index
+2012-05-16 02:00:08,817 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/1 to Index
+2012-05-16 02:00:09,846 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/37 to Index
+2012-05-16 02:00:09,846 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/42 to Index
+2012-05-16 02:00:09,846 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/54 to Index
+2012-05-16 02:00:09,847 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/43 to Index
+2012-05-16 02:00:09,847 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/47 to Index
+2012-05-16 02:00:09,847 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/46 to Index
+2012-05-16 02:00:09,847 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/34 to Index
+2012-05-16 02:00:09,847 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/40 to Index
+2012-05-16 02:00:09,847 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/56 to Index
+2012-05-16 02:00:09,847 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/44 to Index
+2012-05-16 02:00:09,847 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/41 to Index
+2012-05-16 02:00:09,848 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/38 to Index
+2012-05-16 02:00:09,848 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/48 to Index
+2012-05-16 02:00:09,848 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/51 to Index
+2012-05-16 02:00:09,848 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/57 to Index
+2012-05-16 02:00:09,849 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/35 to Index
+2012-05-16 02:00:09,849 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/45 to Index
+2012-05-16 02:00:09,849 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/14 to Index
+2012-05-16 02:00:09,849 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/6 to Index
+2012-05-16 02:00:09,850 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/55 to Index
+2012-05-16 04:00:02,211 INFO  org.dspace.core.ConfigurationManager @ Loading from classloader: file:/usr/local/CALISIR/dspace/config/dspace.cfg
+2012-05-16 04:00:02,231 INFO  org.dspace.core.ConfigurationManager @ Using dspace provided log configuration (log.init.config)
+2012-05-16 04:00:02,231 INFO  org.dspace.core.ConfigurationManager @ Loading: /usr/local/CALISIR/dspace/config/log4j.properties
+2012-05-16 21:59:29,170 INFO  edu.calis.ir.bit.web.listener.ConfigListener @ ConfigListener is start
+2012-05-16 21:59:31,657 INFO  net.sf.ehcache.util.UpdateChecker @ New update(s) found: 2.4.7 [http://www.terracotta.org/confluence/display/release/Release+Notes+Ehcache+Core+2.4]
+2012-05-16 21:59:53,098 ERROR org.dspace.app.util.Util @ 
+java.lang.NullPointerException
+	at java.util.Properties$LineReader.readLine(Properties.java:418)
+	at java.util.Properties.load0(Properties.java:337)
+	at java.util.Properties.load(Properties.java:325)
+	at org.dspace.app.util.Util.getSourceVersion(Util.java:328)
+	at org.apache.jsp.layout.header_002ddefault_jsp._jspService(header_002ddefault_jsp.java:126)
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:386)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:313)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:260)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.dspace.utils.servlet.DSpaceWebappServletFilter.doFilter(DSpaceWebappServletFilter.java:78)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:235)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:646)
+	at org.apache.catalina.core.ApplicationDispatcher.doInclude(ApplicationDispatcher.java:551)
+	at org.apache.catalina.core.ApplicationDispatcher.include(ApplicationDispatcher.java:488)
+	at org.dspace.app.webui.jsptag.LayoutTag.doStartTag(LayoutTag.java:349)
+	at org.apache.jsp.home_jsp._jspService(home_jsp.java:270)
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:386)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:313)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:260)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.dspace.utils.servlet.DSpaceWebappServletFilter.doFilter(DSpaceWebappServletFilter.java:78)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:235)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:646)
+	at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:436)
+	at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:374)
+	at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:302)
+	at org.dspace.app.webui.util.JSPManager.showJSP(JSPManager.java:60)
+	at org.apache.jsp.index_jsp._jspService(index_jsp.java:107)
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:386)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:313)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:260)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.dspace.utils.servlet.DSpaceWebappServletFilter.doFilter(DSpaceWebappServletFilter.java:78)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:235)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:102)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:298)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:859)
+	at org.apache.coyote.http11.Http11Protocol$Http11ConnectionHandler.process(Http11Protocol.java:588)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:489)
+	at java.lang.Thread.run(Thread.java:662)
+2012-05-16 21:59:53,495 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2012-05-16 21:59:53,512 INFO  org.dspace.content.MetadataSchema @ Loading schema cache for fast finds
+2012-05-16 21:59:53,618 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=5BBF7D06E6F30E19C906DEA97EE8DFEE:ip_addr=222.200.98.179:browse_mini:
+2012-05-16 22:00:01,329 INFO  org.dspace.app.webui.servlet.HandleServlet @ anonymous:session_id=5BBF7D06E6F30E19C906DEA97EE8DFEE:ip_addr=222.200.98.179:view_item:handle=244055/21
+2012-05-16 22:00:01,353 INFO  org.dspace.app.util.GoogleMetadata @ Using [/usr/local/CALISIR/dspace/config/crosswalks/google-metadata.properties] for Google Metadata configuration
+2012-05-16 22:00:01,385 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=5BBF7D06E6F30E19C906DEA97EE8DFEE:ip_addr=222.200.98.179:view_item:handle=244055/21
+2012-05-16 22:00:01,390 INFO  org.dspace.statistics.SolrLogger @ solr-statistics.spidersfile:null
+2012-05-16 22:00:01,390 INFO  org.dspace.statistics.SolrLogger @ solr-statistics.server:http://localhost/solr/statistics
+2012-05-16 22:00:01,390 INFO  org.dspace.statistics.SolrLogger @ solr-statistics.dbfile:/usr/local/CALISIR/dspace/config/GeoLiteCity.dat
+2012-05-16 22:00:01,405 INFO  org.dspace.statistics.SolrLogger @ useProxies=false
+2012-05-16 22:00:01,412 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded Spider IP file: /usr/local/CALISIR/dspace/config/spiders/iplists.com-google.txt
+2012-05-16 22:00:01,413 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded Spider IP file: /usr/local/CALISIR/dspace/config/spiders/iplists.com-infoseek.txt
+2012-05-16 22:00:01,454 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded Spider IP file: /usr/local/CALISIR/dspace/config/spiders/iplists.com-misc.txt
+2012-05-16 22:00:01,462 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded Spider IP file: /usr/local/CALISIR/dspace/config/spiders/iplists.com-inktomi.txt
+2012-05-16 22:00:01,462 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded Spider IP file: /usr/local/CALISIR/dspace/config/spiders/iplists.com-excite.txt
+2012-05-16 22:00:01,463 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded Spider IP file: /usr/local/CALISIR/dspace/config/spiders/iplists.com-non_engines.txt
+2012-05-16 22:00:01,465 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded Spider IP file: /usr/local/CALISIR/dspace/config/spiders/iplists.com-altavista.txt
+2012-05-16 22:00:01,465 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded Spider IP file: /usr/local/CALISIR/dspace/config/spiders/iplists.com-lycos.txt
+2012-05-16 22:00:01,488 ERROR org.dspace.statistics.SolrLogger @ Failed DNS Lookup for IP:222.200.98.179
+2012-05-16 22:00:41,867 INFO  edu.calis.ir.tsinghua.components.CalisAuthentication @ anonymous:session_id=5BBF7D06E6F30E19C906DEA97EE8DFEE:ip_addr=222.200.98.179:authenticate:attempting calis auth of user=liangyy@gdut.edu.cn
+2012-05-16 22:00:41,875 INFO  edu.calis.ir.tsinghua.components.CalisAuthentication @ liangyy@gdut.edu.cn:session_id=5BBF7D06E6F30E19C906DEA97EE8DFEE:ip_addr=222.200.98.179:authenticate:type=PasswordAuthentication
+2012-05-16 22:00:41,881 INFO  org.dspace.app.webui.servlet.PasswordServlet @ liangyy@gdut.edu.cn:session_id=5BBF7D06E6F30E19C906DEA97EE8DFEE:ip_addr=222.200.98.179:login:type=explicit
+2012-05-16 22:00:41,888 INFO  org.dspace.app.webui.servlet.MyDSpaceServlet @ liangyy@gdut.edu.cn:session_id=D43A196D809771F9835DF1563E4418B8:ip_addr=222.200.98.179:view_mydspace:
+2012-05-16 22:00:47,708 INFO  org.dspace.app.webui.servlet.CommunityListServlet @ liangyy@gdut.edu.cn:session_id=D43A196D809771F9835DF1563E4418B8:ip_addr=222.200.98.179:view_community_list:
+2012-05-16 22:00:52,510 INFO  org.dspace.app.webui.servlet.HandleServlet @ liangyy@gdut.edu.cn:session_id=D43A196D809771F9835DF1563E4418B8:ip_addr=222.200.98.179:view_collection:collection_id=1
+2012-05-16 22:00:52,513 INFO  org.dspace.browse.BrowseEngine @ liangyy@gdut.edu.cn:session_id=D43A196D809771F9835DF1563E4418B8:ip_addr=222.200.98.179:browse_mini:
+2012-05-16 22:00:52,523 INFO  org.dspace.usage.LoggerUsageEventListener @ liangyy@gdut.edu.cn:session_id=D43A196D809771F9835DF1563E4418B8:ip_addr=222.200.98.179:view_collection:collection_id=1
+2012-05-16 22:00:52,523 ERROR org.dspace.statistics.SolrLogger @ Failed DNS Lookup for IP:222.200.98.179
+2012-05-16 22:00:58,956 INFO  org.dspace.app.webui.servlet.HandleServlet @ liangyy@gdut.edu.cn:session_id=D43A196D809771F9835DF1563E4418B8:ip_addr=222.200.98.179:view_community:community_id=1
+2012-05-16 22:00:58,959 INFO  org.dspace.browse.BrowseEngine @ liangyy@gdut.edu.cn:session_id=D43A196D809771F9835DF1563E4418B8:ip_addr=222.200.98.179:browse_mini:
+2012-05-16 22:00:58,969 INFO  org.dspace.usage.LoggerUsageEventListener @ liangyy@gdut.edu.cn:session_id=D43A196D809771F9835DF1563E4418B8:ip_addr=222.200.98.179:view_community:community_id=1
+2012-05-16 22:00:58,970 ERROR org.dspace.statistics.SolrLogger @ Failed DNS Lookup for IP:222.200.98.179
+2012-05-16 22:01:01,466 INFO  org.dspace.app.webui.servlet.HandleServlet @ liangyy@gdut.edu.cn:session_id=D43A196D809771F9835DF1563E4418B8:ip_addr=222.200.98.179:view_collection:collection_id=14
+2012-05-16 22:01:01,466 INFO  org.dspace.browse.BrowseEngine @ liangyy@gdut.edu.cn:session_id=D43A196D809771F9835DF1563E4418B8:ip_addr=222.200.98.179:browse_mini:
+2012-05-16 22:01:01,477 INFO  org.dspace.usage.LoggerUsageEventListener @ liangyy@gdut.edu.cn:session_id=D43A196D809771F9835DF1563E4418B8:ip_addr=222.200.98.179:view_collection:collection_id=14
+2012-05-16 22:01:01,477 ERROR org.dspace.statistics.SolrLogger @ Failed DNS Lookup for IP:222.200.98.179
+2012-05-16 22:01:21,514 INFO  org.dspace.app.webui.servlet.AbstractBrowserServlet @ liangyy@gdut.edu.cn:session_id=D43A196D809771F9835DF1563E4418B8:ip_addr=222.200.98.179:browse:type=author,order=ASC,value=null,month=null,year=null,starts_with=null,vfocus=null,focus=-1,rpp=20,sort_by=0,community=n/a,collection=244055/33,level=0,etal=-1
+2012-05-16 22:01:21,514 INFO  org.dspace.browse.BrowseEngine @ liangyy@gdut.edu.cn:session_id=D43A196D809771F9835DF1563E4418B8:ip_addr=222.200.98.179:browse_by_value:focus=null
+2012-05-16 22:01:33,901 INFO  org.dspace.app.webui.servlet.AbstractBrowserServlet @ liangyy@gdut.edu.cn:session_id=D43A196D809771F9835DF1563E4418B8:ip_addr=222.200.98.179:browse:type=author,order=ASC,value=null,month=null,year=null,starts_with=null,vfocus=null,focus=-1,rpp=20,sort_by=0,community=n/a,collection=244055/33,level=0,etal=-1
+2012-05-16 22:01:33,901 INFO  org.dspace.browse.BrowseEngine @ liangyy@gdut.edu.cn:session_id=D43A196D809771F9835DF1563E4418B8:ip_addr=222.200.98.179:browse_by_value:focus=null
+2012-05-16 22:01:37,272 INFO  org.dspace.app.webui.servlet.AbstractBrowserServlet @ liangyy@gdut.edu.cn:session_id=D43A196D809771F9835DF1563E4418B8:ip_addr=222.200.98.179:browse:type=author,order=ASC,value=¡∫”¶“„,month=null,year=null,starts_with=null,vfocus=null,focus=-1,rpp=20,sort_by=0,community=n/a,collection=244055/33,level=1,etal=-1
+2012-05-16 22:01:37,272 INFO  org.dspace.browse.BrowseEngine @ liangyy@gdut.edu.cn:session_id=D43A196D809771F9835DF1563E4418B8:ip_addr=222.200.98.179:browse_by_item:
+2012-05-16 22:02:11,424 INFO  org.dspace.app.webui.servlet.MyDSpaceServlet @ liangyy@gdut.edu.cn:session_id=D43A196D809771F9835DF1563E4418B8:ip_addr=222.200.98.179:view_mydspace:
+2012-05-16 22:03:55,615 INFO  org.dspace.app.webui.servlet.AbstractBrowserServlet @ liangyy@gdut.edu.cn:session_id=D43A196D809771F9835DF1563E4418B8:ip_addr=222.200.98.179:browse:type=null,order=null,value=null,month=null,year=null,starts_with=null,vfocus=null,focus=-1,rpp=20,sort_by=0,community=n/a,collection=n/a,level=0,etal=-1
+2012-05-16 22:03:55,615 INFO  org.dspace.browse.BrowseEngine @ liangyy@gdut.edu.cn:session_id=D43A196D809771F9835DF1563E4418B8:ip_addr=222.200.98.179:browse_by_item:
+2012-05-16 22:04:17,410 INFO  org.dspace.app.webui.servlet.CommunityListServlet @ liangyy@gdut.edu.cn:session_id=D43A196D809771F9835DF1563E4418B8:ip_addr=222.200.98.179:view_community_list:
+2012-05-16 22:04:21,174 INFO  org.dspace.app.webui.servlet.HandleServlet @ liangyy@gdut.edu.cn:session_id=D43A196D809771F9835DF1563E4418B8:ip_addr=222.200.98.179:view_community:community_id=1
+2012-05-16 22:04:21,176 INFO  org.dspace.browse.BrowseEngine @ liangyy@gdut.edu.cn:session_id=D43A196D809771F9835DF1563E4418B8:ip_addr=222.200.98.179:browse_mini:
+2012-05-16 22:04:21,186 INFO  org.dspace.usage.LoggerUsageEventListener @ liangyy@gdut.edu.cn:session_id=D43A196D809771F9835DF1563E4418B8:ip_addr=222.200.98.179:view_community:community_id=1
+2012-05-16 22:04:21,187 ERROR org.dspace.statistics.SolrLogger @ Failed DNS Lookup for IP:222.200.98.179
+2012-05-16 22:04:25,499 INFO  org.dspace.app.webui.servlet.HandleServlet @ liangyy@gdut.edu.cn:session_id=D43A196D809771F9835DF1563E4418B8:ip_addr=222.200.98.179:view_collection:collection_id=14
+2012-05-16 22:04:25,499 INFO  org.dspace.browse.BrowseEngine @ liangyy@gdut.edu.cn:session_id=D43A196D809771F9835DF1563E4418B8:ip_addr=222.200.98.179:browse_mini:
+2012-05-16 22:04:25,509 INFO  org.dspace.usage.LoggerUsageEventListener @ liangyy@gdut.edu.cn:session_id=D43A196D809771F9835DF1563E4418B8:ip_addr=222.200.98.179:view_collection:collection_id=14
+2012-05-16 22:04:25,509 ERROR org.dspace.statistics.SolrLogger @ Failed DNS Lookup for IP:222.200.98.179
+2012-05-16 22:06:03,835 INFO  org.dspace.content.Collection @ liangyy@gdut.edu.cn:session_id=D43A196D809771F9835DF1563E4418B8:ip_addr=222.200.98.179:remove_item:collection_id=14,item_id=6
+2012-05-16 22:06:03,973 INFO  org.dspace.event.EventManager @ 
+2012-05-16 22:06:04,229 INFO  org.dspace.search.DSIndexer @ Writing Item: 244055/21 to Index
+2012-05-16 22:06:04,308 INFO  org.dspace.search.DSIndexer @ Wrote Item: 244055/21 to Index
+2012-05-16 22:06:05,940 ERROR org.dspace.discovery.IndexEventConsumer @ Failed while indexing object: 
+java.lang.NullPointerException
+	at org.dspace.discovery.IndexEventConsumer.end(IndexEventConsumer.java:170)
+	at org.dspace.event.BasicDispatcher.dispatch(BasicDispatcher.java:149)
+	at org.dspace.core.Context.commit(Context.java:336)
+	at org.dspace.core.Context.complete(Context.java:300)
+	at org.dspace.app.webui.servlet.admin.ItemMapServlet.doDSPost(ItemMapServlet.java:389)
+	at org.dspace.app.webui.servlet.DSpaceServlet.processRequest(DSpaceServlet.java:115)
+	at org.dspace.app.webui.servlet.DSpaceServlet.doPost(DSpaceServlet.java:73)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:637)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.dspace.app.webui.filter.RegisteredOnlyFilter.doFilter(RegisteredOnlyFilter.java:66)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:235)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.dspace.utils.servlet.DSpaceWebappServletFilter.doFilter(DSpaceWebappServletFilter.java:78)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:235)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:102)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:298)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:859)
+	at org.apache.coyote.http11.Http11Protocol$Http11ConnectionHandler.process(Http11Protocol.java:588)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:489)
+	at java.lang.Thread.run(Thread.java:662)
+2012-05-16 22:06:13,566 INFO  org.dspace.app.webui.servlet.HandleServlet @ liangyy@gdut.edu.cn:session_id=D43A196D809771F9835DF1563E4418B8:ip_addr=222.200.98.179:view_item:handle=244055/21
+2012-05-16 22:06:13,582 INFO  org.dspace.usage.LoggerUsageEventListener @ liangyy@gdut.edu.cn:session_id=D43A196D809771F9835DF1563E4418B8:ip_addr=222.200.98.179:view_item:handle=244055/21
+2012-05-16 22:06:13,583 ERROR org.dspace.statistics.SolrLogger @ Failed DNS Lookup for IP:222.200.98.179
+2012-05-16 22:06:25,385 INFO  org.dspace.browse.BrowseEngine @ liangyy@gdut.edu.cn:session_id=D43A196D809771F9835DF1563E4418B8:ip_addr=222.200.98.179:browse_mini:
+2012-05-16 22:44:05,123 INFO  edu.calis.ir.bit.web.servlet.SolrSearchServlet @ anonymous:session_id=D55DC4596B28A15D2026A668BCA95073:ip_addr=222.200.98.179:search:query="*\colon;*",results=(10)
+2012-05-16 22:44:05,288 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=D55DC4596B28A15D2026A668BCA95073:ip_addr=222.200.98.179:browse_mini:
+2012-05-16 22:44:30,641 INFO  org.dspace.app.webui.servlet.HandleServlet @ anonymous:session_id=D55DC4596B28A15D2026A668BCA95073:ip_addr=222.200.98.179:view_community:community_id=1
+2012-05-16 22:44:30,643 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=D55DC4596B28A15D2026A668BCA95073:ip_addr=222.200.98.179:browse_mini:
+2012-05-16 22:44:30,650 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=D55DC4596B28A15D2026A668BCA95073:ip_addr=222.200.98.179:view_community:community_id=1
+2012-05-16 22:44:30,651 ERROR org.dspace.statistics.SolrLogger @ Failed DNS Lookup for IP:222.200.98.179
+2012-05-16 22:44:55,269 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=D55DC4596B28A15D2026A668BCA95073:ip_addr=222.200.98.179:browse_mini:
+2012-05-16 22:47:07,804 INFO  org.dspace.app.webui.servlet.HandleServlet @ anonymous:session_id=D55DC4596B28A15D2026A668BCA95073:ip_addr=222.200.98.179:view_community:community_id=3
+2012-05-16 22:47:07,808 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=D55DC4596B28A15D2026A668BCA95073:ip_addr=222.200.98.179:browse_mini:
+2012-05-16 22:47:07,811 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=D55DC4596B28A15D2026A668BCA95073:ip_addr=222.200.98.179:view_community:community_id=3
+2012-05-16 22:47:07,812 ERROR org.dspace.statistics.SolrLogger @ Failed DNS Lookup for IP:222.200.98.179

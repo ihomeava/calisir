@@ -1,0 +1,24 @@
+# E-mail sent with the information filled out in a comment form.
+#
+# Parameters: {0} subject
+#             {1} recipient name
+#             {2} repository name
+#             {3} sender message 
+# See org.dspace.core.Email for information on the format of this file.
+#
+Subject: {0}
+
+Hello {1}:
+
+We send you this email regarding an comment available in {2}.
+
+Personal Message: 
+
+Commenter: {3}
+Date: {4}
+Subject: {5}
+Comment: {6}
+comment Approval: {7}
+
+The DSpace digital repository system captures, stores, indexes, preserves, and distributes digital material.
+For more information, visit www.dspace.org

@@ -1,0 +1,95 @@
+@CHARSET "UTF-8";
+
+.treeMenu{
+align:left;
+width:100%;
+height:100%;
+margin:0px;
+background-color: #ffffff;
+}
+.treeMenu ul{
+
+width:100%;
+align:left;
+margin:0px;
+list-style-type:square;
+}
+.treeMenu ul ul{
+
+width:100%;
+align:left;
+margin-left:8px;
+list-style-type:square;
+}
+.treeMenu li{
+width:100%;
+align:center;
+list-style-type:circle;
+}
+.treeMenu a{
+    width:100%;
+    
+    line-height:18px;
+    display: block;
+    text-decoration: none;
+    color: #000;
+}
+.treeMenu a:hover{
+    background-color: #FFFFFF;
+    color: #060;
+    text-decoration: none;
+}
+
+.price-range-order {
+    color: #0063DC;
+    font-family: Arial;
+    position: relative;
+}
+.price-range-order:hover {
+    text-decoration: none;
+}
+.price-range-dp {
+    background-position: 100% -1704px;
+    cursor: pointer;
+    float: left;
+    height: 20px;
+    margin-left: 5px;
+    position: relative;
+    width: 13px;
+    z-index: 1;
+}
+.price-range-showbox {
+    background-color: #FFFFFF;
+    border: 1px solid #ABABAB;
+    padding: 8px;
+    text-align: left;
+}
+.price-range-showbox th, .price-range-showbox td {
+    color: #666666;
+    padding: 1px 6px 1px 2px;
+    vertical-align: middle;
+    white-space: nowrap;
+}
+.price-range-showbox th {
+    font-family: Arial;
+    text-align: left;
+}
+.price-range-showbox table {
+    overflow: hidden;
+}
+.price-range-showbox table .progressbar {
+    margin: 0;
+}
+.price-range-showbox td.describe {
+    color: #404040;
+    margin-left: 5px;
+    overflow: hidden;
+    white-space: nowrap;
+}
+.price-range-showbox .visited th {
+    color: #808080;
+}
+
+#solr_result tr td img{
+	margin-right: 30px;
+}

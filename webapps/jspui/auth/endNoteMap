@@ -1,0 +1,37 @@
+contributor.author=author=%A
+
+date.issued=Date=%8
+
+identifier.issn=ISBN/ISSN=%@
+
+identifier.uri=URL=%U
+
+identifier.doi=DOI=%R
+
+description.abstract=Abstract=%X
+
+language.iso=Language=%G
+
+publisher=Publisher=%I
+
+subject=Keywords=%K
+
+title=Title=%T
+
+type=Reference Type=%0
+
+relation.ispartof=Journal Name=%J
+
+title.alternative=Alternate Title=%O
+
+contributor.authorInstitution=Author Address=%+
+
+identifier.issue=Number (Issue)=%N
+
+format.page=Pages=%P
+
+relation.conferencename=Secondary Title=%B
+
+identifier.volume=Volume=%V
+
+

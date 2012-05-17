@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<!DOCTYPE taglib
+    PUBLIC "-//Sun Microsystems, Inc.//DTD JSP Tag Library 1.1//EN"
+    "http://java.sun.com/j2ee/dtds/web-jsptaglibrary_1_1.dtd">
+
+
+<taglib>
+  <tlibversion>1.0</tlibversion>
+  <jspversion>1.1</jspversion>
+  <shortname>dspace</shortname>
+  <uri>http://edu.calis.ir.pku/WEB-INF/dsi-tags.tld</uri>
+  <info>PKU JSP tags</info>
+
+  <tag>
+    <name>mySuggestsTag</name>
+    <tagclass>edu.calis.ir.pku.jsptag.MySuggestsTag</tagclass>
+    <bodycontent>empty</bodycontent>
+    <info>Lays out a list of suggests posted by the current user.</info>
+
+
+    <attribute>
+      <name>epersonID</name>
+      <required>false</required>
+      <rtexprvalue>true</rtexprvalue>
+    </attribute>    
+   
+  </tag>
+  
+  <tag>
+    <name>itemSuggestsStatTag</name>
+    <tagclass>edu.calis.ir.pku.jsptag.ItemSuggestsStatTag</tagclass>
+    <bodycontent>empty</bodycontent>
+    <info>Lays out the amount of suggests posted to the item.</info>
+
+
+    <attribute>
+      <name>resourceID</name>
+      <required>true</required>
+      <rtexprvalue>true</rtexprvalue>
+    </attribute>    
+   
+  </tag>
+
+</taglib>

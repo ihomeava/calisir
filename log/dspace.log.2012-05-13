@@ -1,0 +1,64 @@
+2012-05-13 01:00:02,562 INFO  org.dspace.core.ConfigurationManager @ Loading from classloader: file:/usr/local/CALISIR/dspace/config/dspace.cfg
+2012-05-13 01:00:02,582 INFO  org.dspace.core.ConfigurationManager @ Using dspace provided log configuration (log.init.config)
+2012-05-13 01:00:02,582 INFO  org.dspace.core.ConfigurationManager @ Loading: /usr/local/CALISIR/dspace/config/log4j.properties
+2012-05-13 01:00:02,928 INFO  org.dspace.core.ConfigurationManager @ Loading from classloader: file:/usr/local/CALISIR/dspace/config/dspace.cfg
+2012-05-13 01:00:02,935 INFO  org.dspace.core.ConfigurationManager @ Using dspace provided log configuration (log.init.config)
+2012-05-13 01:00:02,935 INFO  org.dspace.core.ConfigurationManager @ Loading: /usr/local/CALISIR/dspace/config/log4j.properties
+2012-05-13 01:00:03,361 INFO  org.dspace.core.ConfigurationManager @ Loading from classloader: file:/usr/local/CALISIR/dspace/config/dspace.cfg
+2012-05-13 01:00:03,370 INFO  org.dspace.core.ConfigurationManager @ Using dspace provided log configuration (log.init.config)
+2012-05-13 01:00:03,370 INFO  org.dspace.core.ConfigurationManager @ Loading: /usr/local/CALISIR/dspace/config/log4j.properties
+2012-05-13 01:00:10,066 FATAL org.dspace.eperson.Subscribe @ java.util.MissingResourceException: Can't find bundle for base name Messages, locale en
+2012-05-13 02:00:02,049 INFO  org.dspace.core.ConfigurationManager @ Loading from classloader: file:/usr/local/CALISIR/dspace/config/dspace.cfg
+2012-05-13 02:00:02,069 INFO  org.dspace.core.ConfigurationManager @ Using dspace provided log configuration (log.init.config)
+2012-05-13 02:00:02,069 INFO  org.dspace.core.ConfigurationManager @ Loading: /usr/local/CALISIR/dspace/config/log4j.properties
+2012-05-13 02:00:02,470 INFO  org.dspace.core.ConfigurationManager @ Loading from classloader: file:/usr/local/CALISIR/dspace/config/dspace.cfg
+2012-05-13 02:00:02,476 INFO  org.dspace.core.ConfigurationManager @ Using dspace provided log configuration (log.init.config)
+2012-05-13 02:00:02,476 INFO  org.dspace.core.ConfigurationManager @ Loading: /usr/local/CALISIR/dspace/config/log4j.properties
+2012-05-13 02:00:02,794 INFO  org.dspace.core.ConfigurationManager @ Loading from classloader: file:/usr/local/CALISIR/dspace/config/dspace.cfg
+2012-05-13 02:00:02,802 INFO  org.dspace.core.ConfigurationManager @ Using dspace provided log configuration (log.init.config)
+2012-05-13 02:00:02,803 INFO  org.dspace.core.ConfigurationManager @ Loading: /usr/local/CALISIR/dspace/config/log4j.properties
+2012-05-13 02:00:08,096 INFO  org.dspace.search.DSIndexer @ Writing Collection: 244055/33 to Index
+2012-05-13 02:00:08,106 INFO  org.dspace.search.DSIndexer @ Writing Collection: 244055/7 to Index
+2012-05-13 02:00:08,107 INFO  org.dspace.search.DSIndexer @ Writing Collection: 244055/15 to Index
+2012-05-13 02:00:08,109 INFO  org.dspace.search.DSIndexer @ Writing Collection: 244055/20 to Index
+2012-05-13 02:00:08,111 INFO  org.dspace.search.DSIndexer @ Writing Collection: 244055/10 to Index
+2012-05-13 02:00:08,112 INFO  org.dspace.search.DSIndexer @ Writing Collection: 244055/17 to Index
+2012-05-13 02:00:08,113 INFO  org.dspace.search.DSIndexer @ Writing Collection: 244055/9 to Index
+2012-05-13 02:00:08,114 INFO  org.dspace.search.DSIndexer @ Writing Collection: 244055/18 to Index
+2012-05-13 02:00:08,115 INFO  org.dspace.search.DSIndexer @ Writing Collection: 244055/11 to Index
+2012-05-13 02:00:08,116 INFO  org.dspace.search.DSIndexer @ Writing Collection: 244055/8 to Index
+2012-05-13 02:00:08,117 INFO  org.dspace.search.DSIndexer @ Writing Collection: 244055/2 to Index
+2012-05-13 02:00:08,117 INFO  org.dspace.search.DSIndexer @ Writing Collection: 244055/16 to Index
+2012-05-13 02:00:08,118 INFO  org.dspace.search.DSIndexer @ Writing Collection: 244055/19 to Index
+2012-05-13 02:00:08,119 INFO  org.dspace.search.DSIndexer @ Writing Collection: 244055/12 to Index
+2012-05-13 02:00:08,133 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/53 to Index
+2012-05-13 02:00:08,133 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/36 to Index
+2012-05-13 02:00:08,133 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/52 to Index
+2012-05-13 02:00:08,133 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/39 to Index
+2012-05-13 02:00:08,133 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/49 to Index
+2012-05-13 02:00:08,133 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/1 to Index
+2012-05-13 02:00:09,236 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/37 to Index
+2012-05-13 02:00:09,236 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/42 to Index
+2012-05-13 02:00:09,236 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/54 to Index
+2012-05-13 02:00:09,236 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/43 to Index
+2012-05-13 02:00:09,237 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/47 to Index
+2012-05-13 02:00:09,237 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/46 to Index
+2012-05-13 02:00:09,237 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/34 to Index
+2012-05-13 02:00:09,237 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/40 to Index
+2012-05-13 02:00:09,237 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/56 to Index
+2012-05-13 02:00:09,237 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/44 to Index
+2012-05-13 02:00:09,237 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/41 to Index
+2012-05-13 02:00:09,237 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/38 to Index
+2012-05-13 02:00:09,238 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/48 to Index
+2012-05-13 02:00:09,238 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/51 to Index
+2012-05-13 02:00:09,238 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/57 to Index
+2012-05-13 02:00:09,238 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/35 to Index
+2012-05-13 02:00:09,238 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/45 to Index
+2012-05-13 02:00:09,239 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/14 to Index
+2012-05-13 02:00:09,239 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/6 to Index
+2012-05-13 02:00:09,239 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/55 to Index
+2012-05-13 04:00:02,038 INFO  org.dspace.core.ConfigurationManager @ Loading from classloader: file:/usr/local/CALISIR/dspace/config/dspace.cfg
+2012-05-13 04:00:02,058 INFO  org.dspace.core.ConfigurationManager @ Using dspace provided log configuration (log.init.config)
+2012-05-13 04:00:02,058 INFO  org.dspace.core.ConfigurationManager @ Loading: /usr/local/CALISIR/dspace/config/log4j.properties
+2012-05-13 09:39:06,228 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=DC06B925DEB81C70D2959A1BAA92D0AA:ip_addr=219.223.240.8:browse_mini:
+2012-05-13 23:33:24,562 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=32091D47E70F387B3A37AE639F392886:ip_addr=14.145.63.226:browse_mini:

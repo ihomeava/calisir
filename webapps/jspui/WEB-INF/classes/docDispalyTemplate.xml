@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<templates>
+	<template id="docList"><![CDATA[
+		<tr>
+			<td style="border-bottom:#CCCCCC 1px dashed;" rowspan="3" height="120" valign="middle"><img title="{dc.type}" src="image/type/{dc.type}.png" width="45" height="60"/></td>
+			<td style="border:#3333ff 0px solid;" colspan="4">{title}</td>
+		</tr>
+		<tr>
+			<td style="border:#3333ff 0px solid;" width="80"><b>作者:</b></td>
+			<td style="border:#3333ff 0px solid;" width="250">{author_ac}</td>
+			<td style="border:#3333ff 0px solid;" width="80"><b>主题:</b></td>
+			<td style="border:#3333ff 0px solid;" width="250">{subject_ac}</td>
+			<td style="border:#3333ff 0px solid;" width="80"><b>年份:</b></td>		
+			<td style="border:#3333ff 0px solid;" width="150">{dateIssued.year}</td>		
+		</tr>
+		<tr>
+			<td style="border-bottom:#CCCCCC 1px dashed;"><b>摘要:</b></td>
+			<td style="border-bottom:#CCCCCC 1px dashed;" colspan="4">{dc.description.abstract}</td>	
+		</tr>
+	]]></template>
+	<template id="docList_title"><![CDATA[
+		<!--<tr>
+			<th style="border:#3333ff 1px solid;">title</th>
+			<th style="border:#3333ff 1px solid;">author_ac</th>
+			<th style="border:#3333ff 1px solid;">subject_ac</th>
+			<th style="border:#3333ff 1px solid;">dateIssued_ac</th>
+			<th style="border:#3333ff 1px solid;">handle</th>
+		</tr>-->
+	]]></template>
+	<template id="docList_footer"><![CDATA[
+		<tr>
+			<td colspan="5" style="border:#3333ff 0px solid;" align="right"><ul style="list-style:none;float:right;padding:3px;">
+			<li style="list-style:none;float:left;padding:3px;">返回 {doc_total_number} 个结果&nbsp;&nbsp;</li>
+			{pre}{template_docList_footer_pages}{next}
+			</ul></td>
+		</tr>
+	]]></template>
+	<template id="docList_footer_prev"><![CDATA[
+		<li style="list-style:none;float:left;padding:3px;">
+			<a href="{url}">{prev}</a>
+		</li>
+	]]></template>
+	<template id="docList_footer_next"><![CDATA[
+		<li style="list-style:none;float:left;padding:3px;">
+			<a href="{url}">{next}</a>
+		</li>
+	]]></template>
+	<template id="docList_footer_pages"><![CDATA[
+		<li style="list-style:none;float:left;padding:3px;">
+			<a href="{url}">{page}</a>
+		</li>
+	]]></template>
+	<template id="docList_footer_currentpages"><![CDATA[
+		<li style="list-style:none;float:left;padding:3px;">{page}</li>
+	]]></template>
+	<template id="subFacetList"><![CDATA[
+		<li><a href="{url}" {target}>{text}</a></li>
+	]]></template>
+	<template id="subFacet"><![CDATA[
+		<ul>{template_subFacetList}</ul>
+	]]></template>
+	<template id="facetList"><![CDATA[
+		<li><a href="{url}" {target}>{facet_title}</a>{template_subFacet}</li>
+	]]></template>
+	<template id="facet"><![CDATA[
+		<ul>{facetList}</ul>
+	]]></template>
+	<template id="subqFacetList"><![CDATA[
+		<a href="{url}" {target}>{text}</a>&nbsp;&nbsp;
+	]]></template>
+	<template id="subqFacet"><![CDATA[
+		<div>{template_subFacetList}</div>
+	]]></template>
+	<template id="qfacetList"><![CDATA[
+		<li><a href="{url}" {target}>{facet_title}</a>{template_subFacet}</li>
+	]]></template>
+	<template id="qfacet"><![CDATA[
+		<ul>{facetList}</ul>
+	]]></template>
+	<template id="tagCloudList"><![CDATA[
+		<a href="{url}" class='{color}' {target}>{text}</a>
+	]]></template>
+	<template id="tagCloud"><![CDATA[
+		<div id="cloudTag">{template_tagCloudList}</div>
+	]]></template>
+</templates>

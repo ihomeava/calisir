@@ -1,0 +1,163 @@
+<%
+/*
+ * DSpace 1.1.1 Commenting Add-on
+ * Copyright 2004, by the University of Minho <http://www.uminho.pt>, 
+ * Department of Information Systems <http://www.dsi.uminho.pt>.
+ * 
+ * This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike License. 
+ * To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/2.0/ or 
+ * send a letter to Creative Commons, 559 Nathan Abbott Way, Stanford, California 94305, USA.
+ * 
+ * For more information, please contact the authors: 
+ *   Ana Alice Baptista <analice@dsi.uminho.pt>; 
+ *   Miguel Ferreira <mferreira@dsi.uminho.pt>.
+ * 
+ */
+%>
+
+.relevantCommentThreadFloat {
+	width: 90%;
+	margin: 0px auto;
+    border-style: dotted;
+	border-width: 1px;
+	border-color: #cccccc;
+	padding: 2%: 
+}
+
+
+.relevantCommentThreadTitle {
+	margin-left: 40px; 
+	margin-top: 20px; 
+	font-family: "verdana", "Arial", "Helvetica", sans-serif;
+	font-size: 8pt;
+    font-weight: bold;
+}
+
+
+.commentMainFloat {
+	font-family: "verdana", "Arial", "Helvetica", sans-serif;
+	font-size: 8pt;
+	font-style: normal;
+	font-weight: normal;
+	font-color: black;
+	vertical-align: middle;
+	text-decoration: none;
+	width: 90%;
+	margin: 0px auto;
+
+	padding: 5px;
+}
+
+.commentMarkedResourcesFloat {
+	/* background-color: #eeeeee; */
+	/*float: right;*/
+	
+	width: 200px; 
+	/* margin: 0px auto; */
+	margin: 5px;
+    border-style: dotted;
+	border-width: 1px;
+	border-color: #cccccc;
+	/* padding: 4px: */
+}
+
+.commentMarkedResourcesTitle {
+	margin: 5px; 
+	font-family: "verdana", "Arial", "Helvetica", sans-serif;
+	font-size: 8pt;
+    font-weight: bold;
+	/* 
+	display:none;
+	margin-top: 5px; 
+	 */
+}
+
+
+.commentEntity {
+	text-align:center;
+}
+
+
+.commentMarkedEntities {
+	text-align:center;
+}
+
+.commentThreadFloat {
+    border-style: dotted;
+	border-width: 1px;
+	border-color: #cccccc;
+	padding: 2%; 
+
+}
+
+* html .commentThreadFloat {
+    border-style: dotted;
+	border-width: 1px;
+	border-color: #cccccc;
+	padding: 0; 
+
+}
+
+
+.commentThreadTitle {
+	margin-left: 40px; 
+	margin-top: 20px; 
+	font-family: "verdana", "Arial", "Helvetica", sans-serif;
+	font-size: 8pt;
+    font-weight: bold;
+}
+
+.commentListItem { 
+	font-family: "verdana", "Arial", "Helvetica", sans-serif;
+	font-size: 10pt;
+    font-weight: normal;
+	/* // LIST-STYLE: url(image/destaq1.gif); */
+	list-style-type:none;
+	margin-left:0px;
+	border-bottom: 1px solid orange;
+	padding-bottom: 5px;
+	padding-top: 5px;
+}
+
+.commentBodyText {
+	margin-left: 10px; 
+	margin-top: 0px; 
+	margin-right: 10px; 
+	padding:3px; 
+	display: none; 
+	border-width:1px; 
+	//border-left-style:solid; 
+	border-left-width:0px; 
+	border-color:#aaaaaa; 
+	border-top-width:0px; 
+	border-right-width:0px; 
+	border-bottom-width:1px; 
+	border-style:dotted; 
+	background-color:#fafafa;
+}
+
+
+.commentForm {
+	font-family: "verdana", "Arial", "Helvetica", sans-serif;
+	font-size: 8pt;
+	font-style: normal;
+	font-weight: normal;
+	font-color: black;
+	vertical-align: middle;
+	text-decoration: none;
+	/* background-color: #eeeeee; */
+	border-style: none;
+	border-width: 0px;
+	/* border-color: #cc5500; */
+}
+
+.diggit {
+    background: url("image/upup.gif") no-repeat scroll 0 0 transparent;
+    height: 52px;
+    margin-top: 2px;
+    padding-top: 5px;
+    text-align: center;
+    width: 46px;
+}
+
+<%-- --%>

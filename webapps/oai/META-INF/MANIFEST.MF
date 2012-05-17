@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Built-By: weicf
+Build-Jdk: 1.5.0_12
+Specification-Title: DSpace OAI :: Web Application
+Specification-Version: 1.8.0
+Specification-Vendor: DuraSpace
+Implementation-Title: DSpace OAI :: Web Application
+Implementation-Version: 1.8.0
+Implementation-Vendor-Id: org.dspace.modules
+Implementation-Vendor: DuraSpace
+

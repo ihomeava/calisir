@@ -1,0 +1,101 @@
+2012-05-10 01:00:03,467 INFO  org.dspace.core.ConfigurationManager @ Loading from classloader: file:/usr/local/CALISIR/dspace/config/dspace.cfg
+2012-05-10 01:00:03,480 INFO  org.dspace.core.ConfigurationManager @ Using dspace provided log configuration (log.init.config)
+2012-05-10 01:00:03,481 INFO  org.dspace.core.ConfigurationManager @ Loading: /usr/local/CALISIR/dspace/config/log4j.properties
+2012-05-10 01:00:03,605 INFO  org.dspace.core.ConfigurationManager @ Loading from classloader: file:/usr/local/CALISIR/dspace/config/dspace.cfg
+2012-05-10 01:00:03,613 INFO  org.dspace.core.ConfigurationManager @ Using dspace provided log configuration (log.init.config)
+2012-05-10 01:00:03,613 INFO  org.dspace.core.ConfigurationManager @ Loading: /usr/local/CALISIR/dspace/config/log4j.properties
+2012-05-10 01:00:04,061 INFO  org.dspace.core.ConfigurationManager @ Loading from classloader: file:/usr/local/CALISIR/dspace/config/dspace.cfg
+2012-05-10 01:00:04,070 INFO  org.dspace.core.ConfigurationManager @ Using dspace provided log configuration (log.init.config)
+2012-05-10 01:00:04,070 INFO  org.dspace.core.ConfigurationManager @ Loading: /usr/local/CALISIR/dspace/config/log4j.properties
+2012-05-10 01:00:11,554 FATAL org.dspace.eperson.Subscribe @ java.util.MissingResourceException: Can't find bundle for base name Messages, locale en
+2012-05-10 02:00:01,683 INFO  org.dspace.core.ConfigurationManager @ Loading from classloader: file:/usr/local/CALISIR/dspace/config/dspace.cfg
+2012-05-10 02:00:01,702 INFO  org.dspace.core.ConfigurationManager @ Using dspace provided log configuration (log.init.config)
+2012-05-10 02:00:01,702 INFO  org.dspace.core.ConfigurationManager @ Loading: /usr/local/CALISIR/dspace/config/log4j.properties
+2012-05-10 02:00:01,983 INFO  org.dspace.core.ConfigurationManager @ Loading from classloader: file:/usr/local/CALISIR/dspace/config/dspace.cfg
+2012-05-10 02:00:01,991 INFO  org.dspace.core.ConfigurationManager @ Using dspace provided log configuration (log.init.config)
+2012-05-10 02:00:01,991 INFO  org.dspace.core.ConfigurationManager @ Loading: /usr/local/CALISIR/dspace/config/log4j.properties
+2012-05-10 02:00:02,712 INFO  org.dspace.core.ConfigurationManager @ Loading from classloader: file:/usr/local/CALISIR/dspace/config/dspace.cfg
+2012-05-10 02:00:02,720 INFO  org.dspace.core.ConfigurationManager @ Using dspace provided log configuration (log.init.config)
+2012-05-10 02:00:02,720 INFO  org.dspace.core.ConfigurationManager @ Loading: /usr/local/CALISIR/dspace/config/log4j.properties
+2012-05-10 02:00:10,625 INFO  org.dspace.content.Bundle @ anonymous::create_bundle:bundle_id=5
+2012-05-10 02:00:10,627 INFO  org.dspace.content.Bundle @ anonymous::update_bundle:bundle_id=5
+2012-05-10 02:00:10,628 INFO  org.dspace.content.Item @ anonymous::add_bundle:item_id=2,bundle_id=5
+2012-05-10 02:00:10,745 INFO  org.dspace.content.Bitstream @ anonymous::create_bitstream:bitstream_id=5
+2012-05-10 02:00:10,749 INFO  org.dspace.content.Bundle @ anonymous::add_bitstream:bundle_id=5,bitstream_id=5
+2012-05-10 02:00:10,768 INFO  org.dspace.content.Bitstream @ anonymous::update_bitstream:bitstream_id=5
+2012-05-10 02:00:10,771 INFO  org.dspace.content.Item @ anonymous::update_item:item_id=2
+2012-05-10 02:00:10,772 INFO  org.dspace.content.Bitstream @ anonymous::update_bitstream:bitstream_id=5
+2012-05-10 02:00:11,146 INFO  org.dspace.event.EventManager @ 
+2012-05-10 02:00:11,326 INFO  org.dspace.search.DSIndexer @ Writing Item: 244055/3 to Index
+2012-05-10 02:00:11,351 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2012-05-10 02:00:11,363 INFO  org.dspace.content.MetadataSchema @ Loading schema cache for fast finds
+2012-05-10 02:00:11,403 INFO  org.dspace.search.DSIndexer @ Wrote Item: 244055/3 to Index
+2012-05-10 02:00:12,672 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Item: 244055/3 to Index
+2012-05-10 02:00:13,743 INFO  org.dspace.content.Bundle @ anonymous::create_bundle:bundle_id=6
+2012-05-10 02:00:13,744 INFO  org.dspace.content.Bundle @ anonymous::update_bundle:bundle_id=6
+2012-05-10 02:00:13,744 INFO  org.dspace.content.Item @ anonymous::add_bundle:item_id=3,bundle_id=6
+2012-05-10 02:00:13,830 INFO  org.dspace.content.Bitstream @ anonymous::create_bitstream:bitstream_id=6
+2012-05-10 02:00:13,832 INFO  org.dspace.content.Bundle @ anonymous::add_bitstream:bundle_id=6,bitstream_id=6
+2012-05-10 02:00:13,839 INFO  org.dspace.content.Bitstream @ anonymous::update_bitstream:bitstream_id=6
+2012-05-10 02:00:13,842 INFO  org.dspace.content.Item @ anonymous::update_item:item_id=3
+2012-05-10 02:00:13,842 INFO  org.dspace.content.Bitstream @ anonymous::update_bitstream:bitstream_id=6
+2012-05-10 02:00:13,858 INFO  org.dspace.search.DSIndexer @ Writing Item: 244055/4 to Index
+2012-05-10 02:00:13,870 INFO  org.dspace.search.DSIndexer @ Wrote Item: 244055/4 to Index
+2012-05-10 02:00:14,256 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Item: 244055/4 to Index
+2012-05-10 02:00:15,284 INFO  org.dspace.content.Bundle @ anonymous::create_bundle:bundle_id=7
+2012-05-10 02:00:15,284 INFO  org.dspace.content.Bundle @ anonymous::update_bundle:bundle_id=7
+2012-05-10 02:00:15,285 INFO  org.dspace.content.Item @ anonymous::add_bundle:item_id=4,bundle_id=7
+2012-05-10 02:00:15,298 INFO  org.dspace.content.Bitstream @ anonymous::create_bitstream:bitstream_id=7
+2012-05-10 02:00:15,351 INFO  org.dspace.content.Bundle @ anonymous::add_bitstream:bundle_id=7,bitstream_id=7
+2012-05-10 02:00:15,353 INFO  org.dspace.content.Bitstream @ anonymous::update_bitstream:bitstream_id=7
+2012-05-10 02:00:15,361 INFO  org.dspace.content.Item @ anonymous::update_item:item_id=4
+2012-05-10 02:00:15,361 INFO  org.dspace.content.Bitstream @ anonymous::update_bitstream:bitstream_id=7
+2012-05-10 02:00:15,377 INFO  org.dspace.search.DSIndexer @ Writing Item: 244055/5 to Index
+2012-05-10 02:00:15,401 INFO  org.dspace.search.DSIndexer @ Wrote Item: 244055/5 to Index
+2012-05-10 02:00:15,706 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Item: 244055/5 to Index
+2012-05-10 02:00:15,771 INFO  org.dspace.search.DSIndexer @ Writing Collection: 244055/33 to Index
+2012-05-10 02:00:15,772 INFO  org.dspace.search.DSIndexer @ Writing Collection: 244055/7 to Index
+2012-05-10 02:00:15,773 INFO  org.dspace.search.DSIndexer @ Writing Collection: 244055/15 to Index
+2012-05-10 02:00:15,774 INFO  org.dspace.search.DSIndexer @ Writing Collection: 244055/20 to Index
+2012-05-10 02:00:15,776 INFO  org.dspace.search.DSIndexer @ Writing Collection: 244055/10 to Index
+2012-05-10 02:00:15,777 INFO  org.dspace.search.DSIndexer @ Writing Collection: 244055/17 to Index
+2012-05-10 02:00:15,788 INFO  org.dspace.search.DSIndexer @ Writing Collection: 244055/9 to Index
+2012-05-10 02:00:15,789 INFO  org.dspace.search.DSIndexer @ Writing Collection: 244055/18 to Index
+2012-05-10 02:00:15,790 INFO  org.dspace.search.DSIndexer @ Writing Collection: 244055/11 to Index
+2012-05-10 02:00:15,791 INFO  org.dspace.search.DSIndexer @ Writing Collection: 244055/8 to Index
+2012-05-10 02:00:15,792 INFO  org.dspace.search.DSIndexer @ Writing Collection: 244055/2 to Index
+2012-05-10 02:00:15,792 INFO  org.dspace.search.DSIndexer @ Writing Collection: 244055/16 to Index
+2012-05-10 02:00:15,793 INFO  org.dspace.search.DSIndexer @ Writing Collection: 244055/19 to Index
+2012-05-10 02:00:15,794 INFO  org.dspace.search.DSIndexer @ Writing Collection: 244055/12 to Index
+2012-05-10 02:00:15,804 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/53 to Index
+2012-05-10 02:00:15,805 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/36 to Index
+2012-05-10 02:00:15,805 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/52 to Index
+2012-05-10 02:00:15,805 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/39 to Index
+2012-05-10 02:00:15,805 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/49 to Index
+2012-05-10 02:00:15,805 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/1 to Index
+2012-05-10 02:00:16,036 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/37 to Index
+2012-05-10 02:00:16,036 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/42 to Index
+2012-05-10 02:00:16,036 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/54 to Index
+2012-05-10 02:00:16,036 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/43 to Index
+2012-05-10 02:00:16,036 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/47 to Index
+2012-05-10 02:00:16,036 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/46 to Index
+2012-05-10 02:00:16,037 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/34 to Index
+2012-05-10 02:00:16,037 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/40 to Index
+2012-05-10 02:00:16,037 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/56 to Index
+2012-05-10 02:00:16,037 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/44 to Index
+2012-05-10 02:00:16,037 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/41 to Index
+2012-05-10 02:00:16,037 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/38 to Index
+2012-05-10 02:00:16,037 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/48 to Index
+2012-05-10 02:00:16,037 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/51 to Index
+2012-05-10 02:00:16,037 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/57 to Index
+2012-05-10 02:00:16,037 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/35 to Index
+2012-05-10 02:00:16,037 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/45 to Index
+2012-05-10 02:00:16,038 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/14 to Index
+2012-05-10 02:00:16,038 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/6 to Index
+2012-05-10 02:00:16,038 INFO  org.dspace.search.DSIndexer @ Writing Community: 244055/55 to Index
+2012-05-10 04:00:01,863 INFO  org.dspace.core.ConfigurationManager @ Loading from classloader: file:/usr/local/CALISIR/dspace/config/dspace.cfg
+2012-05-10 04:00:01,870 INFO  org.dspace.core.ConfigurationManager @ Using dspace provided log configuration (log.init.config)
+2012-05-10 04:00:01,870 INFO  org.dspace.core.ConfigurationManager @ Loading: /usr/local/CALISIR/dspace/config/log4j.properties
+2012-05-10 08:48:08,291 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=47A34E973E66014943D3F05409734990:ip_addr=222.200.127.20:browse_mini:
+2012-05-10 08:48:54,859 INFO  edu.calis.ir.bit.web.servlet.SolrSearchServlet @ anonymous:session_id=47A34E973E66014943D3F05409734990:ip_addr=222.200.127.20:search:query="*\colon;*",results=(10)
+2012-05-10 08:48:54,944 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=47A34E973E66014943D3F05409734990:ip_addr=222.200.127.20:browse_mini:

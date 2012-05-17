@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<calis>
+	<sso id="安徽">http://uas.ah.calis.edu.cn:8090</sso>
+	<sso id="北京">http://uas.bj.calis.edu.cn:8090</sso>
+	<sso id="重庆">http://uas.cq.calis.edu.cn:8090</sso>
+	<sso id="福建">http://uas.fj.calis.edu.cn:8090</sso>
+	<sso id="甘肃">http://uas.gs.calis.edu.cn:8090</sso>
+	<sso id="广东">http://uas.gd.calis.edu.cn:8090</sso>
+	<sso id="广西">http://uas.gx.calis.edu.cn:8090</sso>
+	<sso id="贵州">http://uas.gz.calis.edu.cn:8090</sso>
+	<sso id="海南">http://uas.hain.calis.edu.cn</sso>
+	<sso id="河北">http://uas.hb.calis.edu.cn:8090</sso>
+	<sso id="河南">http://uas.hn.calis.edu.cn:8090</sso>
+	<sso id="黑龙江">http://uas.hlj.calis.edu.cn:8090</sso>
+	<sso id="湖北">http://uas.hub.calis.edu.cn:8090</sso>
+	<sso id="湖南">http://uas.hun.calis.edu.cn:8090</sso>
+	<sso id="吉林">http://uas.jl.calis.edu.cn</sso>
+	<sso id="江苏">http://uas.js.calis.edu.cn</sso>
+	<sso id="江西">http://uas.jx.calis.edu.cn</sso>
+	<sso id="辽宁">http://uas.ln.calis.edu.cn:8090</sso>
+	<sso id="内蒙古">http://uas.nmg.calis.edu.cn:8090</sso>
+	<sso id="宁夏">http://uas.nx.calis.edu.cn:8090</sso>
+	<sso id="青海">http://uas.qh.calis.edu.cn:8090</sso>
+	<sso id="山东">http://uas.sd.calis.edu.cn:8090</sso>
+	<sso id="山西">http://uas.shanx.calis.edu.cn:8090</sso>
+	<sso id="陕西">http://uas.sx.calis.edu.cn</sso>
+	<sso id="上海">http://uas.sh.calis.edu.cn:8090</sso>
+	<sso id="四川">http://uas.sc.calis.edu.cn:8090</sso>
+	<sso id="天津">http://uas.tj.calis.edu.cn:8090</sso>
+	<sso id="西藏">http://www.xz.calis.edu.cn</sso>
+	<sso id="新疆">http://uas.xj.calis.edu.cn</sso>
+	<sso id="云南">http://uas.yn.calis.edu.cn</sso>
+	<sso id="浙江">http://zadl.zj.edu.cn	</sso>
+	<sso id="澳门">http://www.mo.calis.edu.cn</sso>
+	<sso id="外语联盟">http://www.wylm.calis.edu.cn</sso>
+</calis>

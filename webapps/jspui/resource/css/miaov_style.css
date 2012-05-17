@@ -1,0 +1,18 @@
+
+#cloudTag {position:relative; height:180px; margin: 0px auto 0;width:200px;background:#ffffff;}
+#cloudTag a {position:absolute; top:0px; left:0px; font-family: Microsoft YaHei; font-weight:bold; text-decoration:none; padding: 3px 6px; }
+#cloudTag a:hover {border: 1px solid #eee; }
+#cloudTag .color1 {color:blue;}
+#cloudTag .color2 {color:red;}
+#cloudTag .color3 {color:#00CCFF;}
+#cloudTag .color4 {color:#000080;}
+#cloudTag .color5 {color:#000066;}
+#cloudTag .color6 {color:#006600;}
+#cloudTag .color7 {color:#000000;}
+#cloudTag .color8 {color:#800000;}
+#cloudTag .color9 {color:#FF6600;}
+#cloudTag .color10 {color:#00FF00;}
+#cloudTag .color11 {color:#FFCC00;}
+#cloudTag .color12 {color:#000066;}
+#cloudTag .color13 {color:#FF6600;}
+#cloudTag .color14 {color:#000000;}

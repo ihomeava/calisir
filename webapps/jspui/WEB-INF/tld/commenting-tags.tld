@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<!DOCTYPE taglib
+    PUBLIC "-//Sun Microsystems, Inc.//DTD JSP Tag Library 1.1//EN"
+    "http://java.sun.com/j2ee/dtds/web-jsptaglibrary_1_1.dtd">
+
+
+<taglib>
+  <tlibversion>1.0</tlibversion>
+  <jspversion>1.1</jspversion>
+  <shortname>dspace</shortname>
+  <uri>http://papadocs.dsi.uminho.pt/WEB-INF/dsi-tags.tld</uri>
+  <info>Papadocs JSP tags</info>
+
+  <tag>
+    <name>commentTag</name>
+    <tagclass>pt.uminho.dsi.commenting.jsptag.CommentTag</tagclass>
+    <bodycontent>empty</bodycontent>
+    <info>Lays out a discussion forum associated with an item.</info>
+
+    <attribute>
+      <name>callerUrl</name>
+      <required>true</required>
+      <rtexprvalue>true</rtexprvalue>
+    </attribute>
+
+    <attribute>
+      <name>resourceType</name>
+      <required>true</required>
+      <rtexprvalue>true</rtexprvalue>
+    </attribute>
+
+    <attribute>
+      <name>resourceID</name>
+      <required>true</required>
+      <rtexprvalue>true</rtexprvalue>
+    </attribute>
+    
+    <attribute>
+      <name>autoApproveAnonymousComments</name>
+      <required>false</required>
+      <rtexprvalue>true</rtexprvalue>
+    </attribute>
+    
+    
+  </tag>
+
+
+  <tag>
+    <name>markedCommentTag</name>
+    <tagclass>pt.uminho.dsi.commenting.jsptag.MarkedCommentTag</tagclass>
+    <bodycontent>empty</bodycontent>
+    <info>Lays out a list of marked comments.</info>
+  </tag>
+
+
+ <tag>
+    <name>unrevisedCommentTag</name>
+    <tagclass>pt.uminho.dsi.commenting.jsptag.UnrevisedCommentTag</tagclass>
+    <bodycontent>empty</bodycontent>
+    <info>Lays out a list of unrevised comments.</info>
+    
+   <attribute>
+      <name>excludeCommentID</name>
+      <required>false</required>
+      <rtexprvalue>true</rtexprvalue>
+    </attribute>    
+  </tag>
+
+
+  <tag>
+    <name>relevantCommentTag</name>
+    <tagclass>pt.uminho.dsi.commenting.jsptag.RelevantCommentTag</tagclass>
+    <bodycontent>empty</bodycontent>
+    <info>Lays out a list of generally relevant comments.</info>
+    
+    <attribute>
+      <name>scopeResourceType</name>
+      <required>false</required>
+      <rtexprvalue>true</rtexprvalue>
+    </attribute>
+
+    <attribute>
+      <name>scopeResourceID</name>
+      <required>false</required>
+      <rtexprvalue>true</rtexprvalue>
+    </attribute>
+
+    <attribute>
+      <name>maximumRelevantComments</name>
+      <required>false</required>
+      <rtexprvalue>true</rtexprvalue>
+    </attribute>
+
+    
+  </tag>
+
+
+  <tag>
+    <name>myCommentsTag</name>
+    <tagclass>pt.uminho.dsi.commenting.jsptag.MyCommentsTag</tagclass>
+    <bodycontent>empty</bodycontent>
+    <info>Lays out a list of comments posted by the current user.</info>
+
+
+    <attribute>
+      <name>epersonID</name>
+      <required>false</required>
+      <rtexprvalue>true</rtexprvalue>
+    </attribute>    
+   
+  </tag>
+
+</taglib>
